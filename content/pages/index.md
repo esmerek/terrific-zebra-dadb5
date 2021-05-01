@@ -6,11 +6,9 @@ sections:
     type: section_hero
     title: Digital Transformation Fast Forward
     content: >
-      Sometimes you just need someone you trust to get the job done. 
-
-
-      Epic Fusion is the magic that happens when an organization and our
-      collective connect.
+      Sometimes you just need someone you trust to get the job done. **Epic
+      Fusion** is the magic that happens when an organization and our collective
+      connect.
     actions:
       - label: Let's talk
         url: /contact
