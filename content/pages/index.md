@@ -5,9 +5,12 @@ sections:
   - section_id: hero
     type: section_hero
     title: Digital Transformation Fast Forward
-    content: >-
-      This section can contain a subtitle or tagline. The recommended length is
-      one to three sentences, but can be changed as you prefer.
+    content: >
+      Sometimes you just need someone you trust to get the job done. 
+
+
+      Epic Fusion is the magic that happens when an organization and our
+      collective connect.
     actions:
       - label: Let's talk
         url: /contact
