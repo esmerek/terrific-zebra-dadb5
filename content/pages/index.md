@@ -32,7 +32,7 @@ sections:
       - title: TEst
         image_alt: lorem-ipsum
         content: >
-          ## A
+          ## The Art of Modern Work
 
 
           Lorem ipsum dolor sit amet, **consectetur adipiscing elit**, sed do
