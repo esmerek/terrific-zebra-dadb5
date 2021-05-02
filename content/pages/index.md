@@ -6,9 +6,9 @@ sections:
     type: section_hero
     title: Mindset is everything.
     content: >
-      Sometimes you just need someone you trust to get the job done. **Epic
-      Fusion** is the magic that happens when an organization and our collective
-      connect.
+      Epic Fusion is here to move your digital initiatives into the new reality.
+      Based on High-Impact and Horizon-Focus. **Epic Fusion** is the magic that
+      happens when an organization and our collective connect.
     actions:
       - label: Let the magic happen
         url: /contact
