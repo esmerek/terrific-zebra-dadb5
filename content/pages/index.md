@@ -53,7 +53,7 @@ sections:
           changing world are among the most pressing challenges today. We build
           lasting strategies and the foundation for cloud service management.
         actions:
-          - label: lorem-ipsum
+          - label: Enable it!
             url: '#'
             style: button
             icon: dribbble
