@@ -2,7 +2,7 @@
 title: The Art of Modern Work
 subtitle: Optional Project Subtitle
 date: '2019-05-10'
-thumb_image: images/header-modern-work.jpg
+thumb_image: images/a14086e5-a1e5-4fc7-8bae-65a0bd3d0436.jpg
 thumb_image_alt: 'White, black, and red shoe sole'
 image: images/1.jpg
 image_alt: 'White, black, and red shoe sole'
