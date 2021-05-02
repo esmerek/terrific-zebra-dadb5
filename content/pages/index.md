@@ -29,7 +29,7 @@ sections:
       Our services are shaped to move your digital initiatives into the new
       reality.
     col_number: three
-    is_numbered: true
+    is_numbered: false
     grid_items:
       - title: TEst
         image_alt: lorem-ipsum
