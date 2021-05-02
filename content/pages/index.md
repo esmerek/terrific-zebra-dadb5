@@ -61,7 +61,7 @@ sections:
           the ideal environment to serve your needs in an iterative,
           value-oriented and continously improving way.
         actions:
-          - label: ' tratS'
+          - label: atS
             url: '#'
             style: link
             icon: dribbble
