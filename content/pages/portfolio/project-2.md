@@ -2,7 +2,7 @@
 title: Cloud Enablement
 subtitle: Optional Project Subtitle
 date: '2019-04-30'
-thumb_image: images/Screen-Shot-2018-07-11-at-10.29.03-AM.png
+thumb_image: images/header-modern-work.jpg
 thumb_image_alt: An orange on a blue background
 image: images/2.jpg
 image_alt: An orange on a blue background
