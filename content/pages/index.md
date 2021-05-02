@@ -84,7 +84,7 @@ sections:
           value-oriented and continously improving way.
 
         actions:
-          - label: lorem-ipsum
+          - label: Refresh it!
             url: '#'
             style: button
             icon: dribbble
