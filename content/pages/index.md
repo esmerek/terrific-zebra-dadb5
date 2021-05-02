@@ -4,7 +4,7 @@ hide_title: true
 sections:
   - section_id: hero
     type: section_hero
-    title: Digital Transformation. Fast Forward
+    title: Mindset is everything.
     content: >
       Sometimes you just need someone you trust to get the job done. **Epic
       Fusion** is the magic that happens when an organization and our collective
