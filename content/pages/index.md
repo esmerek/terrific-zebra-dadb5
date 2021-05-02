@@ -78,7 +78,7 @@ sections:
     title: What We Do
     subtitle: An optional subtitle of the section
     col_number: two
-    is_numbered: true
+    is_numbered: false
     grid_items:
       - title: The Art of Modern Work
         content: >
