@@ -33,10 +33,6 @@ seo:
       relativeUrl: true
 layout: page
 ---
-
-
-#
-
 #### Equality
 
 The principles of equality and diversity are fundamental pillars of our organization. We are committed to creating and fostering a diverse team with people from all walks of life. We purposefully encourage inclusion through compassion and respect in all of our interactions.
@@ -64,57 +60,6 @@ We engage in thoughtful disagreement and exchange ideas, even when they are cont
 #### Gratitude
 
 We show gratitude for the freedom we’re fortunate enough to have to practice these values, unlike many less fortunate people around the world. We work towards giving more people these opportunities and create an impact back to humanity.
-
-\------------
-
-## Quoting
-
-Lorem ipsum dolor sit amet, consectetuer adipiscing elit.
-
-> Creativity is allowing yourself to make mistakes. Design is knowing which ones to keep. <cite>Scott Adams</cite>
-
-Morbi commodo, ipsum sed pharetra gravida, orci magna rhoncus neque, id pulvinar odio lorem non turpis. Nullam sit amet enim. Suspendisse id velit vitae ligula volutpat condimentum. Aliquam erat volutpat. Sed quis velit. Nulla facilisi. Nulla libero.
-
-***
-
-## Code Blocks
-
-Blocks of code are either fenced by lines with three back-ticks, or are indented with four spaces.
-
-    <!-- Some example CSS code -->
-    body {
-      color:red;
-    }
-
-## Tables
-
-<table>
-    <caption>Table with thead, tfoot, and tbody</caption>
-  <thead>
-    <tr>
-      <th>Header content 1</th>
-      <th>Header content 2</th>
-    </tr>
-  </thead>
-  <tbody>
-    <tr>
-      <td>Body content 1</td>
-      <td>Body content 2</td>
-    </tr>
-  </tbody>
-  <tfoot>
-    <tr>
-      <td>Footer content 1</td>
-      <td>Footer content 2</td>
-    </tr>
-  </tfoot>
-</table>
-
-
-
-**This is a paragraph**. Pellentesque habitant morbi *tristique senectus et netus et malesuada* fames ac turpis egestas. Vestibulum [tortor quam](https://www.google.com), feugiat vitae, ultricies eget, tempor sit amet, ante. Donec eu libero sit amet quam egestas semper. Aenean ultricies mi vitae est. Mauris placerat eleifend leo. Quisque sit \<mark>amet est et sapien ullamcorper\</mark> pharetra. Vestibulum erat wisi, condimentum sed, commodo vitae, ornare sit amet, wisi.
-
-
 
 
 
