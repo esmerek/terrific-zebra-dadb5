@@ -54,7 +54,7 @@ sections:
           lasting strategies and the foundation for cloud service management.
         actions: []
         type: grid_item
-      - title: lorem-ipsum
+      - title: Collective Impact
         image_alt: lorem-ipsum
         content: >-
           ## Lorem ipsum
