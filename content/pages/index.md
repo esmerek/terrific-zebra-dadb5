@@ -36,7 +36,7 @@ sections:
           the ideal environment to serve your needs in an iterative,
           value-oriented and continously improving way.
 
-      - title: lorem-ipsum
+      - title: Digital DNA
         image_alt: lorem-ipsum
         content: >-
           ## Lorem ipsum
