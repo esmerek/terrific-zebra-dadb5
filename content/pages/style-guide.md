@@ -49,7 +49,6 @@ We believe that our collective of committed, cross-functional people with a grow
 
 Passion is our performance enhancer. As such, we focus on the work that our heart beats for - work that unlocks people’s potential so that they can create more impact on ourselves and our clients needs.
 
-
 #### Learn-It-All
 
 We are committed to an everlearning culture and believe that talents and abilities can be developed through intentional learning and persistence. We believe in challenging the status quo, in optimising and continuously improving - every day - in order drive long-term sustainable growth and impact.
@@ -62,20 +61,15 @@ We are committed to an agile evolutionary organization with distributed authorit
 
 We engage in thoughtful disagreement and exchange ideas, even when they are controversial, based on a guiding philosophy of ‘strong opinions, weakly held’. We provide feedback to each other empathically to help us learn, grow, build character and differentiate ourselves. We always take ownership for our work.
 
-
 #### Gratitude
 
-We show gratitude for the freedom we’re fortunate enough to have to practice these values, unlike many less fortunate people around the world. We work towards giving more people these opportunities and create an impact back to humanity. 
+We show gratitude for the freedom we’re fortunate enough to have to practice these values, unlike many less fortunate people around the world. We work towards giving more people these opportunities and create an impact back to humanity.
 
 
 
-### This is an H3
+\------------
 
-Lorem ipsum dolor sit amet, consectetuer adipiscing elit. Morbi commodo, ipsum sed pharetra gravida, orci magna rhoncus neque, id pulvinar odio lorem non turpis. Nullam sit amet enim. Suspendisse id velit vitae ligula volutpat condimentum. Aliquam erat volutpat. Sed quis velit. Nulla facilisi. Nulla libero.
 
-#### This is an H4
-
-Quisque facilisis erat a dui. Nam malesuada ornare dolor. Cras gravida, diam sit amet rhoncus ornare, erat elit consectetuer erat, id egestas pede nibh eget odio. Proin tincidunt, velit vel porta elementum, magna diam molestie sapien, non aliquet massa pede eu diam. Aliquam iaculis.
 
 ## Quoting
 
