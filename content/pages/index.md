@@ -83,7 +83,14 @@ sections:
           the ideal environment to serve your needs in an iterative,
           value-oriented and continously improving way.
 
-        actions: []
+        actions:
+          - label: lorem-ipsum
+            url: '#'
+            style: link
+            icon: dribbble
+            new_window: false
+            no_follow: false
+            type: action
         type: grid_item
     type: section_grid
   - title: lorem-ipsum
