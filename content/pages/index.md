@@ -7,8 +7,8 @@ sections:
     title: Mindset is everything.
     content: >
       Epic Fusion is here to move your digital initiatives into the new reality.
-      Based on High-Impact and Horizon-Focus. **Epic Fusion** is the magic that
-      happens when an organization and our collective connect.
+      On a baseline of High-Impact and Horizon-Focus we let the magic happen 
+      towards your Digital Tomorrow.
     actions:
       - label: Let the magic happen
         url: /contact
