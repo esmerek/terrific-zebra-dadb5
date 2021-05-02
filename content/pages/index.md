@@ -37,21 +37,6 @@ sections:
           value-oriented and continously improving way.
 
       - title: Digital DNA
-        image_alt: lorem-ipsum
-        content: >-
-          ## Lorem ipsum
-
-
-          Lorem ipsum dolor sit amet, **consectetur adipiscing elit**, sed do
-          eiusmod tempor incididunt ut labore et dolore magna aliqua.
-
-
-          - Lorem ipsum
-
-          - dolor sit amet
-        actions: []
-        type: grid_item
-      - title: Digital DNA
         content: >+
           We shape a strategy of how we integrate people and culture into the
           foundation of a digital strategy. Change, paradigm shift and
