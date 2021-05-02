@@ -41,9 +41,11 @@ layout: page
 
 The principles of equality and diversity are fundamental pillars of our organization. We are committed to creating and fostering a diverse team with people from all walks of life. We purposefully encourage inclusion through compassion and respect in all of our interactions.
 
-## This is an H2
+#### Community
 
-Lorem ipsum dolor sit amet, consectetuer adipiscing elit. Morbi commodo, ipsum sed pharetra gravida, orci magna rhoncus neque, id pulvinar odio lorem non turpis. Nullam sit amet enim. Suspendisse id velit vitae ligula volutpat condimentum. Aliquam erat volutpat. Sed quis velit. Nulla facilisi. Nulla libero.
+We believe that our collective of committed, cross-functional people with a growth mindset, an intense customer-centric focus and a culture of rapid experimentation has no limits on what it can achieve. We don’t let ego get in the way of meaningful progress.
+
+
 
 ### This is an H3
 
