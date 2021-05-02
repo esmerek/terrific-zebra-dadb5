@@ -56,17 +56,10 @@ sections:
         type: grid_item
       - title: Collective Impact
         image_alt: lorem-ipsum
-        content: >-
-          ## Lorem ipsum
-
-
-          Lorem ipsum dolor sit amet, **consectetur adipiscing elit**, sed do
-          eiusmod tempor incididunt ut labore et dolore magna aliqua.
-
-
-          - Lorem ipsum
-
-          - dolor sit amet
+        content: >
+          Together we organize a powerful team. With an agile coach we establish
+          the ideal environment to serve your needs in an iterative,
+          value-oriented and continously improving way.
         actions: []
         type: grid_item
     type: section_grid
