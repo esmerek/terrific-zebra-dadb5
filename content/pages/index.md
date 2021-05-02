@@ -37,9 +37,12 @@ sections:
           value-oriented and continously improving way.
 
       - title: Digital DNA
-        content: >-
-          Vestibulum a nunc ut eros condimentum posuere. Nullam dapibus quis
-          nunc non interdum. Pellentesque tortor ligula, gravida ac commodo eu.
+        content: >+
+          We shape a strategy of how we integrate people and culture into the
+          foundation of a digital strategy. Change, paradigm shift and
+          leadership are the essential key subjects that we focus on throughout
+          the transformation process.
+
   - section_id: testimonials
     type: section_testimonials
     title: Testimonials
