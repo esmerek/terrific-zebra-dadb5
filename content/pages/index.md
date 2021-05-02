@@ -19,7 +19,7 @@ sections:
       Our services are shaped to move your digital initiatives into the new
       reality.
     layout_style: mosaic
-    projects_number: 3
+    projects_number: 5
     view_all_label: lorem-ipsum
     view_all_url: '#'
     type: section_portfolio
