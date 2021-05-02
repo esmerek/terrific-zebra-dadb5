@@ -45,7 +45,7 @@ sections:
         actions:
           - label: Learn more
             url: '#'
-            style: icon
+            style: button
             icon: dribbble
             new_window: false
             no_follow: false
