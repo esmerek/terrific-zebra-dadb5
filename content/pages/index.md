@@ -21,6 +21,14 @@ sections:
     view_all_label: lorem-ipsum
     view_all_url: '#'
     type: section_portfolio
+  - title: lorem-ipsum
+    section_id: lorem-ipsum
+    subtitle: lorem-ipsum
+    layout_style: mosaic
+    projects_number: 0
+    view_all_label: lorem-ipsum
+    view_all_url: '#'
+    type: section_portfolio
   - section_id: services
     type: section_grid
     title: What We Do
