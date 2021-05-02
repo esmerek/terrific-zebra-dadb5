@@ -1,6 +1,8 @@
 ---
 title: Services
-subtitle: This is an optional subtitle for the portfolio page.
+subtitle: >-
+  Our services are shaped to move your digital initiatives into the new reality.
+  Learn more.
 layout_style: mosaic
 seo:
   title: Portfolio
