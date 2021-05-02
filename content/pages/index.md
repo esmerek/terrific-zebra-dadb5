@@ -49,7 +49,7 @@ sections:
             no_follow: false
             type: action
         type: grid_item
-      - title: lorem-ipsum
+      - title: Cloud Enablement
         image_alt: lorem-ipsum
         content: >
           ### Cloud Enablement
