@@ -52,7 +52,14 @@ sections:
           To meet highest security demands and governance procedures in a daily
           changing world are among the most pressing challenges today. We build
           lasting strategies and the foundation for cloud service management.
-        actions: []
+        actions:
+          - label: lorem-ipsum
+            url: '#'
+            style: link
+            icon: dribbble
+            new_window: false
+            no_follow: false
+            type: action
         type: grid_item
       - title: Collective Impact
         image_alt: lorem-ipsum
