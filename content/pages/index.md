@@ -10,7 +10,7 @@ sections:
       Fusion** is the magic that happens when an organization and our collective
       connect.
     actions:
-      - label: Let's transform
+      - label: Let's connect
         url: /contact
         style: button
   - title: Who we are
