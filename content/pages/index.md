@@ -52,16 +52,9 @@ sections:
       - title: Cloud Enablement
         image_alt: lorem-ipsum
         content: >
-          ### Cloud Enablement
-
-
-          Lorem ipsum dolor sit amet, **consectetur adipiscing elit**, sed do
-          eiusmod tempor incididunt ut labore et dolore magna aliqua.
-
-
-          *   Lorem ipsum
-
-          *   dolor sit amet
+          To meet highest security demands and governance procedures in a daily
+          changing world are among the most pressing challenges today. We build
+          lasting strategies and the foundation for cloud service management.
         actions: []
         type: grid_item
     type: section_grid
