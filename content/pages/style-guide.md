@@ -37,7 +37,7 @@ layout: page
 
 #
 
-### Equality
+#### Equality
 
 The principles of equality and diversity are fundamental pillars of our organization. We are committed to creating and fostering a diverse team with people from all walks of life. We purposefully encourage inclusion through compassion and respect in all of our interactions.
 
