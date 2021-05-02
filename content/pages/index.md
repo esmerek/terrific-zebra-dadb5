@@ -37,13 +37,9 @@ sections:
           ## The Art of Modern Work
 
 
-          Lorem ipsum dolor sit amet, **consectetur adipiscing elit**, sed do
-          eiusmod tempor incididunt ut labore et dolore magna aliqua.
-
-
-          *   Lorem ipsum
-
-          *   dolor sit amet
+          The foundation for a successful shift to continuous transformation is
+          the integration of people, culture and technology. This is how we
+          create an outstanding user experience.
         actions:
           - label: Learn more
             url: '#'
