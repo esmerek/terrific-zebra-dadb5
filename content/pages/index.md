@@ -17,17 +17,7 @@ sections:
     section_id: lorem-ipsum
     subtitle: lorem-ipsum
     image_alt: lorem-ipsum
-    content: >-
-      ## Lorem ipsum
-
-
-      Lorem ipsum dolor sit amet, **consectetur adipiscing elit**, sed do
-      eiusmod tempor incididunt ut labore et dolore magna aliqua.
-
-
-      - Lorem ipsum
-
-      - dolor sit amet
+    content: "## We unleash\_people's talent\_to create\_collective impact\n\nTogether we rise Epic Fusion as an agile evolutionary organization towards tomorrow. We believe in distributed authority and collective intelligence to grow each and every day. Born in 2021 we are committed to building the distributed future and choose talent over locality.\n\n"
     type: section_content
   - title: Epic Fusion! What?
     section_id: lorem-ipsum
