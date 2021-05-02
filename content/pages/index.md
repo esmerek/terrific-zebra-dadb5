@@ -24,7 +24,7 @@ sections:
     subtitle: >-
       Our services are shaped to move your digital initiatives into the new
       reality.
-    layout_style: tiles
+    layout_style: mosaic
     projects_number: 3
     view_all_label: lorem-ipsum
     view_all_url: '#'
