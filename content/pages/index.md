@@ -13,7 +13,7 @@ sections:
       - label: Let's talk
         url: /contact
         style: button
-  - title: lorem-ipsum
+  - title: Who we are
     section_id: lorem-ipsum
     subtitle: lorem-ipsum
     image_alt: lorem-ipsum
