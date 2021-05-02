@@ -13,7 +13,7 @@ sections:
       - label: Let the magic happen
         url: /contact
         style: button
-  - title: Why?
+  - title: Why does Epic Fusion exists?
     section_id: lorem-ipsum
     subtitle: lorem-ipsum
     image_alt: lorem-ipsum
