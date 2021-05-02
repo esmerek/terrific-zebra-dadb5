@@ -1,5 +1,5 @@
 ---
-title: Style Guide
+title: What we commit ourselves to
 subtitle: We are driven by strong values to learn and grow every day
 seo:
   title: Theme Style Guide
