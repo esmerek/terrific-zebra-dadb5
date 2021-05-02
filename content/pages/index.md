@@ -34,7 +34,7 @@ sections:
       - title: TEst
         image_alt: lorem-ipsum
         content: >
-          ## The Art of Modern Work
+          ### The Art of Modern Work
 
 
           The foundation for a successful shift to continuous transformation is
