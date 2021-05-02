@@ -31,7 +31,7 @@ sections:
     col_number: three
     is_numbered: false
     grid_items:
-      - title: TEst
+      - title: The Art of Modern Work
         image_alt: lorem-ipsum
         content: >
           ### The Art of Modern Work
