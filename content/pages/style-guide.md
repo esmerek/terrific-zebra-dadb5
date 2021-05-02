@@ -60,7 +60,3 @@ We engage in thoughtful disagreement and exchange ideas, even when they are cont
 #### Gratitude
 
 We show gratitude for the freedom we’re fortunate enough to have to practice these values, unlike many less fortunate people around the world. We work towards giving more people these opportunities and create an impact back to humanity.
-
-
-
-#
