@@ -26,10 +26,10 @@ sections:
           the integration of people, culture and technology. This is how we
           create an outstanding user experience.
       - title: Service Title
-        content: >-
-          Donec lobortis velit sed suscipit lobortis. Ut non quam metus. Nullam
-          a maximus mi. Quisque justo nunc, sollicitudin euismod euismod at,
-          tincidunt ut tellus.
+        content: >
+          To meet highest security demands and governance procedures in a daily
+          changing world are among the most pressing challenges today. We build
+          lasting strategies and the foundation for cloud service management.
       - title: Service Title
         content: >-
           Sed laoreet magna commodo libero euismod sodales. Nunc ac libero
