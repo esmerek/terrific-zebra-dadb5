@@ -21,7 +21,9 @@ sections:
     type: section_content
   - title: Discover how we serve you towards Digital Tomorrow
     section_id: lorem-ipsum
-    subtitle: lorem-ipsum
+    subtitle: >-
+      Our services are shaped to move your digital initiatives into the new
+      reality. Learn more.
     layout_style: tiles
     projects_number: 3
     view_all_label: lorem-ipsum
