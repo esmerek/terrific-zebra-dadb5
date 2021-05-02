@@ -76,7 +76,7 @@ sections:
             no_follow: false
             type: action
         type: grid_item
-      - title: lorem-ipsum
+      - title: Application Modernization
         image_alt: lorem-ipsum
         content: >-
           ## Lorem ipsum
