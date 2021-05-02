@@ -34,9 +34,6 @@ sections:
       - title: The Art of Modern Work
         image_alt: lorem-ipsum
         content: >
-          ### The Art of Modern Work
-
-
           The foundation for a successful shift to continuous transformation is
           the integration of people, culture and technology. This is how we
           create an outstanding user experience.
