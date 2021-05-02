@@ -21,10 +21,10 @@ sections:
     is_numbered: true
     grid_items:
       - title: Service Title
-        content: >-
-          Lorem ipsum dolor sit amet, consectetur adipiscing elit. Donec nisl
-          ligula, cursus id molestie vel, maximus aliquet risus. Vivamus in nibh
-          fringilla, fringilla.
+        content: >
+          The foundation for a successful shift to continuous transformation is
+          the integration of people, culture and technology. This is how we
+          create an outstanding user experience.
       - title: Service Title
         content: >-
           Donec lobortis velit sed suscipit lobortis. Ut non quam metus. Nullam
