@@ -29,7 +29,7 @@ sections:
     col_number: three
     is_numbered: false
     grid_items:
-      - title: lorem-ipsum
+      - title: TEst
         image_alt: lorem-ipsum
         content: >
           ## A
