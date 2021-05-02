@@ -13,13 +13,6 @@ sections:
       - label: Let's talk
         url: /contact
         style: button
-      - label: lorem-ipsum
-        url: '#'
-        style: button
-        icon: dribbble
-        new_window: false
-        no_follow: false
-        type: action
   - title: Who we are
     section_id: lorem-ipsum
     subtitle: lorem-ipsum
