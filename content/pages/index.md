@@ -30,7 +30,7 @@ sections:
           To meet highest security demands and governance procedures in a daily
           changing world are among the most pressing challenges today. We build
           lasting strategies and the foundation for cloud service management.
-      - title: Service Title
+      - title: Application Modernization
         content: >-
           Sed laoreet magna commodo libero euismod sodales. Nunc ac libero
           convallis, interdum ligula vel, pretium diam. Integer commodo sem at
