@@ -13,13 +13,6 @@ sections:
       - label: Let the magic happen
         url: /contact
         style: button
-  - title: Why does Epic Fusion exists?
-    section_id: lorem-ipsum
-    subtitle: lorem-ipsum
-    image_alt: lorem-ipsum
-    content: "#### We unleash\_people's talent\_to create\_collective impact\n\nTogether we rise Epic Fusion as an agile evolutionary organization towards tomorrow. We believe in distributed authority and collective intelligence to grow each and every day. Born in 2021 we are committed to building the distributed future and choose talent over locality.\n"
-    type: section_content
-    image: images/8K Background epicfusion.png
   - title: Discover how we serve you towards Digital Tomorrow
     section_id: lorem-ipsum
     subtitle: >-
