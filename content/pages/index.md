@@ -36,7 +36,7 @@ sections:
           the ideal environment to serve your needs in an iterative,
           value-oriented and continously improving way.
 
-      - title: Service title
+      - title: Digital DNA
         content: >-
           Vestibulum a nunc ut eros condimentum posuere. Nullam dapibus quis
           nunc non interdum. Pellentesque tortor ligula, gravida ac commodo eu.
