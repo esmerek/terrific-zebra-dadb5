@@ -65,11 +65,7 @@ We engage in thoughtful disagreement and exchange ideas, even when they are cont
 
 We show gratitude for the freedom we’re fortunate enough to have to practice these values, unlike many less fortunate people around the world. We work towards giving more people these opportunities and create an impact back to humanity.
 
-
-
 \------------
-
-
 
 ## Quoting
 
@@ -81,21 +77,7 @@ Morbi commodo, ipsum sed pharetra gravida, orci magna rhoncus neque, id pulvinar
 
 ***
 
-## Unordered Lists
 
-*   Donec non tortor in arcu mollis feugiat
-*   Lorem ipsum dolor sit amet, consectetuer adipiscing elit
-*   Donec id eros eget quam aliquam gravida
-*   Vivamus convallis urna id felis
-*   Nulla porta tempus sapien
-
-## Ordered Lists
-
-1.  Donec non tortor in arcu mollis feugiat
-2.  Lorem ipsum dolor sit amet, consectetuer adipiscing elit
-3.  Donec id eros eget quam aliquam gravida
-4.  Vivamus convallis urna id felis
-5.  Nulla porta tempus sapien
 
 ## Code Blocks
 
