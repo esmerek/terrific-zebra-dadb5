@@ -23,7 +23,7 @@ sections:
     section_id: lorem-ipsum
     subtitle: >-
       Our services are shaped to move your digital initiatives into the new
-      reality. Learn more.
+      reality.
     layout_style: tiles
     projects_number: 3
     view_all_label: lorem-ipsum
