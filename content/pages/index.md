@@ -31,10 +31,11 @@ sections:
           changing world are among the most pressing challenges today. We build
           lasting strategies and the foundation for cloud service management.
       - title: Application Modernization
-        content: >-
-          Sed laoreet magna commodo libero euismod sodales. Nunc ac libero
-          convallis, interdum ligula vel, pretium diam. Integer commodo sem at
-          dui sollicitudin.
+        content: >+
+          Together we organize a powerful team. With an agile coach we establish
+          the ideal environment to serve your needs in an iterative,
+          value-oriented and continously improving way.
+
       - title: Service title
         content: >-
           Vestibulum a nunc ut eros condimentum posuere. Nullam dapibus quis
