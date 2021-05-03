@@ -46,7 +46,7 @@ sections:
           changing world are among the most pressing challenges today. We build
           lasting strategies and the foundation for cloud service management.
         actions:
-          - label: Enable it!
+          - label: Change now
             url: '#'
             style: button
             icon: dribbble
