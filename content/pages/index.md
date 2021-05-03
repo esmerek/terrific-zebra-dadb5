@@ -74,11 +74,11 @@ sections:
         type: grid_item
       - title: Reinventing Processes
         image_alt: lorem-ipsum
-        content: >+
-          Together we organize a powerful team. With an agile coach we establish
-          the ideal environment to serve your needs in an iterative,
-          value-oriented and continously improving way.
-
+        content: >
+          To enable true transformation, we need to rethink and reinvent
+          processes. We provide facilitation and toolsets to drive process
+          design and business operations into a new dimension. In doing so, we
+          push transformation initiatives towards the digital tomorrow.
         actions:
           - label: Start
             url: '#'
