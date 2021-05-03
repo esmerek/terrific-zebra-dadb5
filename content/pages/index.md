@@ -27,9 +27,10 @@ sections:
       - title: Digital Workplace
         image_alt: lorem-ipsum
         content: >
-          The foundation for a successful shift to continuous transformation is
-          the integration of people, culture and technology. This is how we
-          create an outstanding user experience.
+          Work anywhere. Bring your own device. Homeoffice. A modern digital
+          workplace combines today's needs with accessible solutions. We enable
+          the infrastructure and security features to ensure that employees can
+          focus on their teamwork.
         actions:
           - label: Learn more
             url: '#'
