@@ -80,7 +80,7 @@ sections:
           design and business operations into a new dimension. In doing so, we
           push transformation initiatives towards the digital tomorrow.
         actions:
-          - label: Start
+          - label: Disrupt it
             url: '#'
             style: button
             icon: dribbble
