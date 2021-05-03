@@ -13,11 +13,6 @@ sections:
     content: >
       Lorem ipsum dolor sit amet, **consectetur adipiscing elit**, sed do
       eiusmod tempor incididunt ut labore et dolore magna aliqua.
-
-
-      *   Lorem ipsum
-
-      *   dolor sit amet
     type: section_content
   - title: Teamwork
     section_id: lorem-ipsum
