@@ -2,7 +2,7 @@
 title: Our Competences
 hide_title: true
 sections:
-  - title: lorem-ipsum
+  - title: Competences
     section_id: lorem-ipsum
     content: >-
       ## Lorem ipsum
