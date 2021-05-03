@@ -17,25 +17,6 @@ sections:
       - dolor sit amet
     actions: []
     type: section_hero
-  - title: Digital Workplace
-    section_id: lorem-ipsum
-    subtitle: lorem-ipsum
-    col_number: three
-    is_numbered: false
-    grid_items:
-      - title: Digit
-        image_alt: lorem-ipsum
-        content: >
-          Lorem ipsum dolor sit amet, **consectetur adipiscing elit**, sed do
-          eiusmod tempor incididunt ut labore et dolore magna aliqua.
-
-
-          *   Lorem ipsum
-
-          *   dolor sit amet
-        actions: []
-        type: grid_item
-    type: section_grid
   - title: lorem-ipsum
     section_id: lorem-ipsum
     subtitle: lorem-ipsum
