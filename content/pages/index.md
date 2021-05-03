@@ -21,7 +21,6 @@ sections:
     type: section_posts
   - title: Competences
     section_id: lorem-ipsum
-    subtitle: We know how to move your digital initiatives into the new reality.
     col_number: two
     is_numbered: false
     grid_items:
