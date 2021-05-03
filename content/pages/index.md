@@ -15,7 +15,6 @@ sections:
         style: button
   - title: Updates
     section_id: lorem-ipsum
-    subtitle: lorem-ipsum
     posts_number: 3
     col_number: three
     actions: []
