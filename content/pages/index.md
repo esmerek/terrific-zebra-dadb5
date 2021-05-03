@@ -100,9 +100,10 @@ sections:
           enablement.
       - title: Employee Experience
         content: >
-          To meet highest security demands and governance procedures in a daily
-          changing world are among the most pressing challenges today. We build
-          lasting strategies and the foundation for cloud service management.
+          The foundation for a successful shift to continuous transformation is
+          the integration of people, culture and technology. We are not
+          reinventing the wheel. But we unite to create holistic, simple and
+          easy solutions that every employee loves.
       - title: Application Modernization
         content: >+
           Together we organize a powerful team. With an agile coach we establish
