@@ -18,7 +18,7 @@ sections:
     subtitle: >-
       Our services are shaped to move your digital initiatives into the new
       reality.
-    col_number: two
+    col_number: three
     is_numbered: true
     grid_items:
       - title: The Art of Modern Work
