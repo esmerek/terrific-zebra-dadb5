@@ -13,7 +13,7 @@ sections:
       - label: Let the magic happen
         url: /contact
         style: button
-  - title: lorem-ipsum
+  - title: Updates
     section_id: lorem-ipsum
     subtitle: lorem-ipsum
     posts_number: 3
