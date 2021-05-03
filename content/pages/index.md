@@ -86,7 +86,7 @@ sections:
             type: action
         type: grid_item
     type: section_grid
-  - section_id: services
+  - section_id: startservices
     type: section_grid
     title: Services
     col_number: two
