@@ -18,6 +18,15 @@
                 "style": "link"
             },
             {
+                "label": "Competences",
+                "url": "/competences/",
+                "style": "link",
+                "icon": "dribbble",
+                "new_window": false,
+                "no_follow": false,
+                "type": "action"
+            },
+            {
                 "label": "Blog",
                 "url": "/blog/",
                 "style": "link"
@@ -36,15 +45,6 @@
                 "label": "Contact",
                 "url": "/contact/",
                 "style": "link"
-            },
-            {
-                "label": "Competences",
-                "url": "/competences/",
-                "style": "link",
-                "icon": "dribbble",
-                "new_window": false,
-                "no_follow": false,
-                "type": "action"
             }
         ],
         "logo_img": "images/26-04-_2021_19-04-30.png"
