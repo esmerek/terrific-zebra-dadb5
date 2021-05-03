@@ -13,7 +13,7 @@ sections:
       - label: Let the magic happen
         url: /contact
         style: button
-  - title: Our Competences
+  - title: Competences
     section_id: lorem-ipsum
     subtitle: lorem-ipsum
     image_alt: lorem-ipsum
