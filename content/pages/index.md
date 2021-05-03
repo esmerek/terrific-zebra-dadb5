@@ -93,11 +93,11 @@ sections:
     is_numbered: false
     grid_items:
       - title: Cloud Enablement
-        content: >+
+        content: >
           To meet highest security demands and governance procedures in a daily
           changing world are among the most pressing challenges today. We build
-          lasting strategies and the foundation for cloud service management.
-
+          lasting strategies and the foundation to ensure cloud service
+          enablement.
       - title: Employee Experience
         content: >
           To meet highest security demands and governance procedures in a daily
