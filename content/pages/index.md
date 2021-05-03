@@ -83,7 +83,7 @@ sections:
     type: section_grid
   - section_id: services
     type: section_grid
-    title: What We Do
+    title: Services
     subtitle: An optional subtitle of the section
     col_number: two
     is_numbered: true
