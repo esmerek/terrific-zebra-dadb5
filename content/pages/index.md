@@ -26,7 +26,7 @@ sections:
 
       #### Reinventing Processes.
     type: section_content
-  - title: lorem-ipsum
+  - title: Services
     section_id: lorem-ipsum
     subtitle: lorem-ipsum
     image_alt: lorem-ipsum
