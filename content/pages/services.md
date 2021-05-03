@@ -2,7 +2,7 @@
 title: Our Competences
 hide_title: true
 sections:
-  - title: Competences
+  - title: Services
     section_id: lorem-ipsum
     actions: []
     type: section_hero
