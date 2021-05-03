@@ -67,7 +67,7 @@ sections:
             no_follow: false
             type: action
         type: grid_item
-      - title: Collective Impact
+      - title: Teamwork
         image_alt: lorem-ipsum
         content: >
           Together we organize a powerful team. With an agile coach we establish
