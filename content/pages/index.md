@@ -59,9 +59,10 @@ sections:
       - title: Teamwork
         image_alt: lorem-ipsum
         content: >
-          Together we organize a powerful team. With an agile coach we establish
-          the ideal environment to serve your needs in an iterative,
-          value-oriented and continously improving way.
+          Collaboration means communication, sharing and interaction. We focus
+          on how we can unite and integrate these aspects, how user groups are
+          formed and interact to bring data together. Accessible data and short
+          digital paths lead to valuable results.
         actions:
           - label: Start Impact
             url: '#'
