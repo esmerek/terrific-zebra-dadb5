@@ -30,7 +30,7 @@ sections:
 
       *   dolor sit amet
     type: section_content
-  - title: lorem-ipsum
+  - title: Teamwork
     section_id: lorem-ipsum
     subtitle: lorem-ipsum
     image_alt: lorem-ipsum
