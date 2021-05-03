@@ -52,7 +52,7 @@ sections:
             no_follow: false
             type: action
         type: grid_item
-      - title: Cloud Enablement
+      - title: Change Culture
         image_alt: lorem-ipsum
         content: >
           To meet highest security demands and governance procedures in a daily
