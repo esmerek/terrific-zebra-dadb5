@@ -32,7 +32,7 @@ sections:
           the infrastructure and security features to ensure that employees can
           focus on their teamwork.
         actions:
-          - label: Learn more
+          - label: Enable it
             url: '#'
             style: button
             icon: dribbble
