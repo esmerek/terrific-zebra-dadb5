@@ -105,11 +105,10 @@ sections:
           reinventing the wheel. But we unite to create holistic, simple and
           easy solutions that every employee loves.
       - title: Application Modernization
-        content: >+
-          Together we organize a powerful team. With an agile coach we establish
-          the ideal environment to serve your needs in an iterative,
-          value-oriented and continously improving way.
-
+        content: >
+          For modernization, we build the foundation with a process assessment.
+          This is the basis for refactoring, a new UI/UX design and a DevOps
+          operating model. We squeeze value of out the data given.
       - title: Agile Project Guidance
         content: >+
           We shape a strategy of how we integrate people and culture into the
