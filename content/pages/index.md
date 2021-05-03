@@ -17,17 +17,10 @@ sections:
     section_id: lorem-ipsum
     subtitle: lorem-ipsum
     image_alt: lorem-ipsum
-    content: >
-      ### Digital Workplace. Change Culture. Reinventing Processes.
+    content: |
+      ### Teamwork. Digital Workplace. Change Culture. Reinventing Processes.
 
-
-      Lorem ipsum dolor sit amet, **consectetur adipiscing elit**, sed do
-      eiusmod tempor incididunt ut labore et dolore magna aliqua.
-
-
-      *   Lorem ipsum
-
-      *   dolor sit amet
+      t
     type: section_content
   - title: Our Competences
     section_id: lorem-ipsum
