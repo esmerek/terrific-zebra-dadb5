@@ -1,7 +1,7 @@
 ---
 title: About Us
 subtitle: Who we are
-image: images/8K Background epicfusion.png
+image: images/epic-fusion-thin.png
 image_alt: A man taking a picture
 seo:
   title: About Us
