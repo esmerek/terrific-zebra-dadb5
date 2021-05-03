@@ -77,7 +77,7 @@ sections:
           value-oriented and continously improving way.
 
         actions:
-          - label: Refresh it!
+          - label: Disruption please
             url: '#'
             style: button
             icon: dribbble
