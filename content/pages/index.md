@@ -35,7 +35,7 @@ sections:
       Our services are shaped to move your digital initiatives into the new
       reality.
     col_number: two
-    is_numbered: true
+    is_numbered: false
     grid_items:
       - title: Digital Workplace
         image_alt: lorem-ipsum
