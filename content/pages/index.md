@@ -31,7 +31,7 @@ sections:
           the integration of people, culture and technology. This is how we
           create an outstanding user experience.
         actions:
-          - label: Learn the Art
+          - label: Learn more
             url: '#'
             style: button
             icon: dribbble
