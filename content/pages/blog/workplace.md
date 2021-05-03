@@ -1,5 +1,5 @@
 ---
-title: The Art of The Workplace Design
+title: The Art of Modern Work
 excerpt: >-
   Vis accumsan feugiat adipiscing nisl amet adipiscing accumsan blandit accumsan
   sapien blandit ac amet faucibus aliquet placerat commodo.
