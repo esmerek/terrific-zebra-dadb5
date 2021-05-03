@@ -17,7 +17,7 @@ sections:
       - dolor sit amet
     actions: []
     type: section_hero
-  - title: lorem-ipsum
+  - title: Digital Workplace
     section_id: lorem-ipsum
     subtitle: lorem-ipsum
     col_number: three
