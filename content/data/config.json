@@ -47,7 +47,8 @@
                 "style": "button"
             }
         ],
-        "logo_img": "images/26-04-_2021_19-04-30.png"
+        "logo_img": "images/26-04-_2021_19-04-30.png",
+        "logo_img_alt": "Epic Fusion"
     },
     "footer": {
         "content": "&copy; Epic Fusion GmbH. All rights reserved.",
