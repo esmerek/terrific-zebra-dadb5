@@ -17,15 +17,14 @@ sections:
     section_id: lorem-ipsum
     subtitle: lorem-ipsum
     image_alt: lorem-ipsum
-    content: |+
-      #### Teamwork. 
+    content: |
+      #### Teamwork.
 
-      #### Digital Workplace. 
+      #### Change Culture.
 
-      #### Change Culture. 
+      #### Digital Workplace.
 
       #### Reinventing Processes.
-
     type: section_content
   - title: Our Competences
     section_id: lorem-ipsum
