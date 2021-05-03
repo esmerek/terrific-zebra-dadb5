@@ -27,13 +27,13 @@
                 "style": "link"
             },
             {
-                "label": "Blog",
-                "url": "/blog/",
+                "label": "Values",
+                "url": "/style-guide/",
                 "style": "link"
             },
             {
-                "label": "Values",
-                "url": "/style-guide/",
+                "label": "Blog",
+                "url": "/blog/",
                 "style": "link"
             },
             {
