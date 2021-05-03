@@ -105,7 +105,7 @@ sections:
           the ideal environment to serve your needs in an iterative,
           value-oriented and continously improving way.
 
-      - title: Digital DNA
+      - title: Agile Project Guidance
         content: >+
           We shape a strategy of how we integrate people and culture into the
           foundation of a digital strategy. Change, paradigm shift and
