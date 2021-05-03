@@ -13,19 +13,6 @@ sections:
       - label: Let the magic happen
         url: /contact
         style: button
-  - title: Competences
-    section_id: lorem-ipsum
-    subtitle: lorem-ipsum
-    image_alt: lorem-ipsum
-    content: |
-      #### Teamwork.
-
-      #### Change Culture.
-
-      #### Digital Workplace.
-
-      #### Reinventing Processes.
-    type: section_content
   - title: Services
     section_id: lorem-ipsum
     subtitle: lorem-ipsum
