@@ -39,7 +39,7 @@ sections:
 
       #### Lean Agile Project Guidance.
     type: section_content
-  - title: Our Competences
+  - title: Competences
     section_id: lorem-ipsum
     subtitle: >-
       Our services are shaped to move your digital initiatives into the new
