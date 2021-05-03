@@ -29,7 +29,7 @@ sections:
 
       *   dolor sit amet
     type: section_content
-  - title: Discover how we serve you towards Digital Tomorrow
+  - title: Our Competences
     section_id: lorem-ipsum
     subtitle: >-
       Our services are shaped to move your digital initiatives into the new
