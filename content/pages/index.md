@@ -26,8 +26,6 @@ sections:
 
       #### Reinventing Processes.
     type: section_content
-    image: >-
-      images/ocean-3840x2160-5k-4k-wallpaper-8k-sea-nature-underwater-water-sun-386.jpg
   - title: Our Competences
     section_id: lorem-ipsum
     subtitle: >-
