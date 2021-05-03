@@ -20,7 +20,7 @@ sections:
     actions: []
     type: section_posts
   - title: Competences
-    section_id: lorem-ipsum
+    section_id: start-Competences
     col_number: two
     is_numbered: false
     grid_items:
