@@ -18,16 +18,6 @@ sections:
     subtitle: >-
       Our services are shaped to move your digital initiatives into the new
       reality.
-    layout_style: mosaic
-    projects_number: 5
-    view_all_label: lorem-ipsum
-    view_all_url: '#'
-    type: section_portfolio
-  - title: Discover how we serve you towards Digital Tomorrow
-    section_id: lorem-ipsum
-    subtitle: >-
-      Our services are shaped to move your digital initiatives into the new
-      reality.
     col_number: three
     is_numbered: false
     grid_items:
