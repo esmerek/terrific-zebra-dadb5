@@ -30,17 +30,14 @@ sections:
     section_id: lorem-ipsum
     subtitle: lorem-ipsum
     image_alt: lorem-ipsum
-    content: >-
-      ## Lorem ipsum
+    content: |
+      #### Cloud Enablement.
 
+      #### Employee Experience.
 
-      Lorem ipsum dolor sit amet, **consectetur adipiscing elit**, sed do
-      eiusmod tempor incididunt ut labore et dolore magna aliqua.
+      #### Application Modernization.
 
-
-      - Lorem ipsum
-
-      - dolor sit amet
+      #### Lean Agile Project Guidance.
     type: section_content
   - title: Our Competences
     section_id: lorem-ipsum
