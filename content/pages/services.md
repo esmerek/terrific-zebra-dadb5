@@ -6,7 +6,7 @@ sections:
     section_id: lorem-ipsum
     actions: []
     type: section_hero
-  - title: Modern Workplace
+  - title: Cloud Enablement
     section_id: lorem-ipsum
     subtitle: lorem-ipsum
     image_alt: lorem-ipsum
