@@ -13,19 +13,6 @@ sections:
       - label: Let the magic happen
         url: /contact
         style: button
-  - title: Services
-    section_id: lorem-ipsum
-    subtitle: lorem-ipsum
-    image_alt: lorem-ipsum
-    content: |
-      #### Cloud Enablement.
-
-      #### Employee Experience.
-
-      #### Application Modernization.
-
-      #### Lean Agile Project Guidance.
-    type: section_content
   - title: Competences
     section_id: lorem-ipsum
     subtitle: We know how to move your digital initiatives into the new reality.
