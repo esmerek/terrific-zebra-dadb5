@@ -18,7 +18,7 @@ sections:
     subtitle: lorem-ipsum
     image_alt: lorem-ipsum
     content: >
-      ## Digital Workplace. Change Culture. Reinventing Processes.
+      ### Digital Workplace. Change Culture. Reinventing Processes.
 
 
       Lorem ipsum dolor sit amet, **consectetur adipiscing elit**, sed do
