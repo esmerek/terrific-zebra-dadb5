@@ -94,7 +94,7 @@ sections:
           changing world are among the most pressing challenges today. We build
           lasting strategies and the foundation for cloud service management.
 
-      - title: Cloud Enablement
+      - title: Employee Experience
         content: >
           To meet highest security demands and governance procedures in a daily
           changing world are among the most pressing challenges today. We build
