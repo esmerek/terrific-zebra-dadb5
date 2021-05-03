@@ -5,8 +5,8 @@ sections:
   - section_id: contact-form
     type: section_form
     content: >
-      Thank you so much for your interest in working together. Please fill the
-      contact form below or send us an email at hello@epicfusion.com.
+      How can we serve? We are pleased to help. Please fill the contact form
+      below or send us directly an email at hello@epicfusion.com.
     form_id: contactForm
     form_action: /thank-you
     form_fields:
