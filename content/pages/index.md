@@ -89,7 +89,6 @@ sections:
   - section_id: services
     type: section_grid
     title: Services
-    subtitle: An optional subtitle of the section
     col_number: two
     is_numbered: false
     grid_items:
