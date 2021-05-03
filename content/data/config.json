@@ -44,7 +44,7 @@
             {
                 "label": "Contact",
                 "url": "/contact/",
-                "style": "link"
+                "style": "button"
             }
         ],
         "logo_img": "images/26-04-_2021_19-04-30.png"
