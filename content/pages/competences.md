@@ -32,7 +32,7 @@ sections:
 
       *   dolor sit amet
     type: section_content
-  - title: lorem-ipsum
+  - title: Change Culture
     section_id: lorem-ipsum
     subtitle: lorem-ipsum
     image_alt: lorem-ipsum
