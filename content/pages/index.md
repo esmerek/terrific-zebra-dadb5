@@ -110,12 +110,10 @@ sections:
           This is the basis for refactoring, a new UI/UX design and a DevOps
           operating model. We squeeze value of out the data given.
       - title: Agile Project Guidance
-        content: >+
-          We shape a strategy of how we integrate people and culture into the
-          foundation of a digital strategy. Change, paradigm shift and
-          leadership are the essential key subjects that we focus on throughout
-          the transformation process.
-
+        content: >
+          Together we organize a powerful team. We establish guidance and the
+          ideal environment to serve your needs in an iterative, value-oriented
+          and continously improving way.
 seo:
   title: Stackbit Exto Theme
   description: The preview of the Exto theme
