@@ -41,9 +41,7 @@ sections:
     type: section_content
   - title: Competences
     section_id: lorem-ipsum
-    subtitle: >-
-      Our services are shaped to move your digital initiatives into the new
-      reality.
+    subtitle: We know how to move your digital initiatives into the new reality.
     col_number: two
     is_numbered: false
     grid_items:
