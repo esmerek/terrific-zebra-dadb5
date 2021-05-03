@@ -89,10 +89,11 @@ sections:
     is_numbered: true
     grid_items:
       - title: Cloud Enablement
-        content: >
-          The foundation for a successful shift to continuous transformation is
-          the integration of people, culture and technology. This is how we
-          create an outstanding user experience.
+        content: >+
+          To meet highest security demands and governance procedures in a daily
+          changing world are among the most pressing challenges today. We build
+          lasting strategies and the foundation for cloud service management.
+
       - title: Cloud Enablement
         content: >
           To meet highest security demands and governance procedures in a daily
