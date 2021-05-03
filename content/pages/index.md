@@ -42,9 +42,10 @@ sections:
       - title: Change Culture
         image_alt: lorem-ipsum
         content: >
-          To meet highest security demands and governance procedures in a daily
-          changing world are among the most pressing challenges today. We build
-          lasting strategies and the foundation for cloud service management.
+          We shape a strategy of how we integrate people and culture into the
+          foundation of a digital strategy. Change, paradigm shift and
+          leadership are the essential key subjects that we focus on throughout
+          a continous transformation process.
         actions:
           - label: Change now
             url: '#'
