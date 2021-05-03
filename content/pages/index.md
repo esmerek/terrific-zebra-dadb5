@@ -88,7 +88,7 @@ sections:
     col_number: two
     is_numbered: true
     grid_items:
-      - title: The Art of Modern Work
+      - title: Cloud Enablement
         content: >
           The foundation for a successful shift to continuous transformation is
           the integration of people, culture and technology. This is how we
