@@ -37,7 +37,7 @@ sections:
     col_number: three
     is_numbered: true
     grid_items:
-      - title: The Art of Modern Work
+      - title: Digital Workplace
         image_alt: lorem-ipsum
         content: >
           The foundation for a successful shift to continuous transformation is
