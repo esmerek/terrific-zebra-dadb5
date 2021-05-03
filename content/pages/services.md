@@ -30,7 +30,7 @@ sections:
       Lorem ipsum dolor sit amet, **consectetur adipiscing elit**, sed do
       eiusmod tempor incididunt ut labore et dolore magna aliqua.
     type: section_content
-  - title: lorem-ipsum
+  - title: Application Modernization
     section_id: lorem-ipsum
     subtitle: lorem-ipsum
     image_alt: lorem-ipsum
