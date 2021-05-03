@@ -1,5 +1,5 @@
 ---
-title: lorem-A
+title: Our Competences
 hide_title: true
 sections:
   - title: lorem-ipsum
