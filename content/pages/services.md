@@ -18,9 +18,12 @@ sections:
     section_id: lorem-ipsum
     subtitle: lorem-ipsum
     image_alt: lorem-ipsum
-    content: >
-      Lorem ipsum dolor sit amet, **consectetur adipiscing elit**, sed do
-      eiusmod tempor incididunt ut labore et dolore magna aliqua.
+    content: >+
+      The foundation for a successful shift to continuous transformation is the
+      integration of people, culture and technology. We are not reinventing the
+      wheel. But we unite to create holistic, simple and easy solutions that
+      every employee loves.
+
     type: section_content
   - title: Agile Project Guidance
     section_id: lorem-ipsum
