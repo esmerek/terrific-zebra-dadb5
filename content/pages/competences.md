@@ -27,7 +27,6 @@ sections:
     type: section_content
   - title: Change Culture
     section_id: lorem-ipsum
-    subtitle: lorem-ipsum
     image_alt: lorem-ipsum
     content: >+
       We shape a strategy of how we integrate people and culture into the
