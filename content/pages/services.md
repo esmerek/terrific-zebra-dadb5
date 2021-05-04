@@ -44,7 +44,7 @@ sections:
 
     type: section_content
 seo:
-  title: ''
+  title: Services - Epic Fusion GmbH
   description: ''
   robots: []
   extra: []
