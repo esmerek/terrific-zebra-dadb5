@@ -29,8 +29,9 @@ sections:
     subtitle: lorem-ipsum
     image_alt: lorem-ipsum
     content: >
-      Lorem ipsum dolor sit amet, **consectetur adipiscing elit**, sed do
-      eiusmod tempor incididunt ut labore et dolore magna aliqua.
+      Together we organize a powerful team. We establish guidance and the ideal
+      environment to serve your needs in an iterative, value-oriented and
+      continously improving way.
     type: section_content
   - title: Application Modernization
     section_id: lorem-ipsum
