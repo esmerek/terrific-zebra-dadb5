@@ -18,9 +18,9 @@ sections:
 
       #### Vertretungsberechtigte Personen
 
-      Sanche Baskaran
+      *   Sanche Baskaran
 
-      Andreas Schmerek
+      *   Andreas Schmerek
 
       #### Handeslregistereintrag
 
