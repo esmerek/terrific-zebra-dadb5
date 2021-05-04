@@ -47,7 +47,7 @@ sections:
       initiatives towards the digital tomorrow.
     type: section_content
 seo:
-  title: Epic Fusion - Competences
+  title: Competences - Epic Fusion GmbH
   description: ''
   robots: []
   extra: []
