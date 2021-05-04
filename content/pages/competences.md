@@ -37,7 +37,6 @@ sections:
     type: section_content
   - title: Reinventing Processes
     section_id: lorem-ipsum
-    subtitle: lorem-ipsum
     image_alt: lorem-ipsum
     content: >
       To enable true transformation, we need to rethink and reinvent processes.
