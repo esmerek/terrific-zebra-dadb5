@@ -4,7 +4,6 @@ hide_title: true
 sections:
   - title: Impressum
     section_id: lorem-ipsum
-    subtitle: lorem-ipsum
     image_alt: lorem-ipsum
     content: |+
       #### Kontaktadresse
