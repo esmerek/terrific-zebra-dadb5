@@ -8,7 +8,6 @@ sections:
     type: section_hero
   - title: Modern Workplace
     section_id: lorem-ipsum
-    subtitle: lorem-ipsum
     image_alt: lorem-ipsum
     content: >
       Work anywhere. Bring your own device. Homeoffice. A modern digital
