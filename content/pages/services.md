@@ -26,7 +26,6 @@ sections:
     type: section_content
   - title: Agile Project Guidance
     section_id: lorem-ipsum
-    subtitle: lorem-ipsum
     image_alt: lorem-ipsum
     content: >
       Together we organize a powerful team. We establish guidance and the ideal
