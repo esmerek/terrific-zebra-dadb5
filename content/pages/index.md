@@ -118,7 +118,7 @@ sections:
           Together we organize a powerful team. We establish guidance and the
           ideal environment to serve your needs in an iterative, value-oriented
           and continously improving way.
-    subtitle: How we solve your challenges
+    subtitle: What we offer to move towards your digital tomorrow
 seo:
   title: Stackbit Exto Theme
   description: The preview of the Exto theme
