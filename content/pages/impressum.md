@@ -18,6 +18,10 @@ sections:
 
       #### Vertretungsberechtigte Personen
 
+      Sanche Baskaran
+
+      Andreas Schmerek
+
       #### Handeslregistereintrag
 
       ##### Mehrwertsteuernummer
