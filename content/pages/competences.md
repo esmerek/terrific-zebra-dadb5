@@ -11,8 +11,10 @@ sections:
     subtitle: lorem-ipsum
     image_alt: lorem-ipsum
     content: >
-      Lorem ipsum dolor sit amet, **consectetur adipiscing elit**, sed do
-      eiusmod tempor incididunt ut labore et dolore magna aliqua.
+      Work anywhere. Bring your own device. Homeoffice. A modern digital
+      workplace combines today's needs with accessible solutions. We enable the
+      infrastructure and security features to ensure that employees can focus on
+      their teamwork.
     type: section_content
   - title: Teamwork
     section_id: lorem-ipsum
