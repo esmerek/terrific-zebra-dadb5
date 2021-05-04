@@ -64,7 +64,7 @@ sections:
           formed and interact to bring data together. Accessible data and short
           digital paths lead to valuable results.
         actions:
-          - label: Start Impact
+          - label: Connect it
             url: '#'
             style: button
             icon: dribbble
