@@ -16,7 +16,6 @@ sections:
     type: section_content
   - title: Employee Experience
     section_id: lorem-ipsum
-    subtitle: lorem-ipsum
     image_alt: lorem-ipsum
     content: >+
       The foundation for a successful shift to continuous transformation is the
