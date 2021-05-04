@@ -11,8 +11,9 @@ sections:
     subtitle: lorem-ipsum
     image_alt: lorem-ipsum
     content: >
-      Lorem ipsum dolor sit amet, **consectetur adipiscing elit**, sed do
-      eiusmod tempor incididunt ut labore et dolore magna aliqua.
+      To meet highest security demands and governance procedures in a daily
+      changing world are among the most pressing challenges today. We build
+      lasting strategies and the foundation to ensure cloud service enablement.
     type: section_content
   - title: Employee Experience
     section_id: lorem-ipsum
