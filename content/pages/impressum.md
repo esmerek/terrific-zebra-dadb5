@@ -27,7 +27,7 @@ sections:
       #### Haftungsauschluss
     type: section_content
 seo:
-  title: ''
+  title: Impressum - Epic Fusion GmbH
   description: ''
   robots: []
   extra: []
