@@ -35,7 +35,7 @@ sections:
       transformation process.
 
     type: section_content
-  - title: lorem-ipsum
+  - title: Reinventing Processes
     section_id: lorem-ipsum
     subtitle: lorem-ipsum
     image_alt: lorem-ipsum
