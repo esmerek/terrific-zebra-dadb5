@@ -39,17 +39,11 @@ sections:
     section_id: lorem-ipsum
     subtitle: lorem-ipsum
     image_alt: lorem-ipsum
-    content: >-
-      ## Lorem ipsum
-
-
-      Lorem ipsum dolor sit amet, **consectetur adipiscing elit**, sed do
-      eiusmod tempor incididunt ut labore et dolore magna aliqua.
-
-
-      - Lorem ipsum
-
-      - dolor sit amet
+    content: >
+      To enable true transformation, we need to rethink and reinvent processes.
+      We provide facilitation and toolsets to drive process design and business
+      operations into a new dimension. In doing so, we push transformation
+      initiatives towards the digital tomorrow.
     type: section_content
 seo:
   title: ''
