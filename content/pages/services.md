@@ -37,14 +37,11 @@ sections:
     section_id: lorem-ipsum
     subtitle: lorem-ipsum
     image_alt: lorem-ipsum
-    content: >
-      Lorem ipsum dolor sit amet, **consectetur adipiscing elit**, sed do
-      eiusmod tempor incididunt ut labore et dolore magna aliqua.
+    content: >+
+      For modernization, we build the foundation with a process assessment. This
+      is the basis for refactoring, a new UI/UX design and a DevOps operating
+      model. We squeeze value of out the data given.
 
-
-      *   Lorem ipsum
-
-      *   dolor sit amet
     type: section_content
 seo:
   title: ''
