@@ -29,9 +29,12 @@ sections:
     section_id: lorem-ipsum
     subtitle: lorem-ipsum
     image_alt: lorem-ipsum
-    content: >
-      Lorem ipsum dolor sit amet, **consectetur adipiscing elit**, sed do
-      eiusmod tempor incididunt ut labore et dolore magna aliqua.
+    content: >+
+      We shape a strategy of how we integrate people and culture into the
+      foundation of a digital strategy. Change, paradigm shift and leadership
+      are the essential key subjects that we focus on throughout a continous
+      transformation process.
+
     type: section_content
 seo:
   title: ''
