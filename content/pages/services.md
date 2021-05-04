@@ -8,7 +8,6 @@ sections:
     type: section_hero
   - title: Cloud Enablement
     section_id: lorem-ipsum
-    subtitle: lorem-ipsum
     image_alt: lorem-ipsum
     content: >
       To meet highest security demands and governance procedures in a daily
