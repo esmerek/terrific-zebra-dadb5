@@ -4,7 +4,9 @@ subtitle: We are driven by strong values to learn and grow every day
 image_alt: lorem-ipsum
 seo:
   title: Our Values
-  description: A reference for suggested typographic treatment and styles for your content
+  description: >-
+    Epic Fusion is driven by strong values to learn and grow everyday . This is
+    what we commit ourselfes to.
   extra:
     - name: 'og:type'
       value: website
