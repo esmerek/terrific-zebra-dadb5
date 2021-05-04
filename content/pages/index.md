@@ -121,7 +121,9 @@ sections:
     subtitle: What we offer to move towards your digital tomorrow
 seo:
   title: Epic Fusion GmbH - Mindset is everything.
-  description: 'Modern Workplace, Change Culture, Reinventing Processses.'
+  description: >-
+    Epic Fusion moves your digital initiatives into the new reality. Digital
+    Workplace, Change Culture and Employee 
   extra:
     - name: 'og:type'
       value: website
