@@ -35,7 +35,6 @@ sections:
     type: section_content
   - title: Application Modernization
     section_id: lorem-ipsum
-    subtitle: lorem-ipsum
     image_alt: lorem-ipsum
     content: >+
       For modernization, we build the foundation with a process assessment. This
