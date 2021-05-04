@@ -17,7 +17,6 @@ sections:
     type: section_content
   - title: Teamwork
     section_id: lorem-ipsum
-    subtitle: lorem-ipsum
     image_alt: lorem-ipsum
     content: >+
       Collaboration means communication, sharing and interaction. We focus on
