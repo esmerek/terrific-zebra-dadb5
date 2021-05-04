@@ -2,7 +2,7 @@
 title: Impressum
 hide_title: true
 sections:
-  - title: lorem-ipsum
+  - title: Impressum
     section_id: lorem-ipsum
     subtitle: lorem-ipsum
     image_alt: lorem-ipsum
