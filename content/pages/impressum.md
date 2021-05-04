@@ -9,15 +9,11 @@ sections:
       #### Kontaktadresse
 
       Epic Fusion GmbH
-
       Kranichweg 2
-
       3074 Muri bei Bern
-
       CH - Switzerland
 
-      Tel. 
-
+      Tel.
       hello@epicfusion.com
 
       #### Vertretungsberechtigte Personen
