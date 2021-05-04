@@ -121,7 +121,7 @@ sections:
     subtitle: What we offer to move towards your digital tomorrow
 seo:
   title: Epic Fusion GmbH - Mindset is everything.
-  description: The preview of the Exto theme
+  description: 'Modern Workplace, Change Culture, Reinventing Processses.'
   extra:
     - name: 'og:type'
       value: website
