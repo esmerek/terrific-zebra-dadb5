@@ -86,7 +86,7 @@
         "links": [
             {
                 "label": "Imprint",
-                "url": "#",
+                "url": "/impressum",
                 "style": "link",
                 "icon": "dribbble",
                 "new_window": false,
