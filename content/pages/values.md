@@ -3,7 +3,7 @@ title: What we commit ourselves to
 subtitle: We are driven by strong values to learn and grow every day
 image_alt: lorem-ipsum
 seo:
-  title: Theme Style Guide
+  title: Our Values
   description: A reference for suggested typographic treatment and styles for your content
   extra:
     - name: 'og:type'
