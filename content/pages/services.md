@@ -7,7 +7,7 @@ sections:
     actions: []
     type: section_hero
     content: |
-      #### What we offer to move towards your digital tomorrow&#xA;&#xA;&#xA;
+      #### What we offer to move towards your digital tomorrow.&#xA;&#xA;&#xA;
   - title: Cloud Enablement
     section_id: lorem-ipsum
     image_alt: lorem-ipsum
