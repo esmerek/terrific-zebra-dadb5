@@ -6,6 +6,8 @@ sections:
     section_id: lorem-ipsum
     actions: []
     type: section_hero
+    content: |
+      #### How we solve your challenges&#xA;&#xA;&#xA;
   - title: Modern Workplace
     section_id: lorem-ipsum
     image_alt: lorem-ipsum
