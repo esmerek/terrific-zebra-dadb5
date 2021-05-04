@@ -19,9 +19,12 @@ sections:
     section_id: lorem-ipsum
     subtitle: lorem-ipsum
     image_alt: lorem-ipsum
-    content: >
-      Lorem ipsum dolor sit amet, **consectetur adipiscing elit**, sed do
-      eiusmod tempor incididunt ut labore et dolore magna aliqua.
+    content: >+
+      Collaboration means communication, sharing and interaction. We focus on
+      how we can unite and integrate these aspects, how user groups are formed
+      and interact to bring data together. Accessible data and short digital
+      paths lead to valuable results.
+
     type: section_content
   - title: Change Culture
     section_id: lorem-ipsum
