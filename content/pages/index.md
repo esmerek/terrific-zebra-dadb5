@@ -123,7 +123,7 @@ seo:
   title: Epic Fusion GmbH - Mindset is everything.
   description: >-
     Epic Fusion moves your digital initiatives into the new reality. Shape your
-    Digital Workplace into a complete new Employee Experience.
+    Digital Workplace towards the Employee Experience of the Digital Tomorrow!
   extra:
     - name: 'og:type'
       value: website
