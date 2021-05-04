@@ -44,7 +44,7 @@ sections:
       operations into a new dimension. In doing so, we push transformation
       initiatives towards the digital tomorrow.
     type: section_content
-  - title: lorem-ipsum
+  - title: Test
     section_id: lorem-ipsum
     content: >-
       ## Lorem ipsum
