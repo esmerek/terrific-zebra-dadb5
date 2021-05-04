@@ -6,17 +6,25 @@ sections:
     section_id: lorem-ipsum
     subtitle: lorem-ipsum
     image_alt: lorem-ipsum
-    content: >-
-      ## Lorem ipsum
+    content: |+
+      #### Kontaktadresse
 
 
-      Lorem ipsum dolor sit amet, **consectetur adipiscing elit**, sed do
-      eiusmod tempor incididunt ut labore et dolore magna aliqua.
+
+      #### Vertretungsberechtigte Personen
 
 
-      - Lorem ipsum
 
-      - dolor sit amet
+      #### Handeslregistereintrag
+
+
+
+      ##### Mehrwertsteuernummer
+
+
+
+      #### Haftungsauschluss
+
     type: section_content
 seo:
   title: ''
