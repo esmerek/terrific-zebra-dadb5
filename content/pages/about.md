@@ -5,7 +5,7 @@ image: images/epic-fusion-thin.png
 image_alt: A man taking a picture
 seo:
   title: About Us
-  description: This is the about us page
+  description: We unleash people's talent to create collective impact
   extra:
     - name: 'og:type'
       value: website
