@@ -66,6 +66,14 @@ sections:
       We provide facilitation and toolsets to drive process design and business
       operations into a new dimension. In doing so, we push transformation
       initiatives towards the digital tomorrow.
+
+
+      > You have to be willing to be misunderstood if you’re going to innovate.
+
+
+
+
+      Let us tackle disruption together.
     type: section_content
 seo:
   title: Competences - Epic Fusion GmbH
