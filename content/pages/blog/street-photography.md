@@ -1,8 +1,8 @@
 ---
 title: An Epic Fusion has happened!
 excerpt: >-
-  The time has come. Epic Fusion is born and ready to move you towards the
-  digital tomorrow.
+  Mindset is everything. Epic Fusion is born and ready to move you towards the
+  digital tomorrow. We do Digital Transformation. Fast Forward.
 thumb_image: images/wonderful-tulip.jpg
 thumb_image_alt: Hello this way printed on a red metal gate
 image: images/knowledgeable-sloth.jpg
