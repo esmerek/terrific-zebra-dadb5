@@ -142,6 +142,14 @@ sections:
           Together we organize a powerful team. We establish guidance and the
           ideal environment to serve your needs in an iterative, value-oriented
           and continously improving way.
+        actions:
+          - label: lorem-ipsum
+            url: '#'
+            style: link
+            icon: dribbble
+            new_window: false
+            no_follow: false
+            type: action
     subtitle: What we offer to move towards your digital tomorrow
 seo:
   title: Epic Fusion GmbH - Mindset is everything.
