@@ -13,6 +13,13 @@ sections:
     image_alt: lorem-ipsum
     content: "To meet highest security demands and governance procedures in a daily changing world are among the most pressing challenges today. We build lasting strategies and the foundation to ensure cloud service enablement.\n\nWe offer several packages to start:\n\n*   Digital Strategy Assessment\n\n*   Modern Workplace Kickstarter\n\n*   Modern Workplace Employee Experience\r\n\n*   Modern Workplace Operation Change\r\n\n*   Windows 10 & Mobile Device Management\n\n<!---->\n\n*   Cloud Security Advisory and Services\n\n<!---->\n\n*   Distributed #workanywhere Assessment\n"
     type: section_content
+  - title: lorem-ipsum
+    section_id: lorem-ipsum
+    subtitle: lorem-ipsum
+    col_number: three
+    is_numbered: false
+    grid_items: []
+    type: section_grid
   - title: Employee Experience
     section_id: lorem-ipsum
     image_alt: lorem-ipsum
