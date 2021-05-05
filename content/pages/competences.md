@@ -11,11 +11,40 @@ sections:
   - title: Modern Workplace
     section_id: lorem-ipsum
     image_alt: lorem-ipsum
-    content: >
-      Work anywhere. Bring your own device. Homeoffice. A modern digital
-      workplace combines today's needs with accessible solutions. We enable the
-      infrastructure and security features to ensure that employees can focus on
-      their teamwork.
+    content: >+
+      Work anywhere and on any device. The modern workplace follows you and your
+      demands while it combines today's needs with accessible and secure
+      solutions. We enable the infrastructure and security features to ensure
+      that employees can focus on their work.
+
+
+      Packages will follow soon:
+
+
+      *   Modern Workplace Services
+
+
+      *   Modern Workplace Employee Experience
+
+
+
+      *   Cloud Security Services
+
+
+      <!---->
+
+
+      *   Windows 10 and Mobile Device Management 
+
+
+      *   Mobile Device Management und Operation
+
+
+      <!---->
+
+
+      *   Distributed #workanywhere Assessment (Package coming soon)
+
     type: section_content
   - title: Teamwork
     section_id: lorem-ipsum
