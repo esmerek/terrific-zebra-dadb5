@@ -36,7 +36,9 @@ sections:
       - title: Modern Workplace InFusion
         image_alt: lorem-ipsum
         content: |
-          dolor sit amet
+          dolor sit amet. dolor sit amet.
+
+          CHF 3'000.00
         actions:
           - label: Start
             url: '#'
