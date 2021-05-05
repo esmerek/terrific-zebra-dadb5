@@ -1,8 +1,8 @@
 ---
 title: The Art of Modern Work
 excerpt: >-
-  Vis accumsan feugiat adipiscing nisl amet adipiscing accumsan blandit accumsan
-  sapien blandit ac amet faucibus aliquet placerat commodo.
+  How can the capabilities of modern work be made manageable, secure, and
+  accessible: Is it magic or simply the Art of Modern Work?
 date: '2021-05-10'
 thumb_image: images/istockphoto-1185621229-1024x1024.jpg
 thumb_image_alt: A leather notebook and a pen on a wooden working table
