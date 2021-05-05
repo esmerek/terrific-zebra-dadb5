@@ -4,7 +4,7 @@ excerpt: >-
   Amet nibh adipiscing adipiscing. Commodo ante vis placerat interdum massa
   massa primis. Tempus condimentum tempus non ac varius cubilia adipiscing
   placerat lorem.
-thumb_image: images/csm_a-digitale-transformation_giis_97e72b6708.jpg
+thumb_image: images/istockphoto-1055535332-1024x1024.jpg
 thumb_image_alt: A pile of books on the table
 image: images/12.jpg
 image_alt: A pile of books on the table
