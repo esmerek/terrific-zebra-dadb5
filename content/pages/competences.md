@@ -18,31 +18,10 @@ sections:
       that employees can focus on their work.
 
 
-      *   Modern Workplace Kickstarter
+      > Digital connected work is no longer an innovation, but standard!
 
 
-      <!---->
-
-
-      *   Modern Workplace Employee Experience
-
-
-      *   Modern Workplace Operation Change
-
-
-      *   Windows 10 & Mobile Device Management 
-
-
-      <!---->
-
-
-      *   Cloud Security Advisory and Services
-
-
-      <!---->
-
-
-      *   Distributed #workanywhere Assessment
+      Learn more about our Digital Workplace services.
     type: section_content
   - title: Teamwork
     section_id: lorem-ipsum
