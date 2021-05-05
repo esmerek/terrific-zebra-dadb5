@@ -13,6 +13,7 @@ seo:
 layout: post
 date: '2021-05-01'
 thumb_image: images/remarkable-saturn.jpg
+image: images/adorable-triceratops.jpg
 ---
 ## Lorem ipsum
 
