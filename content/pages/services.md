@@ -32,17 +32,9 @@ sections:
         type: grid_item
       - title: Employee Experience InFusion
         image_alt: lorem-ipsum
-        content: >-
-          ## Lorem ipsum
+        content: |+
+          Lorem ipsum dolor sit amet, **consectetur adipiscing elit**, sed
 
-
-          Lorem ipsum dolor sit amet, **consectetur adipiscing elit**, sed do
-          eiusmod tempor incididunt ut labore et dolore magna aliqua.
-
-
-          - Lorem ipsum
-
-          - dolor sit amet
         actions: []
         type: grid_item
     type: section_grid
