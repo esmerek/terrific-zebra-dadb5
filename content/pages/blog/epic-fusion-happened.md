@@ -1,7 +1,6 @@
 ---
 title: An Epic Fusion happened!
 subtitle: Time has come
-date: '2021-05-05'
 thumb_image_alt: lorem-ipsum
 image_alt: lorem-ipsum
 excerpt: lorem-ipsum
