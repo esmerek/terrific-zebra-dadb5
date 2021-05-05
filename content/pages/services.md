@@ -21,7 +21,9 @@ sections:
       - title: Digital Strategy Assessment
         image_alt: lorem-ipsum
         content: |
-          dolor sit amet
+          dolor sit amet. dolor sit amet. 
+
+          **CHF 900.00**
         actions:
           - label: Start
             url: '#'
