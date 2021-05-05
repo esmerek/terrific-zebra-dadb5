@@ -15,7 +15,6 @@ sections:
     type: section_content
   - title: Packages Test
     section_id: lorem-ipsum
-    subtitle: lorem-ipsum
     col_number: three
     is_numbered: false
     grid_items: []
