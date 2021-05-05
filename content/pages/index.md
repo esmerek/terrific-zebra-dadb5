@@ -117,7 +117,7 @@ sections:
           reinventing the wheel. But we unite to create holistic, simple and
           easy solutions that every employee loves.
         actions:
-          - label: Discover it
+          - label: Experience it
             url: '#'
             style: button
             icon: dribbble
