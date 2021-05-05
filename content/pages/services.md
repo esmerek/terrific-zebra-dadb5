@@ -55,7 +55,7 @@ sections:
 
           **CHF 900.00**
         actions:
-          - label: Start
+          - label: sofnI
             url: '#'
             style: link
             icon: dribbble
