@@ -8,7 +8,7 @@ excerpt: >-
   accessible: Is it magic or simply the Art of Modern Work? Let us look at it
   together.
 seo:
-  title: ''
+  title: The Art of Modern Work - Epic Fusion GmbH
   description: >-
     How can the capabilities of modern work be made manageable, secure, and
     accessible: Is it magic or simply the Art of Modern Work? Let us look at it
