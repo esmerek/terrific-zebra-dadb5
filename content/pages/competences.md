@@ -28,12 +28,20 @@ sections:
   - title: Teamwork
     section_id: lorem-ipsum
     image_alt: lorem-ipsum
-    content: >+
+    content: >
       Collaboration means communication, sharing and interaction. We focus on
       how we can unite and integrate these aspects, how user groups are formed
       and interact to bring data together. Accessible data and short digital
       paths lead to valuable results.
 
+
+      > Talent wins games, but teamwork and intelligence win championships
+
+      > MIîchael Jordan
+
+      >
+
+      >
     type: section_content
   - title: Change Culture
     section_id: lorem-ipsum
