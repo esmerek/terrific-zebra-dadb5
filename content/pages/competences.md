@@ -18,12 +18,6 @@ sections:
       that employees can focus on their work.
 
 
-      Packages will follow soon:
-
-
-      *   Modern Workplace Services
-
-
       *   Modern Workplace Employee Experience
 
 
