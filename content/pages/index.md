@@ -103,7 +103,7 @@ sections:
           lasting strategies and the foundation to ensure cloud service
           enablement.
         actions:
-          - label: anE
+          - label: Enable it
             url: '#'
             style: button
             icon: dribbble
