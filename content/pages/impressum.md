@@ -59,10 +59,7 @@ sections:
       eigene Gefahr des Nutzers oder der Nutzerin.
 
 
-      Urheberrechte
-
-
-
+      #### Urheberrechte
 
 
       Die Urheber- und alle anderen Rechte an Inhalten, Bildern, Fotos oder
@@ -72,9 +69,7 @@ sections:
       Urheberrechtsträger im Voraus einzuholen.
 
 
-
-
-      Datenschutz
+      #### Datenschutz
 
 
       Gestützt auf Artikel 13 der schweizerischen Bundesverfassung und die
