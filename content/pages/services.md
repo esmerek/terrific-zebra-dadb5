@@ -55,7 +55,7 @@ sections:
 
           **CHF 900.00**
         actions:
-          - label: lorem-ipsum
+          - label: Start
             url: '#'
             style: link
             icon: dribbble
