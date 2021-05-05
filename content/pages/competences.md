@@ -18,10 +18,12 @@ sections:
       that employees can focus on their work.
 
 
-      > Digital connected work is no longer an innovation, but standard!
+      > Digital connected work is no longer an innovation, it is standard.
 
 
-      Learn more about our Digital Workplace services.
+      Use our [services
+      ](https://terrific-zebra-dadb5.netlify.app/competences/)to stay on the
+      cutting edge.
     type: section_content
   - title: Teamwork
     section_id: lorem-ipsum
