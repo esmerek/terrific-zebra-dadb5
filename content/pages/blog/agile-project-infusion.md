@@ -14,6 +14,7 @@ seo:
   extra: []
   type: stackbit_page_meta
 layout: post
+thumb_image: images/enthusiastic-onion.jpg
 ---
 ## Lorem ipsum
 
