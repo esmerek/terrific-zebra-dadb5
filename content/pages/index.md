@@ -116,6 +116,14 @@ sections:
           the integration of people, culture and technology. We are not
           reinventing the wheel. But we unite to create holistic, simple and
           easy solutions that every employee loves.
+        actions:
+          - label: lorem-ipsum
+            url: '#'
+            style: link
+            icon: dribbble
+            new_window: false
+            no_follow: false
+            type: action
       - title: Application Modernization
         content: >
           For modernization, we build the foundation with a process assessment.
