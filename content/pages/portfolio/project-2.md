@@ -1,5 +1,5 @@
 ---
-title: An Epic Fusion has happened
+title: An Epic Fusion has happened!
 subtitle: Optional Project Subtitle
 date: '2019-04-30'
 thumb_image: images/a14086e5-a1e5-4fc7-8bae-65a0bd3d0436.jpg
