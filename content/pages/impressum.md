@@ -59,12 +59,22 @@ sections:
       eigene Gefahr des Nutzers oder der Nutzerin.
 
 
-      #### Urheberrechte&#xA;&#xA;&#xA;&#xA;&#xA;Die Urheber- und alle anderen
-      Rechte an Inhalten, Bildern, Fotos oder anderen Dateien auf der Website
-      gehören ausschliesslich der Firma Epic Fusion GmbH oder den speziell
-      genannten Rechtsinhabern. Für die Reproduktion jeglicher Elemente ist die
-      schriftliche Zustimmung der Urheberrechtsträger im Voraus
-      einzuholen.&#xA;&#xA;&#xA;&#xA;Datenschutz
+      Urheberrechte
+
+
+
+
+
+      Die Urheber- und alle anderen Rechte an Inhalten, Bildern, Fotos oder
+      anderen Dateien auf der Website gehören ausschliesslich der Firma Epic
+      Fusion GmbH oder den speziell genannten Rechtsinhabern. Für die
+      Reproduktion jeglicher Elemente ist die schriftliche Zustimmung der
+      Urheberrechtsträger im Voraus einzuholen.
+
+
+
+
+      Datenschutz
 
 
       Gestützt auf Artikel 13 der schweizerischen Bundesverfassung und die
@@ -73,7 +83,6 @@ sections:
       vor Missbrauch ihrer persönlichen Daten. Wir halten diese Bestimmungen
       ein. Persönliche Daten werden streng vertraulich behandelt und weder an
       Dritte verkauft noch weiter gegeben.
-
 
 
       In enger Zusammenarbeit mit unseren Hosting-Providern bemühen wir uns, die
