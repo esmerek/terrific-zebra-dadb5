@@ -12,6 +12,7 @@ seo:
   type: stackbit_page_meta
 layout: post
 thumb_image: images/smart-tomato.jpg
+image: images/charming-pineapple.jpg
 ---
 ## Lorem ipsum
 
