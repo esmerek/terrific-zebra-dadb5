@@ -57,17 +57,11 @@ sections:
         type: grid_item
       - title: 'Distributed #workanywhere Assessment'
         image_alt: lorem-ipsum
-        content: >-
-          ## Lorem ipsum
+        content: |+
+          Lorem ipsum dolor sit amet, **consectetur adipiscing elit**, sed.
 
+          **CHF 1'800.00**
 
-          Lorem ipsum dolor sit amet, **consectetur adipiscing elit**, sed do
-          eiusmod tempor incididunt ut labore et dolore magna aliqua.
-
-
-          - Lorem ipsum
-
-          - dolor sit amet
         actions: []
         type: grid_item
     type: section_grid
