@@ -6,7 +6,7 @@ excerpt: >-
 date: '2019-03-10'
 thumb_image: images/wonderful-tulip.jpg
 thumb_image_alt: Hello this way printed on a red metal gate
-image: images/8.jpg
+image: images/knowledgeable-sloth.jpg
 image_alt: Hello this way printed on a red metal gate
 seo:
   title: Understanding Street Photography
