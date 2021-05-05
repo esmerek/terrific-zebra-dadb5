@@ -35,13 +35,16 @@ sections:
       paths lead to valuable results.
 
 
+
+
       > Talent wins games, but teamwork and intelligence win championships
 
       >
 
       >
 
-      > Learn with us how to connect the dots.
+
+      Learn with us how to connect the dots.
     type: section_content
   - title: Change Culture
     section_id: lorem-ipsum
