@@ -69,9 +69,7 @@ sections:
       > You have to be willing to be misunderstood if you’re going to innovate.
 
 
-
-
-      Let us tackle disruption together.
+      Let us tackle disruption.
     type: section_content
 seo:
   title: Competences - Epic Fusion GmbH
