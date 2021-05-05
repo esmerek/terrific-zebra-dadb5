@@ -88,7 +88,7 @@ sections:
           *   dolor sit amet
         actions: []
         type: grid_item
-      - title: lorem-ipsum
+      - title: Windows 10 & Mobile Device Management Kickstarter
         image_alt: lorem-ipsum
         content: >-
           ## Lorem ipsum
