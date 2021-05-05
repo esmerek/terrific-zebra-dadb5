@@ -35,13 +35,7 @@ sections:
       paths lead to valuable results.
 
 
-
-
-      > Talent wins games, but teamwork and intelligence win championships
-
-      >
-
-      >
+      > Talent wins games, but teamwork and intelligence win championships.
 
 
       Learn with us how to connect the dots.
