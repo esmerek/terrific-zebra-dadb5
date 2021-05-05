@@ -143,7 +143,7 @@ sections:
           ideal environment to serve your needs in an iterative, value-oriented
           and continously improving way.
         actions:
-          - label: lorem-ipsum
+          - label: Iterate it
             url: '#'
             style: button
             icon: dribbble
