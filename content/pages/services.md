@@ -79,7 +79,7 @@ sections:
 
         actions: []
         type: grid_item
-      - title: lorem-ipsum
+      - title: Cloud Security InFusion
         image_alt: lorem-ipsum
         content: >-
           ## Lorem ipsum
