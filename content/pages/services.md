@@ -50,9 +50,10 @@ sections:
         type: grid_item
       - title: Employee Experience InFusion
         image_alt: lorem-ipsum
-        content: |+
+        content: |
           Lorem ipsum dolor sit amet, **consectetur adipiscing elit**, sed
 
+          **CHF 900.00**
         actions: []
         type: grid_item
       - title: 'Distributed #workanywhere Assessment'
