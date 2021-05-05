@@ -11,7 +11,7 @@ sections:
   - title: Modern Workplace
     section_id: lorem-ipsum
     image_alt: lorem-ipsum
-    content: >+
+    content: >
       Work anywhere and on any device. The modern workplace follows you and your
       demands while it combines today's needs with accessible and secure
       solutions. We enable the infrastructure and security features to ensure
@@ -27,6 +27,12 @@ sections:
       *   Modern Workplace Employee Experience
 
 
+      *   Mobile Device Management und Operation
+
+
+      *   Windows 10 and Mobile Device Management
+
+
 
       *   Cloud Security Services
 
@@ -34,17 +40,7 @@ sections:
       <!---->
 
 
-      *   Windows 10 and Mobile Device Management 
-
-
-      *   Mobile Device Management und Operation
-
-
-      <!---->
-
-
       *   Distributed #workanywhere Assessment (Package coming soon)
-
     type: section_content
   - title: Teamwork
     section_id: lorem-ipsum
