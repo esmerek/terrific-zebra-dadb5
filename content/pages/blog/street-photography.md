@@ -1,8 +1,8 @@
 ---
 title: An Epic Fusion has happened!
 excerpt: >-
-  Lorem ipsum dolor sit amet, consectetur adipiscing elit, sed do eiusmod tempor
-  incididunt ut labore et dolore magna aliqua. Ac ut consequat semper viverra.
+  The time has come. Epic Fusion is born and ready to move you into digital
+  tomorrow.
 date: '2019-03-10'
 thumb_image: images/wonderful-tulip.jpg
 thumb_image_alt: Hello this way printed on a red metal gate
