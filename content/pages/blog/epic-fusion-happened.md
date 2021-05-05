@@ -7,7 +7,7 @@ excerpt: >-
   Mindset is everything. Epic Fusion is born and ready to move you towards the
   digital tomorrow. We do Digital Transformation. Fast Forward.
 seo:
-  title: ''
+  title: An Epic Fusion happened! - Epic Fusion GmbH
   description: ''
   robots: []
   extra: []
