@@ -43,12 +43,20 @@ sections:
   - title: Change Culture
     section_id: lorem-ipsum
     image_alt: lorem-ipsum
-    content: >+
+    content: >
       We shape a strategy of how we integrate people and culture into the
       foundation of a digital strategy. Change, paradigm shift and leadership
       are the essential key subjects that we focus on throughout a continous
       transformation process.
 
+
+      > Culture is like a shadow. You cannot change it, but it changes all the
+      time.
+
+
+
+
+      Let's create an environment of change with us
     type: section_content
   - title: Reinventing Processes
     section_id: lorem-ipsum
