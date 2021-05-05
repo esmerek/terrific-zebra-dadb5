@@ -6,7 +6,7 @@ thumb_image_alt: lorem-ipsum
 image_alt: lorem-ipsum
 excerpt: lorem-ipsum
 seo:
-  title: ''
+  title: Agile Project InFusion - Epic Fusion GmbH
   description: ''
   robots: []
   extra: []
