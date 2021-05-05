@@ -7,7 +7,10 @@ image_alt: lorem-ipsum
 excerpt: lorem-ipsum
 seo:
   title: Agile Project InFusion - Epic Fusion GmbH
-  description: ''
+  description: >-
+    Agile methodologies are very various and yet they are all based on a common
+    foundation. With our Agile Project InFusion we build the baseline for agile
+    ways of working in your company.
   robots: []
   extra: []
   type: stackbit_page_meta
