@@ -1,6 +1,6 @@
 ---
 title: An Epic Fusion happened!
-subtitle: Time has come
+subtitle: Mindset is everything.
 thumb_image_alt: lorem-ipsum
 image_alt: lorem-ipsum
 excerpt: >-
