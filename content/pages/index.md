@@ -102,6 +102,14 @@ sections:
           changing world are among the most pressing challenges today. We build
           lasting strategies and the foundation to ensure cloud service
           enablement.
+        actions:
+          - label: lorem-ipsum
+            url: '#'
+            style: link
+            icon: dribbble
+            new_window: false
+            no_follow: false
+            type: action
       - title: Employee Experience
         content: >
           The foundation for a successful shift to continuous transformation is
