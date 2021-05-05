@@ -1,8 +1,7 @@
 ---
 title: An Epic Fusion has happened!
 subtitle: The time has come.
-thumb_image: >-
-  images/stock-photo-abstract-pink-background-explosion-star-with-gloss-and-lines-illustration-beautiful-1051253972.jpg
+thumb_image: images/istockphoto-901621108-1024x1024.jpg
 thumb_image_alt: An orange on a blue background
 image: images/2.jpg
 image_alt: An orange on a blue background
