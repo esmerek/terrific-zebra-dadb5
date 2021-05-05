@@ -6,7 +6,7 @@ excerpt: >-
   ways of working in your company.
 thumb_image: images/istockphoto-1055535332-1024x1024.jpg
 thumb_image_alt: A pile of books on the table
-image: images/12.jpg
+image: images/pleasant-artichoke.jpg
 image_alt: A pile of books on the table
 seo:
   title: Why Fonts Matter
