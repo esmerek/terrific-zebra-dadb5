@@ -8,7 +8,9 @@ excerpt: >-
   digital tomorrow. We do Digital Transformation. Fast Forward.
 seo:
   title: An Epic Fusion happened! - Epic Fusion GmbH
-  description: ''
+  description: >-
+    Mindset is everything. Epic Fusion is born and ready to move you towards the
+    digital tomorrow. We do Digital Transformation. Fast Forward.
   robots: []
   extra: []
   type: stackbit_page_meta
