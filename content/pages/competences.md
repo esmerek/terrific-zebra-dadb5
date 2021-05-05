@@ -39,7 +39,7 @@ sections:
       <!---->
 
 
-      *   Distributed #workanywhere Assessment (Package coming soon)
+      *   Distributed #workanywhere Assessment
     type: section_content
   - title: Teamwork
     section_id: lorem-ipsum
