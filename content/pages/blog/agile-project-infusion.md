@@ -15,6 +15,7 @@ seo:
   type: stackbit_page_meta
 layout: post
 thumb_image: images/enthusiastic-onion.jpg
+image: images/square-moon.jpg
 ---
 ## Lorem ipsum
 
