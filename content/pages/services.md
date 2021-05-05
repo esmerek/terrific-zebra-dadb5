@@ -36,7 +36,7 @@ sections:
         content: |
           dolor sit amet
         actions:
-          - label: lorem-ipsum
+          - label: atrS
             url: '#'
             style: link
             icon: dribbble
