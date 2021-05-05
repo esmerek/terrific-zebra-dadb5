@@ -4,7 +4,7 @@ excerpt: "How can the capabilities of modern work be made manageable, secure, an
 date: '2021-05-10'
 thumb_image: images/istockphoto-1185621229-1024x1024.jpg
 thumb_image_alt: A leather notebook and a pen on a wooden working table
-image: images/11.jpg
+image: images/oval-onion.jpg
 image_alt: A leather notebook and a pen on a wooden working table
 seo:
   title: The Elements of Great Workplace Design
