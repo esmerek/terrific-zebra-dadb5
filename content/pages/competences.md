@@ -36,12 +36,6 @@ sections:
 
 
       > Talent wins games, but teamwork and intelligence win championships
-
-      > MIîchael Jordan
-
-      >
-
-      >
     type: section_content
   - title: Change Culture
     section_id: lorem-ipsum
