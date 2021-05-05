@@ -130,7 +130,7 @@ sections:
           This is the basis for refactoring, a new UI/UX design and a DevOps
           operating model. We squeeze value of out the data given.
         actions:
-          - label: lorem-ipsum
+          - label: Modernizate it
             url: '#'
             style: button
             icon: dribbble
