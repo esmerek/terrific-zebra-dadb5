@@ -24,7 +24,7 @@ sections:
           dolor sit amet
         actions: []
         type: grid_item
-      - title: Modern Workplace Infusion
+      - title: Modern Workplace InFusion
         image_alt: lorem-ipsum
         content: |
           dolor sit amet
