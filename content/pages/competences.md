@@ -54,7 +54,7 @@ sections:
       time.
 
 
-      Let's create an environment of change
+      Let's create an environment of change.
     type: section_content
   - title: Reinventing Processes
     section_id: lorem-ipsum
