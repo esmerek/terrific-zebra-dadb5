@@ -36,7 +36,7 @@ sections:
         content: |
           dolor sit amet
         actions:
-          - label: atrS
+          - label: Start
             url: '#'
             style: link
             icon: dribbble
