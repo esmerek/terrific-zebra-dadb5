@@ -9,7 +9,7 @@ sections:
       #### Kontaktadresse
 
 
-      Epic Fusion GmbH
+      Epic Fusion GmbH\\
 
       Kranichweg 2
 
