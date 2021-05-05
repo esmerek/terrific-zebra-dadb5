@@ -129,6 +129,14 @@ sections:
           For modernization, we build the foundation with a process assessment.
           This is the basis for refactoring, a new UI/UX design and a DevOps
           operating model. We squeeze value of out the data given.
+        actions:
+          - label: lorem-ipsum
+            url: '#'
+            style: link
+            icon: dribbble
+            new_window: false
+            no_follow: false
+            type: action
       - title: Agile Project Guidance
         content: >
           Together we organize a powerful team. We establish guidance and the
