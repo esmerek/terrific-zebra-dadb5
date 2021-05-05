@@ -1,9 +1,9 @@
 ---
 title: Agile Project InFusion
 excerpt: >-
-  Amet nibh adipiscing adipiscing. Commodo ante vis placerat interdum massa
-  massa primis. Tempus condimentum tempus non ac varius cubilia adipiscing
-  placerat lorem.
+  Agile methodologies are very various and yet they are all based on a common
+  foundation. With our Agile Project InFusion we build the baseline for agile
+  ways of working in your company.
 thumb_image: images/istockphoto-1055535332-1024x1024.jpg
 thumb_image_alt: A pile of books on the table
 image: images/12.jpg
