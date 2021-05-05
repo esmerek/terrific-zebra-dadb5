@@ -1,5 +1,5 @@
 ---
-title: lorem-ipsum
+title: The Art of Modern Work
 subtitle: lorem-ipsum
 date: '2021-05-05'
 thumb_image_alt: lorem-ipsum
