@@ -35,7 +35,14 @@ sections:
         image_alt: lorem-ipsum
         content: |
           dolor sit amet
-        actions: []
+        actions:
+          - label: lorem-ipsum
+            url: '#'
+            style: link
+            icon: dribbble
+            new_window: false
+            no_follow: false
+            type: action
         type: grid_item
       - title: Employee Experience InFusion
         image_alt: lorem-ipsum
