@@ -9,7 +9,10 @@ excerpt: >-
   together.
 seo:
   title: ''
-  description: ''
+  description: >-
+    How can the capabilities of modern work be made manageable, secure, and
+    accessible: Is it magic or simply the Art of Modern Work? Let us look at it
+    together.
   robots: []
   extra: []
   type: stackbit_page_meta
