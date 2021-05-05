@@ -18,16 +18,25 @@ sections:
       that employees can focus on their work.
 
 
+      *   Modern Workplace Kickstarter
+
+
+      <!---->
+
+
       *   Modern Workplace Employee Experience
 
 
-      *   Mobile Device Management und Operation
+      *   Modern Workplace Operation Change
 
 
-      *   Windows 10 and Mobile Device Management
+      *   Windows 10 & Mobile Device Management 
 
 
-      *   Cloud Security Services
+      <!---->
+
+
+      *   Cloud Security Advisory and Services
 
 
       <!---->
