@@ -14,7 +14,7 @@ sections:
     content: >
       Work anywhere and on any device. The modern workplace follows you and your
       demands while it combines today's needs with accessible and secure
-      solutions. We enable the infrastructure and security features to ensure
+      solutions. We enable the infrastructure and security baselines to ensure
       that employees can focus on their work.
 
 
@@ -31,7 +31,6 @@ sections:
 
 
       *   Windows 10 and Mobile Device Management
-
 
 
       *   Cloud Security Services
