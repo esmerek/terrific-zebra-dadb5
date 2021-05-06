@@ -5,12 +5,14 @@ sections:
   - section_id: hero
     type: section_hero
     title: Mindset is everything.
-    content: >+
+    content: >
+      ### Why
+
+
       Epic Fusion is here to move your digital initiatives into the new reality.
       On a baseline of High-Impact and Horizon-Focus we let the magic happen 
       towards your Digital Tomorrow. We fuse talent of excellent people with the
       demands of the technological and cultural change arised.
-
     actions:
       - label: Let the magic happen
         url: /contact
