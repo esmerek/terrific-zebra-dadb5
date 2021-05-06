@@ -54,28 +54,25 @@ sections:
   - title: Employee Experience
     section_id: lorem-ipsum
     image_alt: lorem-ipsum
-    content: >
+    content: >+
       The foundation for a successful shift to continuous transformation is the
       integration of people, culture and technology. We are not reinventing the
       wheel. But we unite to create holistic, simple and easy solutions that
       every employee loves.
 
 
-      ##### Start with a package
+      > Don't reduce your employees to "users"
 
 
-      #### Employee Experience InFusion
+      Do not reduce your most valuable asset, your employees who work for your
+      organization every day, to "users". Rather, empower them to collaborate
+      and take initiative in a partnership approach.
 
 
-      Drive an immediate entry to the modern workplace with a Kickstarter
-      concept. This includes an analysis of the baseline conditions, a roadmap
-      and a vision for the future.
+      With our concept of employee experience, we set the foundation for a
+      healthy cultural change for new ways of working and concepts to supplement
+      our transformation projects.
 
-
-      **CHF 5'000**
-
-
-      [Request today](https://terrific-zebra-dadb5.netlify.app/services/)
     type: section_content
   - title: Agile Project Guidance
     section_id: lorem-ipsum
