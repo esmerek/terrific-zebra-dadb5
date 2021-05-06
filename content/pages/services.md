@@ -92,7 +92,8 @@ sections:
       Everything else will follow.
 
 
-      tbd.
+      In a VUCA world like we are experiencing these days, agile methodologies
+      are more important than ever.
 
 
       [Request](https://terrific-zebra-dadb5.netlify.app)
