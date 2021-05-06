@@ -9,7 +9,7 @@ sections:
     content: |
       #### What we offer to move towards your digital tomorrow.&#xA;&#xA;&#xA;
   - title: Cloud Enablement
-    section_id: lorem-ipsum
+    section_id: services-cloud-enablement
     image_alt: lorem-ipsum
     content: >
       To meet highest security demands and governance procedures in a daily
