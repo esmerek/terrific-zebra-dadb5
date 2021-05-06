@@ -54,7 +54,7 @@ sections:
   - title: Employee Experience
     section_id: services-employee-experience
     image_alt: lorem-ipsum
-    content: >+
+    content: >
       The foundation for a successful shift to continuous transformation is the
       integration of people, culture and technology. We are not reinventing the
       wheel. But we unite to create holistic, simple and easy solutions that
@@ -74,8 +74,10 @@ sections:
       our transformation projects.
 
 
-      [Request](https://terrific-zebra-dadb5.netlify.app/services/)
+      We care about real Workplace Wellbeeing. Would you like to learn more?
 
+
+      [Request](https://terrific-zebra-dadb5.netlify.app/services/)
     type: section_content
   - title: Agile Project Guidance
     section_id: services-agile-project-guidance
