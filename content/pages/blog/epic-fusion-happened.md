@@ -33,13 +33,13 @@ To make this truly possible, we have been intensely focused on values and princi
 
 Our principles:
 
-> \*\*Purpose \*\* over Profits
+> \*\*Purpose\*\* over Profits
 >
 > \*\*We \*\* over Me
 >
 > \*\*Trust \*\* over Control
 >
-> **Learn-It **over Know-It
+> \*\*Learn-It \*\*over Know-It
 >
 > \*\*Experiment \*\* over Certainity
 >
