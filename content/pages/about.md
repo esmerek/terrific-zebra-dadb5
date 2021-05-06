@@ -1,5 +1,5 @@
 ---
-title: About Us
+title: About
 subtitle: Who we are
 image: images/epic-fusion-thin.png
 image_alt: A man taking a picture
