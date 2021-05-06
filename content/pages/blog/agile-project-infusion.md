@@ -22,7 +22,6 @@ image: images/square-moon.jpg
 ---
 #### What does it mean to establish an agile mindset?
 
-In a VUCA world like we are experiencing these days, agile methodologies are more important than ever. VUCA means volatility, uncertainty, complexity, ambiguity.
+In a VUCA world like we are experiencing these days, agile methodologies are more important than ever. The term VUCA stands for volatility, uncertainty, complexity, ambiguity and describes the increasingly challenging handling of constantly changing conditions for an organization. In the context of digital transitions, it is essential to be prepared with appropriate tools.
 
 #### How do we find strategies to survive in the VUCA world?
-
