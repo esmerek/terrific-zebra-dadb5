@@ -34,21 +34,18 @@ To make this truly possible, we have been intensely focused on values and princi
 Our principles:
 
 > Purpose over Profits
-
+>
 > We over Me
-
+>
 > Trust over Control
-
+>
 > Learn-It over Know-It
-
+>
 > Experiment over Certainity
-
+>
 > Evolutionary  over Strength
-
+>
 > Transparency  over Obscurity
 
 
-
-
-fffff
-dffdf
+Are you curious about how a working relationship with us could look like? [Don't hesitate: Contact here.](https://terrific-zebra-dadb5.netlify.app)
