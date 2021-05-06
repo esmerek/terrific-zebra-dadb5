@@ -46,6 +46,9 @@ sections:
       and a vision for the future.
 
 
+      **CHF 5'000**
+
+
       [Request today](https://terrific-zebra-dadb5.netlify.app/services/)
     type: section_content
   - title: Packages Test
