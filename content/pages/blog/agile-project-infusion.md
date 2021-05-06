@@ -45,4 +45,3 @@ Congratulations! This is the first step towards learning.
 > If you adopt only one agile practice let it be retrospectives. Everything else will follow.
 
 tbd.
-
