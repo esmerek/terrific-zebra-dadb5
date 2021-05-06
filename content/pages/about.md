@@ -47,7 +47,7 @@ We are not just another service provider for technical solutions. We are passion
 
 To make this truly possible, we have been intensely focused on values and principles that are important to us from day one.
 
-Our principles:
+#### Our principles
 
 > Purpose over Profits
 >
