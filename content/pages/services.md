@@ -83,7 +83,7 @@ sections:
       continously improving way.
     type: section_content
   - title: Application Modernization
-    section_id: lorem-ipsum
+    section_id: services-application-modernization
     image_alt: lorem-ipsum
     content: >+
       For modernization, we build the foundation with a process assessment. This
