@@ -11,7 +11,7 @@ sections:
   - title: Cloud Enablement
     section_id: lorem-ipsum
     image_alt: lorem-ipsum
-    content: >+
+    content: >
       To meet highest security demands and governance procedures in a daily
       changing world are among the most pressing challenges today. We build
       lasting strategies and the foundation to ensure cloud service enablement.
@@ -43,10 +43,10 @@ sections:
 
       Drive an immediate entry to the modern workplace with a Kickstarter
       concept. This includes an analysis of the baseline conditions, a roadmap
-      and a vision for the future in 2 days.
+      and a vision for the future.
 
 
-
+      [Request today](https://terrific-zebra-dadb5.netlify.app/services/)
     type: section_content
   - title: Packages Test
     section_id: lorem-ipsum
