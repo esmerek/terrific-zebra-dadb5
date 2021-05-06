@@ -25,8 +25,7 @@ In the years 2020-2021 we experienced a true disruption in many of our areas of 
 
 Epic Fusion is here to provide the technological foundation. We create secure, scalable, cloud-driven and accessible solutions that massively simplify the work and collaboration within the organization. We ensure this with talented technology specialists. At the same time, we place just as much emphasis on cultural change, the employee experience and the accessibility of solutions.
 
-> Our services are designed and shaped to support your initiatives to face the new reality of digital work models. 
->
+> Our services are designed and shaped to support your initiatives to face the new reality of digital work models.
 
 We are not just another service provider for technical solutions. We are passionate people who stand up for common values as a team. We want to be able to grow on our values and principles ourselves, as well as together with our customers, every day.
 
@@ -34,36 +33,16 @@ To make this truly possible, we have been intensely focused on values and princi
 
 Our principles:
 
-> **Purpose **
+> \*\*Purpose \*\* over Profits
 >
-> over Profits
+> \*\*We \*\* over Me
 >
+> \*\*Trust \*\* over Control
 >
-> **We **
+> **Learn-It **over Know-It
 >
-> over Me
+> \*\*Experiment \*\* over Certainity
 >
+> \*\*Evolutionary \*\* over Strength
 >
-> **Trust **
->
-> over Control
->
->
-> **Learn-It**
->
->  over Know-It
->
->
-> **Experiment **
->
-> over Certainity
->
->
-> **Evolutionary **
->
-> over Strength
->
->
-> **Transparency **
->
-> over Obscurity
+> \*\*Transparency \*\* over Obscurity
