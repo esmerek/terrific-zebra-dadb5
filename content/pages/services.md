@@ -90,7 +90,7 @@ sections:
   - title: Application Modernization
     section_id: services-application-modernization
     image_alt: lorem-ipsum
-    content: >+
+    content: >
       For modernization, we build the foundation with a process assessment. This
       is the basis for refactoring, a new UI/UX design and a DevOps operating
       model. We squeeze value of out the data given.
@@ -99,11 +99,10 @@ sections:
       > The goal is to turn data into information, and information into insight.
 
 
-      Tbd.
+      We focus on the real added values.
 
 
       [Request](https://terrific-zebra-dadb5.netlify.app)
-
     type: section_content
 seo:
   title: Services - Epic Fusion GmbH
