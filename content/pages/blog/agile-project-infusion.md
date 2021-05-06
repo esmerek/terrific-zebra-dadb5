@@ -22,9 +22,8 @@ image: images/square-moon.jpg
 ---
 #### Why to establish an agile mindset
 
-In a VUCA world like we are experiencing these days, agile methodologies are more important than ever. The term VUCA stands for volatility, uncertainty, complexity, ambiguity and describes the increasingly challenging handling of constantly changing conditions for an organization. In the context of digital transitions, it is essential to be prepared with appropriate tools.
+In a VUCA world like we are experiencing these days, agile methodologies are more important than ever. The term VUCA stands for volatility, uncertainty, complexity, ambiguity and describes the increasingly challenging handling of constantly changing conditions for an organization. In the context of digital transitions, it is essential to be able to face it with a appropriate toolset.
 
 #### How do we find strategies to survive in the VUCA world?
 
-We need a fundamentally new understanding of work planning and methodology. In order to be able to respond to continuously changing conditions, it is advisable to work in short iterations. We need a clear vision and principles to guide us in order to be able to align the short-term requirements into specifications. 
-
+We need a fundamentally new understanding of work planning and methodology. In order to be able to respond to continuously changing conditions, it is advisable to work in short iterations. We need a clear vision and principles to guide us in order to be able to align the short-term requirements into specifications.
