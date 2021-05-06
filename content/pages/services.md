@@ -86,6 +86,13 @@ sections:
       Together we organize a powerful team. We establish guidance and the ideal
       environment to serve your needs in an iterative, value-oriented and
       continously improving way.
+
+
+      > If you adopt only one agile practice let it be retrospectives.
+      Everything else will follow.
+
+
+      tbd.
     type: section_content
   - title: Application Modernization
     section_id: services-application-modernization
