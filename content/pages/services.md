@@ -38,7 +38,7 @@ sections:
       ##### Start with a package
 
 
-      #### Modern Workplace Kickstarter
+      #### Modern Workplace In**Fusion** Kickstarter
 
 
       Drive an immediate entry to the modern workplace with a Kickstarter
