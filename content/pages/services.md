@@ -95,6 +95,12 @@ sections:
       is the basis for refactoring, a new UI/UX design and a DevOps operating
       model. We squeeze value of out the data given.
 
+
+      > The goal is to turn data into information, and information into insight.
+
+
+      Tbd.
+
     type: section_content
 seo:
   title: Services - Epic Fusion GmbH
