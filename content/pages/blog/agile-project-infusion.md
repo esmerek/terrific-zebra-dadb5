@@ -40,7 +40,7 @@ In our initiatives, we start together with an Agility InFusion. Depending on the
 
 We do not limit ourselves to projects. Our Agility InFusion also works on how teams, business units, or even a complete organization define their work methods. We also support the establishment of DevOps practices for the replacement of classic development and operating models.
 
-Together, we establish the necessary work practices for the challenges of tomorrows digital work.
+Together, we establish the necessary work practices for the challenges of tomorrows digital work.
 
 #### What if we epic fail?
 
@@ -48,4 +48,4 @@ Congratulations! This is the first step towards learning.
 
 > If you adopt only one agile practice let it be retrospectives. Everything else will follow.
 
-tbd.
+We cannot know everything. But we can learn every day. Agile methodologies can't see into the future any better than others. But we can respond, reflect and learn faster with the toolset of agile working methods. And we have the processes to implement improvements evolving from learnings - immediately.
