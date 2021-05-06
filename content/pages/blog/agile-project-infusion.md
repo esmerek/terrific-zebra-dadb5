@@ -26,4 +26,5 @@ In a VUCA world like we are experiencing these days, agile methodologies are mor
 
 #### How do we find strategies to survive in the VUCA world?
 
-We need a fundamentally new understanding of work planning and methodology. In order to be able to respond to continuously changing conditions, it is advisable to work in short iterations. We need a clear vision and principles to guide us in order to be able to align the short-term requirements into specifications.
+We need a fundamentally new understanding of work planning and methodology. In order to be able to respond to continuously changing conditions, it is advisable to operate within short iterations. We need a clear vision and principles to guide us in order to be able to align the short-term requirements into specifications for the work-items to be done.
+
