@@ -33,16 +33,16 @@ To make this truly possible, we have been intensely focused on values and princi
 
 Our principles:
 
-> \*\*Purpose\*\* over Profits
+> Purpose over Profits
 >
-> \*\*We \*\* over Me
+> We over Me
 >
-> \*\*Trust \*\* over Control
+> Trust over Control
 >
-> \*\*Learn-It \*\*over Know-It
+> Learn-It over Know-It
 >
-> \*\*Experiment \*\* over Certainity
+> Experiment over Certainity
 >
-> \*\*Evolutionary \*\* over Strength
+> Evolutionary  over Strength
 >
-> \*\*Transparency \*\* over Obscurity
+> Transparency  over Obscurity
