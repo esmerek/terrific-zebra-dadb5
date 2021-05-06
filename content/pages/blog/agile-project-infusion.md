@@ -42,9 +42,9 @@ We do not limit ourselves to projects. Our Agility InFusion also works on how te
 
 Together, we establish the necessary practices for the challenges of tomorrows digital work.
 
-#### What if we epic fail?
+#### Celebrate Epic Fails!
 
-Congratulations! This is the first step towards learning.
+What if we fail? Congratulations! This is the first step towards learning.
 
 > If you adopt only one agile practice let it be retrospectives. Everything else will follow.
 
