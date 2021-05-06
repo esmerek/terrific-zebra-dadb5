@@ -6,7 +6,7 @@ sections:
     type: section_hero
     title: Mindset is everything.
     content: >
-      ### Why
+      #### Why
 
 
       Epic Fusion is here to move your digital initiatives into the new reality.
