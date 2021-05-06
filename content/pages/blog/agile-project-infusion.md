@@ -38,6 +38,10 @@ The Kanban approach can be seen more as an approach, as it is not a defined fram
 
 In our initiatives, we start together with an Agility InFusion. Depending on the level of knowledge, we define the suitable approach and an appropriate toolset. We make sure that everyone involved understands and supports the concept and philosophy.
 
+We do not limit ourselves to projects. Our Agility InFusion also works on how teams, business units, or even a complete organization define their work methods. We also support the establishment of DevOps practices for the replacement of classic development and operating models.
+
+Together, we establish the necessary work practices for the challenges of tomorrows digital work.
+
 #### What if we epic fail?
 
 Congratulations! This is the first step towards learning.
