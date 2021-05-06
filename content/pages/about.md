@@ -63,8 +63,7 @@ Our principles:
 >
 > Transparency  over Obscurity
 
-Our **values **complement our principles.
+Our values complement our principles.
 
 Are you curious about how a working relationship with us could look like? [Don't hesitate: Contact here.](https://terrific-zebra-dadb5.netlify.app)
 
-**
