@@ -49,7 +49,7 @@ sections:
       **CHF 5'000**
 
 
-      [Request today](https://terrific-zebra-dadb5.netlify.app/services/)
+      [Request](https://terrific-zebra-dadb5.netlify.app/services/)
     type: section_content
   - title: Employee Experience
     section_id: services-employee-experience
