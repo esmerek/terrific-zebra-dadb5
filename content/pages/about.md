@@ -35,7 +35,7 @@ Together we rise Epic Fusion as an agile evolutionary organization towards tomor
 
 > We unleash people's talent to create collective impact.
 
-#### &#xA;Why?
+#### &#xA;Why
 
 In the years 2020-2021 we experienced a true disruption in many of our areas of life. The digital world of work transformed faster than ever before. This brought completely new demands on infrastructure, technology, but also human skills and work culture. Epic Fusion was founded to fuse the talent of excellent people with the demand of tomorrows digital world.
 
@@ -66,4 +66,3 @@ Our principles:
 Our values complement our principles.
 
 Are you curious about how a working relationship with us could look like? [Don't hesitate: Contact here.](https://terrific-zebra-dadb5.netlify.app)
-
