@@ -99,7 +99,9 @@ sections:
       > The goal is to turn data into information, and information into insight.
 
 
-      We focus on the real added values.
+      We assist in rethinking processes and creating a basis for application
+      modernization. By purposefully reflecting on existing processes and
+      information, we realign the insights into the existing business data.
 
 
       [Request](https://terrific-zebra-dadb5.netlify.app)
