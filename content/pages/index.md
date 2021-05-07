@@ -25,7 +25,7 @@ sections:
         style: button
       - label: Let the magic happen
         url: '#'
-        style: link
+        style: button
         icon: dribbble
         new_window: false
         no_follow: false
