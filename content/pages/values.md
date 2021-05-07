@@ -3,7 +3,7 @@ title: What we commit ourselves to
 subtitle: We are driven by strong values to learn and grow every day
 image_alt: lorem-ipsum
 seo:
-  title: Our Values
+  title: Our Values - Epic Fusion GmbH
   description: >-
     Epic Fusion is driven by strong values to learn and grow everyday . This is
     what we commit ourselfes to.
