@@ -9,16 +9,10 @@ sections:
       #### Why we exist
 
 
-      Epic Fusion
-
-      is here to move your digital initiatives into the new reality. On a
-      baseline of
-
-      High-Impact and Horizon-Focus we let the magic happen towards your Digital
-
-      Tomorrow. We fuse talent of excellent people with the demands of the
-
-      technological and cultural change arised.
+      Epic Fusion is here to move your digital initiatives into the new reality.
+      With our talents collective we fuse your demands horizon-focused towards
+      the digital tomorrow. We catalyze the digital transformation with values
+      and purpose to create impact on people and society.
     actions:
       - label: Discover it
         url: '#start-Competences'
