@@ -58,7 +58,7 @@ sections:
           leadership are the essential key subjects that we focus on throughout
           a continous transformation process.
         actions:
-          - label: Change it
+          - label: Establish it
             url: '#'
             style: button
             icon: dribbble
