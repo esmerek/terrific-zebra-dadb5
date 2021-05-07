@@ -36,12 +36,11 @@ sections:
     grid_items:
       - title: Digital Workplace
         image_alt: lorem-ipsum
-        content: >+
-          Work anywhere and on any device. The modern workplace follows you and
-          your demands while it combines today's needs with accessible and
-          secure solutions. We enable the infrastructure and security baselines
-          to ensure that employees can focus on their work.
-
+        content: >
+          Work anywhere on any device. The modern workplace follows you and your
+          demands while it combines today's needs with accessible and secure
+          solutions. We enable the infrastructure and security baselines to
+          ensure that employees can focus on their work.
         actions:
           - label: Enable it
             url: '#'
