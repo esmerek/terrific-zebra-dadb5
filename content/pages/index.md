@@ -14,7 +14,7 @@ sections:
       tomorrow's digital world.**
     actions:
       - label: Discover it
-        url: /contact
+        url: '#start-Competences'
         style: button
   - title: Stories
     section_id: lorem-ipsum
