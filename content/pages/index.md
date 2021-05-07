@@ -23,6 +23,13 @@ sections:
       - label: Discover it
         url: '#start-Competences'
         style: button
+      - label: lorem-ipsum
+        url: '#'
+        style: link
+        icon: dribbble
+        new_window: false
+        no_follow: false
+        type: action
   - title: Stories
     section_id: lorem-ipsum
     posts_number: 2
