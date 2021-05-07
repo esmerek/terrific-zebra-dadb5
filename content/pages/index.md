@@ -9,9 +9,9 @@ sections:
       #### Why
 
 
-      It's all about the ability to change! We unlock people's talent to fuse it
-      with the demands of the technological and cultural challenges of
-      tomorrow's digital world.
+      **It's all about the ability to change! We unlock people's talent to fuse
+      it with the demands of the technological and cultural challenges of
+      tomorrow's digital world.**
     actions:
       - label: Let the magic happen
         url: /contact
