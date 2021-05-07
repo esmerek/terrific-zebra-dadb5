@@ -119,7 +119,10 @@ sections:
     type: section_content
 seo:
   title: Services - Epic Fusion GmbH
-  description: ''
+  description: >-
+    What we offer to move towards your digital tomorrow. Learn more on Cloud
+    Enablement, Employee Experience, Agile Project Guidance and Application
+    Modernization.
   robots: []
   extra: []
   type: stackbit_page_meta
