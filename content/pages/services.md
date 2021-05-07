@@ -46,7 +46,7 @@ sections:
       and a vision for the future.
 
 
-      **CHF 5'000**
+      **CHF 4'800**
 
 
       [Request](https://terrific-zebra-dadb5.netlify.app/services/)
