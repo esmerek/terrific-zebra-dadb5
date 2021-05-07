@@ -23,7 +23,7 @@ sections:
       - label: Discover it
         url: '#start-Competences'
         style: button
-      - label: lorem-ipsum
+      - label: Let the magic happen
         url: '#'
         style: link
         icon: dribbble
