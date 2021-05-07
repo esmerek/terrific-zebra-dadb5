@@ -139,9 +139,9 @@ sections:
             type: action
       - title: Application Modernization
         content: >
-          For modernization, we build the foundation with a process assessment.
-          This is the basis for refactoring, a new UI/UX design and a DevOps
-          operating model. We squeeze value of out the data given.
+          For modernization, we start with a process assessment. This is the
+          basis for refactoring, a new UI/UX design and a DevOps operating
+          model. We squeeze value of out the data given.
         actions:
           - label: Modernizate it
             url: >-
