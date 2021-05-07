@@ -6,7 +6,7 @@ sections:
     type: section_hero
     title: Mindset is everything.
     content: >
-      #### Why
+      #### Why we exist
 
 
       Epic Fusion
