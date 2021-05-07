@@ -9,9 +9,16 @@ sections:
       #### Why
 
 
-      **It's all about the ability to change! We unlock people's talent to fuse
-      it with the demands of the technological and cultural challenges of
-      tomorrow's digital world.**
+      Epic Fusion
+
+      is here to move your digital initiatives into the new reality. On a
+      baseline of
+
+      High-Impact and Horizon-Focus we let the magic happen towards your Digital
+
+      Tomorrow. We fuse talent of excellent people with the demands of the
+
+      technological and cultural change arised.
     actions:
       - label: Discover it
         url: '#start-Competences'
