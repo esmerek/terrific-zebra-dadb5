@@ -13,7 +13,7 @@ sections:
       it with the demands of the technological and cultural challenges of
       tomorrow's digital world.**
     actions:
-      - label: Let the magic happen
+      - label: Discover it
         url: /contact
         style: button
   - title: Stories
