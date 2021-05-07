@@ -73,7 +73,9 @@ sections:
     type: section_content
 seo:
   title: Competences - Epic Fusion GmbH
-  description: ''
+  description: >-
+    How we solve your challenges. Learn more about our key competences Modern
+    Workplace, Teamwork, Change Culture and Reinventing Processes.
   robots: []
   extra: []
   type: stackbit_page_meta

@@ -160,7 +160,7 @@ sections:
             type: action
     subtitle: What we offer to move towards your digital tomorrow
 seo:
-  title: Epic Fusion GmbH - Mindset is everything.
+  title: Epic Fusion - Mindset is everything.
   description: >-
     Epic Fusion moves your digital initiatives into the new reality. Shape your
     Digital Workplace towards the Employee Experience of the Digital Tomorrow!
