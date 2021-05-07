@@ -32,7 +32,9 @@ sections:
     submit_label: Send Message
 seo:
   title: Contact - Epic Fusion GmbH
-  description: This is the contact page
+  description: >-
+    How can we serve? We are pleased to help. Please fill the contact form below
+    or send us directly an email.
   extra:
     - name: 'og:type'
       value: website
