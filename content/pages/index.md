@@ -11,8 +11,8 @@ sections:
 
       Epic Fusion is here to move your digital initiatives into the new reality.
       With our talents collective we fuse your demands horizon-focused towards
-      the digital tomorrow. We catalyze the digital transformation with values
-      and purpose to create impact on people and society.
+      the digital tomorrow. We catalyze digital transformation with values and
+      purpose to create impact on people and society.
     actions:
       - label: Discover it
         url: '#start-Competences'
