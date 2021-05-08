@@ -10,17 +10,8 @@ sections:
       #### What we offer to move towards your digital tomorrow.&#xA;&#xA;&#xA;
   - section_id: lorem-ipsum
     image_alt: lorem-ipsum
-    content: >-
-      ## Lorem ipsum
-
-
-      Lorem ipsum dolor sit amet, **consectetur adipiscing elit**, sed do
-      eiusmod tempor incididunt ut labore et dolore magna aliqua.
-
-
-      - Lorem ipsum
-
-      - dolor sit amet
+    content: |
+      *   a
     type: section_content
   - title: Cloud Enablement
     section_id: services-cloud-enablement
