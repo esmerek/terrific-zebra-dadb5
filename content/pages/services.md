@@ -11,7 +11,10 @@ sections:
   - section_id: lorem-ipsum
     image_alt: lorem-ipsum
     content: |
-      *   a
+      *   Cloud Enablement
+      *   Employee Experience
+      *   Agile Project Guidance
+      *   Application Modernization
     type: section_content
   - title: Cloud Enablement
     section_id: services-cloud-enablement
