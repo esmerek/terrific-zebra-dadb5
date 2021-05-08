@@ -15,7 +15,7 @@ sections:
         no_follow: false
         type: action
     type: section_hero
-  - title: lorem-ipsum
+  - title: Learn more about us?
     section_id: lorem-ipsum
     subtitle: lorem-ipsum
     image_alt: lorem-ipsum
