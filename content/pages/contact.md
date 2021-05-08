@@ -15,12 +15,6 @@ sections:
         no_follow: false
         type: action
     type: section_hero
-  - title: Learn more about us?
-    section_id: lorem-ipsum
-    image_alt: lorem-ipsum
-    content: |
-      Visit here.
-    type: section_content
 seo:
   title: Contact - Epic Fusion GmbH
   description: >-
