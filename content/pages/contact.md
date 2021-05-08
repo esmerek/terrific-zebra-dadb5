@@ -2,8 +2,7 @@
 title: Contact
 hide_title: false
 sections:
-  - title: Contact
-    section_id: lorem-ipsum
+  - section_id: lorem-ipsum
     content: >
       How can we serve? We are pleased to help. Please fill the contact form
       below or send us directly an email at hello@epicfusion.com.
