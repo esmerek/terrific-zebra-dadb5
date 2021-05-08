@@ -2,36 +2,7 @@
 title: Contact
 hide_title: false
 sections:
-  - section_id: contact-form
-    type: section_form
-    content: >
-      How can we serve? We are pleased to help. Please fill the contact form
-      below or send us directly an email at hello@epicfusion.com.
-    form_id: contactForm
-    form_action: /thank-you
-    form_fields:
-      - input_type: text
-        name: name
-        label: Name
-        default_value: Your name
-        is_required: true
-      - input_type: email
-        name: email
-        label: Email
-        default_value: Your email address
-        is_required: true
-      - input_type: textarea
-        name: message
-        label: Message
-        default_value: Your message
-      - input_type: checkbox
-        name: consent
-        label: >-
-          I understand that this form is storing my submitted information so I
-          can be contacted.
-    submit_label: Send Message
-  - title: Contact
-    section_id: lorem-ipsum
+  - section_id: lorem-ipsum
     content: >
       How can we serve? We are pleased to help. Please fill the contact form
       below or send us directly an email at hello@epicfusion.com.
@@ -44,22 +15,6 @@ sections:
         no_follow: false
         type: action
     type: section_hero
-  - title: lorem-ipsum
-    section_id: lorem-ipsum
-    subtitle: lorem-ipsum
-    image_alt: lorem-ipsum
-    content: >-
-      ## Lorem ipsum
-
-
-      Lorem ipsum dolor sit amet, **consectetur adipiscing elit**, sed do
-      eiusmod tempor incididunt ut labore et dolore magna aliqua.
-
-
-      - Lorem ipsum
-
-      - dolor sit amet
-    type: section_content
 seo:
   title: Contact - Epic Fusion GmbH
   description: >-
