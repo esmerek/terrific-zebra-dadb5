@@ -30,6 +30,36 @@ sections:
           I understand that this form is storing my submitted information so I
           can be contacted.
     submit_label: Send Message
+  - title: Contact
+    section_id: lorem-ipsum
+    content: >
+      How can we serve? We are pleased to help. Please fill the contact form
+      below or send us directly an email at hello@epicfusion.com.
+    actions:
+      - label: Leave a message here
+        url: 'https://form.asana.com?k=AdlAWEDpqiAikr-o_rKkxA&d=1200129872637977'
+        style: button
+        icon: dribbble
+        new_window: true
+        no_follow: false
+        type: action
+    type: section_hero
+  - title: lorem-ipsum
+    section_id: lorem-ipsum
+    subtitle: lorem-ipsum
+    image_alt: lorem-ipsum
+    content: >-
+      ## Lorem ipsum
+
+
+      Lorem ipsum dolor sit amet, **consectetur adipiscing elit**, sed do
+      eiusmod tempor incididunt ut labore et dolore magna aliqua.
+
+
+      - Lorem ipsum
+
+      - dolor sit amet
+    type: section_content
 seo:
   title: Contact - Epic Fusion GmbH
   description: >-
