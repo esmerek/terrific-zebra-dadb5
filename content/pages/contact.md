@@ -40,7 +40,7 @@ sections:
         url: 'https://form.asana.com?k=AdlAWEDpqiAikr-o_rKkxA&d=1200129872637977'
         style: button
         icon: dribbble
-        new_window: false
+        new_window: true
         no_follow: false
         type: action
     type: section_hero
