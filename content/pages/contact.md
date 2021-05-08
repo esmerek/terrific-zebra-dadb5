@@ -36,7 +36,7 @@ sections:
       How can we serve? We are pleased to help. Please fill the contact form
       below or send us directly an email at hello@epicfusion.com.
     actions:
-      - label: lorem-ipsum
+      - label: Open Contact Form
         url: '#'
         style: link
         icon: dribbble
