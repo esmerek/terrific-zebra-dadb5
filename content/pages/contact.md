@@ -30,7 +30,7 @@ sections:
           I understand that this form is storing my submitted information so I
           can be contacted.
     submit_label: Send Message
-  - title: lorem-ipsum
+  - title: Contact
     section_id: lorem-ipsum
     content: >-
       ## Lorem ipsum
