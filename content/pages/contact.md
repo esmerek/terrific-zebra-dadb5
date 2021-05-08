@@ -36,7 +36,7 @@ sections:
       How can we serve? We are pleased to help. Please fill the contact form
       below or send us directly an email at hello@epicfusion.com.
     actions:
-      - label: Open Contact Form
+      - label: Leave a message here
         url: '#'
         style: link
         icon: dribbble
