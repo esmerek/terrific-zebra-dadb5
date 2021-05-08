@@ -6,12 +6,18 @@ sections:
     section_id: lorem-ipsum
     actions: []
     type: section_hero
-    content: |+
+    content: |
       #### What we offer to move towards your digital tomorrow.
 
 
 
+      Cloud Enablement
 
+      Employee Experience
+
+      Agile Project Guidance
+
+      Application Modernization
   - section_id: lorem-ipsum
     image_alt: lorem-ipsum
     content: |
