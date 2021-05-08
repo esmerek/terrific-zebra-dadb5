@@ -32,17 +32,9 @@ sections:
     submit_label: Send Message
   - title: Contact
     section_id: lorem-ipsum
-    content: >-
-      ## Lorem ipsum
-
-
-      Lorem ipsum dolor sit amet, **consectetur adipiscing elit**, sed do
-      eiusmod tempor incididunt ut labore et dolore magna aliqua.
-
-
-      - Lorem ipsum
-
-      - dolor sit amet
+    content: >
+      How can we serve? We are pleased to help. Please fill the contact form
+      below or send us directly an email at hello@epicfusion.com.
     actions: []
     type: section_hero
 seo:
