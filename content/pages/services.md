@@ -96,6 +96,20 @@ sections:
       are more important than ever.
 
 
+      ##### Start with a package
+
+
+      #### Agile Project In**Fusion** - Kickstarter
+
+
+      We do an easy and immediate entry to agile project methodologies. We'll
+      look at some basics about agile, Scrum and Kanban and work through some
+      specific applicable approaches in your organization.
+
+
+      **CHF 800**
+
+
       [Request](https://terrific-zebra-dadb5.netlify.app)
     type: section_content
   - title: Application Modernization
