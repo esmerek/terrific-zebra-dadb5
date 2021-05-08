@@ -9,7 +9,6 @@ sections:
     content: |
       #### What we offer to move towards your digital tomorrow.&#xA;&#xA;&#xA;
   - section_id: lorem-ipsum
-    subtitle: lorem-ipsum
     image_alt: lorem-ipsum
     content: >-
       ## Lorem ipsum
