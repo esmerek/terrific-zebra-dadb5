@@ -6,18 +6,24 @@ sections:
     section_id: lorem-ipsum
     actions: []
     type: section_hero
-    content: |
+    content: >
       #### What we offer to move towards your digital tomorrow.
 
 
+      *   [Cloud
+      Enablement](https://terrific-zebra-dadb5.netlify.app/services#services-cloud-enablement)
 
-      Cloud Enablement
 
-      Employee Experience
+      *   [Employee
+      Experience](https://terrific-zebra-dadb5.netlify.app/services#services-employee-experience)
 
-      Agile Project Guidance
 
-      Application Modernization
+      *   [Agile Project
+      Guidance](https://terrific-zebra-dadb5.netlify.app/services#services-agile-project-guidance)
+
+
+      *   [Application
+      Modernization](https://terrific-zebra-dadb5.netlify.app/services#services-application-modernization)
   - title: Cloud Enablement
     section_id: services-cloud-enablement
     image_alt: lorem-ipsum
