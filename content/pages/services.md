@@ -6,8 +6,24 @@ sections:
     section_id: lorem-ipsum
     actions: []
     type: section_hero
-    content: |
-      #### What we offer to move towards your digital tomorrow.&#xA;&#xA;&#xA;
+    content: >
+      #### What we offer to move towards your digital tomorrow.
+
+
+      *   [Cloud
+      Enablement](https://terrific-zebra-dadb5.netlify.app/services#services-cloud-enablement)
+
+
+      *   [Employee
+      Experience](https://terrific-zebra-dadb5.netlify.app/services#services-employee-experience)
+
+
+      *   [Agile Project
+      Guidance](https://terrific-zebra-dadb5.netlify.app/services#services-agile-project-guidance)
+
+
+      *   [Application
+      Modernization](https://terrific-zebra-dadb5.netlify.app/services#services-application-modernization)
   - title: Cloud Enablement
     section_id: services-cloud-enablement
     image_alt: lorem-ipsum
@@ -77,6 +93,21 @@ sections:
       We care about real Workplace Wellbeeing. Would you like to learn more?
 
 
+      ##### Start with a package
+
+
+      #### #workanywhere Assessment
+
+
+      We analyze the given possibilities for working from any location. In doing
+      so, we bring together the employees' perspective, the impact on teamwork
+      and culture, and the technical requirements such as security and
+      infrastructure requirements in one report.
+
+
+      **CHF 3'200**
+
+
       [Request](https://terrific-zebra-dadb5.netlify.app/services/)
     type: section_content
   - title: Agile Project Guidance
@@ -94,6 +125,20 @@ sections:
 
       In a VUCA world like we are experiencing these days, agile methodologies
       are more important than ever.
+
+
+      ##### Start with a package
+
+
+      #### Agile Project In**Fusion** - Kickstarter
+
+
+      We do an easy and immediate entry to agile project methodologies. We'll
+      look at some basics about agile, Scrum and Kanban and work through some
+      specific applicable approaches in your organization.
+
+
+      **CHF 800**
 
 
       [Request](https://terrific-zebra-dadb5.netlify.app)
