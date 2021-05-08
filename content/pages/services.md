@@ -93,6 +93,21 @@ sections:
       We care about real Workplace Wellbeeing. Would you like to learn more?
 
 
+      ##### Start with a package
+
+
+      #### #workanywhere Assessment
+
+
+      We analyze the given possibilities for working from any location. In doing
+      so, we bring together the employees' perspective, the impact on teamwork
+      and culture, and the technical requirements such as security and
+      infrastructure requirements in one report.
+
+
+      **CHF 3'200**
+
+
       [Request](https://terrific-zebra-dadb5.netlify.app/services/)
     type: section_content
   - title: Agile Project Guidance
