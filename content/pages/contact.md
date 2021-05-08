@@ -35,7 +35,14 @@ sections:
     content: >
       How can we serve? We are pleased to help. Please fill the contact form
       below or send us directly an email at hello@epicfusion.com.
-    actions: []
+    actions:
+      - label: lorem-ipsum
+        url: '#'
+        style: link
+        icon: dribbble
+        new_window: false
+        no_follow: false
+        type: action
     type: section_hero
 seo:
   title: Contact - Epic Fusion GmbH
