@@ -51,7 +51,7 @@ sections:
       *   **#workanywhere Distributed Work Models**
 
 
-      ##### Learn more? Free advisory session!
+      #### Learn more? Free advisory session!
 
 
       Curious to learn more? We offer free advisory sessions on Cloud Enablement
