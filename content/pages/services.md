@@ -51,11 +51,11 @@ sections:
       *   **#workanywhere Distributed Work Models**
 
 
-      ##### Curious to learn more?
+      ##### Learn more? Free advisory session!
 
 
-      We offer **free advisory sessions** on Cloud Enablement and Modern
-      Workplace! Fancy that! Request an appointment today.
+      Curious to learn more? We offer free advisory sessions on Cloud Enablement
+      and Modern Workplace! Fancy that! Request an appointment today.
 
 
       [Request appointment ](https://terrific-zebra-dadb5.netlify.app/services/)
