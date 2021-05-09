@@ -1,8 +1,6 @@
 ---
 title: About
-subtitle: >-
-  We catalyze digital transformation with values and purpose to create impact on
-  people and society
+subtitle: Who we are
 image: images/epic-fusion-thin.png
 image_alt: A man taking a picture
 seo:
