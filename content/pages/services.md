@@ -51,21 +51,14 @@ sections:
       *   **#workanywhere Distributed Work Models**
 
 
-      ##### Start with a package
+      ##### Curious to learn more?
 
 
-      #### Modern Workplace In**Fusion** - Kickstarter
+      We offer **free advisory sessions** on our services! Fancy that! Request
+      an appointment today.
 
 
-      Drive an immediate entry to the modern workplace with a Kickstarter
-      concept. This includes an analysis of the baseline conditions, a roadmap
-      and a vision for the future.
-
-
-      **CHF 4'800**
-
-
-      [Request](https://terrific-zebra-dadb5.netlify.app/services/)
+      [Request appointment ](https://terrific-zebra-dadb5.netlify.app/services/)
     type: section_content
   - title: Employee Experience
     section_id: services-employee-experience
