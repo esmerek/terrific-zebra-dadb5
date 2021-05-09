@@ -86,22 +86,17 @@ sections:
       We care about real Workplace Wellbeeing. Would you like to learn more?
 
 
-      ##### Start with a package
+      #### Learn more: Free advisory session!
 
 
-      #### #workanywhere Assessment
+      Curious? We offer free advisory sessions on Cloud Enablement and Modern
+      Workplace! Fancy that!
 
 
-      We analyze the given possibilities for working from any location. In doing
-      so, we bring together the employees' perspective, the impact on teamwork
-      and culture, and the technical requirements such as security and
-      infrastructure requirements in one report.
+      [Request appointment ](https://terrific-zebra-dadb5.netlify.app/services/)
 
 
-      **CHF 3'200**
-
-
-      [Request](https://terrific-zebra-dadb5.netlify.app/services/)
+      [](https://terrific-zebra-dadb5.netlify.app/services/)
     type: section_content
   - title: Agile Project Guidance
     section_id: services-agile-project-guidance
