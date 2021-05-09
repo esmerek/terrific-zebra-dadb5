@@ -1,6 +1,8 @@
 ---
 title: What we commit ourselves to
-subtitle: We are driven by strong values to learn and grow every day
+subtitle: >-
+  We catalyze digital transformation with values and purpose to create impact on
+  people and society
 image_alt: lorem-ipsum
 seo:
   title: Our Values - Epic Fusion GmbH

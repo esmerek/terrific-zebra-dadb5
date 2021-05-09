@@ -1,5 +1,5 @@
 ---
-title: Our Competences
+title: Services
 hide_title: true
 sections:
   - title: Services

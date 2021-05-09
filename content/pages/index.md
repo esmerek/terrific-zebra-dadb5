@@ -1,5 +1,5 @@
 ---
-title: Home
+title: Epic Fusion Home
 hide_title: true
 sections:
   - section_id: hero
