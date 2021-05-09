@@ -127,7 +127,7 @@ sections:
   - title: Application Modernization
     section_id: services-application-modernization
     image_alt: lorem-ipsum
-    content: >
+    content: >+
       For modernization, we build the foundation with a process assessment. This
       is the basis for refactoring, a new UI/UX design and a DevOps operating
       model. We squeeze value of out the data given.
@@ -141,7 +141,17 @@ sections:
       information, we realign the insights into the existing business data.
 
 
-      [Request](https://terrific-zebra-dadb5.netlify.app)
+
+
+      #### Learn more: Free advisory session!
+
+
+      Curious? We offer free advisory sessions on Application Modernization!
+      Fancy that!
+
+
+      [Request appointment ](https://terrific-zebra-dadb5.netlify.app/services/)
+
     type: section_content
 seo:
   title: Services - Epic Fusion GmbH
