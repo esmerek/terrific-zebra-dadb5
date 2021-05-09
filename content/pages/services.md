@@ -101,7 +101,7 @@ sections:
   - title: Agile Project Guidance
     section_id: services-agile-project-guidance
     image_alt: lorem-ipsum
-    content: >+
+    content: >
       Together we organize a powerful team. We establish guidance and the ideal
       environment to serve your needs in an iterative, value-oriented and
       continously improving way.
@@ -115,9 +115,6 @@ sections:
       are more important than ever.
 
 
-      #####
-
-
       #### Learn more: Free advisory session!
 
 
@@ -126,7 +123,6 @@ sections:
 
 
       [Request appointment ](https://terrific-zebra-dadb5.netlify.app/services/)
-
     type: section_content
   - title: Application Modernization
     section_id: services-application-modernization
