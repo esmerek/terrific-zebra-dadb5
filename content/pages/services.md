@@ -51,21 +51,15 @@ sections:
       *   **#workanywhere Distributed Work Models**
 
 
-      ##### Start with a package
+      #### Learn more: Free advisory session!
 
 
-      #### Modern Workplace In**Fusion** - Kickstarter
+      Curious? We offer free advisory sessions on Cloud Enablement and Modern
+      Workplace! Fancy that!
 
 
-      Drive an immediate entry to the modern workplace with a Kickstarter
-      concept. This includes an analysis of the baseline conditions, a roadmap
-      and a vision for the future.
-
-
-      **CHF 4'800**
-
-
-      [Request](https://terrific-zebra-dadb5.netlify.app/services/)
+      [Request appointment
+      ](https://form.asana.com?k=AdlAWEDpqiAikr-o_rKkxA\&d=1200129872637977)
     type: section_content
   - title: Employee Experience
     section_id: services-employee-experience
@@ -93,22 +87,18 @@ sections:
       We care about real Workplace Wellbeeing. Would you like to learn more?
 
 
-      ##### Start with a package
+      #### Learn more: Free advisory session!
 
 
-      #### #workanywhere Assessment
+      Curious? We offer free advisory sessions on Employee Experience and
+      Culture Change! Fancy that!
 
 
-      We analyze the given possibilities for working from any location. In doing
-      so, we bring together the employees' perspective, the impact on teamwork
-      and culture, and the technical requirements such as security and
-      infrastructure requirements in one report.
+      [Request appointment
+      ](https://form.asana.com?k=AdlAWEDpqiAikr-o_rKkxA\&d=1200129872637977)
 
 
-      **CHF 3'200**
-
-
-      [Request](https://terrific-zebra-dadb5.netlify.app/services/)
+      [](https://terrific-zebra-dadb5.netlify.app/services/)
     type: section_content
   - title: Agile Project Guidance
     section_id: services-agile-project-guidance
@@ -127,21 +117,15 @@ sections:
       are more important than ever.
 
 
-      ##### Start with a package
+      #### Learn more: Free advisory session!
 
 
-      #### Agile Project In**Fusion** - Kickstarter
+      Curious? We offer free advisory sessions on Agile Project Guidance! Fancy
+      that!
 
 
-      We do an easy and immediate entry to agile project methodologies. We'll
-      look at some basics about agile, Scrum and Kanban and work through some
-      specific applicable approaches in your organization.
-
-
-      **CHF 800**
-
-
-      [Request](https://terrific-zebra-dadb5.netlify.app)
+      [Request appointment
+      ](https://form.asana.com?k=AdlAWEDpqiAikr-o_rKkxA\&d=1200129872637977)
     type: section_content
   - title: Application Modernization
     section_id: services-application-modernization
@@ -160,7 +144,15 @@ sections:
       information, we realign the insights into the existing business data.
 
 
-      [Request](https://terrific-zebra-dadb5.netlify.app)
+      #### Learn more: Free advisory session!
+
+
+      Curious? We offer free advisory sessions on Application Modernization!
+      Fancy that!
+
+
+      [Request appointment
+      ](https://form.asana.com?k=AdlAWEDpqiAikr-o_rKkxA\&d=1200129872637977)
     type: section_content
 seo:
   title: Services - Epic Fusion GmbH
