@@ -55,7 +55,7 @@ sections:
 
 
       Curious to learn more? We offer free advisory sessions on Cloud Enablement
-      and Modern Workplace! Fancy that! Request an appointment today.
+      and Modern Workplace! Fancy that!
 
 
       [Request appointment ](https://terrific-zebra-dadb5.netlify.app/services/)
