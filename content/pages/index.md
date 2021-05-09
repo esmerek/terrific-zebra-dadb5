@@ -1,5 +1,5 @@
 ---
-title: Epic Fusion - Mindset is Everyhting
+title: Epic Fusion Home
 hide_title: true
 sections:
   - section_id: hero
