@@ -69,6 +69,8 @@ To make this truly possible, we have been intensely focused on values and princi
 >
 > Transparency  over Obscurity
 
-Our values complement our principles.
+Find out more about our values here.
 
-Are you curious about how a working relationship with us could look like? [Don't hesitate: Contact here.](https://terrific-zebra-dadb5.netlify.app)
+
+
+Curious about working with us? [Contact here.](https://terrific-zebra-dadb5.netlify.app)
