@@ -101,7 +101,7 @@ sections:
   - title: Agile Project Guidance
     section_id: services-agile-project-guidance
     image_alt: lorem-ipsum
-    content: >
+    content: >+
       Together we organize a powerful team. We establish guidance and the ideal
       environment to serve your needs in an iterative, value-oriented and
       continously improving way.
@@ -115,21 +115,18 @@ sections:
       are more important than ever.
 
 
-      ##### Start with a package
+      #####
 
 
-      #### Agile Project In**Fusion** - Kickstarter
+      #### Learn more: Free advisory session!
 
 
-      We do an easy and immediate entry to agile project methodologies. We'll
-      look at some basics about agile, Scrum and Kanban and work through some
-      specific applicable approaches in your organization.
+      Curious? We offer free advisory sessions on Agile Project Guidance! Fancy
+      that!
 
 
-      **CHF 800**
+      [Request appointment ](https://terrific-zebra-dadb5.netlify.app/services/)
 
-
-      [Request](https://terrific-zebra-dadb5.netlify.app)
     type: section_content
   - title: Application Modernization
     section_id: services-application-modernization
