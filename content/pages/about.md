@@ -33,6 +33,8 @@ seo:
       relativeUrl: true
 layout: page
 ---
+Epic Fusion is here to move your digital initiatives into the new reality. With our talents collective we fuse your demands horizon-focused towards the digital tomorrow. We catalyze digital transformation with values and purpose to create impact on people and society.
+
 Together we rise Epic Fusion as an agile evolutionary organization towards tomorrow. We believe in distributed authority and collective intelligence to grow each and every day. We are committed to building the distributed future and choose talent over locality.
 
 > We unleash people's talent to create collective impact.
