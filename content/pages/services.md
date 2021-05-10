@@ -55,7 +55,7 @@ sections:
 
 
       Curious? We offer free advisory sessions on Cloud Enablement and Modern
-      Workplace! Fancy that!
+      Workplace Strategy! Fancy that!
 
 
       [Request appointment
