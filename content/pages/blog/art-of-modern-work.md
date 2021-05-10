@@ -32,13 +32,15 @@ Rapid enablement concepts can help to support strategies in all areas of the org
 
 ### Build the foundation
 
+In addition to a technical and secure infrastructure baseline, it is important to prepare your organization for change.
+
 #### Leadership
 
-It is always founded on leadership. Create a forward focused, collective leadership culture. Shape roles that are exceptionally engaged in driving this culture into the organization. 
+It is always founded on leadership. Create a forward focused, collective leadership culture. Shape roles that are exceptionally engaged in driving this culture into the organization.
 
 #### Communication
 
-Modern work together requires an exceptional amount of communication. It is important to communicate a clear vision and key message. Regular updates and smart use of existing channels will promote awareness of modern work. 
+Modern work together requires an exceptional amount of communication. It is important to communicate a clear vision and key message. Regular updates and smart use of existing channels will promote awareness of modern work.
 
 #### Engage
 
@@ -51,6 +53,3 @@ Regular retrospectives assist in reflecting on progress and learnings. Establish
 ### Workplace Wellbeeing
 
 The magic takes place when all elements interact ideally. Happy employees who can fully participate are the best lever to constantly grow a healthy organization culture.
-
-
-
