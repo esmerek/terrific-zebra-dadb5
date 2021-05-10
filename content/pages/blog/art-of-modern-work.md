@@ -3,8 +3,9 @@ title: The Art of Modern Work
 thumb_image_alt: lorem-ipsum
 image_alt: lorem-ipsum
 excerpt: >-
-  The time has come for Modern Work. But how to handle it? How can we transform
-  culture, processes, people and infrastructure at the same time
+  The time has come for Modern Work. But how to handle it? How can we have a
+  positive impact on culture change, processes, employees and infrastructure at
+  the same time?
 seo:
   title: The Art of Modern Work - Epic Fusion GmbH
   description: >-
