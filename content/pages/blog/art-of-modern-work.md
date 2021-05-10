@@ -31,3 +31,26 @@ It doesn't matter whether it's new employees, business ideas or a market launch:
 Rapid enablement concepts can help to support strategies in all areas of the organization to become faster and to meet these challenges.
 
 ### Build the foundation
+
+#### Leadership
+
+It is always founded on leadership. Create a forward focused, collective leadership culture. Shape roles that are exceptionally engaged in driving this culture into the organization. 
+
+#### Communication
+
+Modern work together requires an exceptional amount of communication. It is important to communicate a clear vision and key message. Regular updates and smart use of existing channels will promote awareness of modern work. 
+
+#### Engage
+
+Engage with your employees, with your leaders, and with cross-unit stakeholder groups. Make sure everyone is represented or can get involved.
+
+#### Evaluate
+
+Regular retrospectives assist in reflecting on progress and learnings. Establish appropriate tools to ensure that findings are implemented long-term and that measures can be reassessed for their impact.
+
+### Workplace Wellbeeing
+
+The magic takes place when all elements interact ideally. Happy employees who can fully participate are the best lever to constantly grow a healthy organization culture.
+
+
+
