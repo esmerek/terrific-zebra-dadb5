@@ -22,9 +22,7 @@ excerpt: >-
 ---
 ### Why Modern Work
 
-Technology, society and organizations have changed increasingly fast over the past few years - and so has the way we work. We need to respond to these changes in a future-proof way today.
-
-To remain competitive, organizations must become even more agile and able to adapt to new constraints.
+Technology, society and organizations have changed increasingly fast over the past few years - and so has the way we work. We need to respond to these changes in a future-proof way today. To remain competitive, organizations must become even more agile and able to adapt to new constraints.
 
 ### Rapid Enablement
 
