@@ -16,7 +16,7 @@ seo:
   extra: []
   type: stackbit_page_meta
 layout: post
-thumb_image: images/smart-tomato.jpg
+thumb_image: images/istockphoto-928048856-2048x2048.jpg
 image: images/charming-pineapple.jpg
 date: '2020-01-01'
 ---
