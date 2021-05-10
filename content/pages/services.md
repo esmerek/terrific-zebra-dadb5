@@ -48,7 +48,7 @@ sections:
       *   **Windows 10 & Mobile Devices**
 
 
-      *   **#workanywhere Distributed Work Models**
+      *   **Distributed Work Models**
 
 
       #### Learn more: Free advisory session!
