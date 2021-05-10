@@ -17,8 +17,8 @@ image: images/maroon-cabbage.jpg
 date: '2020-01-01'
 excerpt: >-
   Technology, society and organizations have changed increasingly fast over the
-  past few years - and so has the way we work. How can we respond today to these
-  changes in a future-proof way?
+  past few years - and so has the way we work. We need to respond to these
+  changes in a future-proof way today.
 ---
 ### Why Modern Work
 
