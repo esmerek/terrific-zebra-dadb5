@@ -16,8 +16,8 @@ seo:
   type: stackbit_page_meta
 layout: post
 date: '2021-05-01'
-thumb_image: images/remarkable-saturn.jpg
-image: images/adorable-triceratops.jpg
+thumb_image: images/iStock-901621108-850px.jpg
+image: images/iStock-901621108-1750px.jpg
 ---
 An Epic Fusion has happened! Learn more about our story and how we will serve you towards tomorrows digital world.
 
