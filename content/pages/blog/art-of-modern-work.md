@@ -22,7 +22,9 @@ excerpt: >-
 ---
 ### Why Modern Work
 
-Technology, society and organizations have changed increasingly fast over the past few years - and so has the way we work. We need to respond today to these changes in a future-proof way!
+Technology, society and organizations have changed increasingly fast over the past few years - and so has the way we work. We need to respond to these changes in a future-proof way today.
+
+Rapid Enablement
 
 
 
