@@ -15,6 +15,10 @@ layout: post
 thumb_image: images/istockphoto-928048856-2048x2048.jpg
 image: images/maroon-cabbage.jpg
 date: '2020-01-01'
+excerpt: >-
+  Technology and society have changed increasingly rapidly over the past few
+  years - and so has the way we work. How can we respond today to these changes
+  in a future-proof way?
 ---
 ### Why Modern Work
 
