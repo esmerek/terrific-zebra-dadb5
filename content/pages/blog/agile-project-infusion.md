@@ -17,7 +17,7 @@ seo:
   extra: []
   type: stackbit_page_meta
 layout: post
-thumb_image: images/istockphoto-1169417154-1024x1024.jpg
+thumb_image: images/iStock-1169417154-850px.jpg
 image: images/istockphoto-1169417154-1024x1024.jpg
 ---
 #### Why to establish an agile mindset
