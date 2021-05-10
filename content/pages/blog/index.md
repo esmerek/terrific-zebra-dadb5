@@ -25,7 +25,7 @@ seo:
     - name: 'twitter:title'
       value: Blog - Epic Fusion GmbH
     - name: 'twitter:description'
-      value: This is the blog page
+      value: 'News, tips and highlights at Epic Fusion.'
     - name: 'twitter:image'
       value: /images/iStock-1169417154-850px.jpg
       relativeUrl: true
