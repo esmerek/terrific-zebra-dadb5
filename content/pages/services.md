@@ -48,14 +48,14 @@ sections:
       *   **Windows 10 & Mobile Devices**
 
 
-      *   **#workanywhere Distributed Work Models**
+      *   **Distributed Work Models**
 
 
       #### Learn more: Free advisory session!
 
 
       Curious? We offer free advisory sessions on Cloud Enablement and Modern
-      Workplace! Fancy that!
+      Workplace Strategy! Fancy that!
 
 
       [Request appointment
