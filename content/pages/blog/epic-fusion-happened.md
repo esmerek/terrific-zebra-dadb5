@@ -5,7 +5,8 @@ thumb_image_alt: lorem-ipsum
 image_alt: lorem-ipsum
 excerpt: >-
   Mindset is everything. Epic Fusion is born and ready to move you towards the
-  digital tomorrow. We do Digital Transformation. Fast Forward.
+  digital tomorrow. We catalyze digital transformation with values and purpose
+  to create impact on people and society.
 seo:
   title: An Epic Fusion happened! - Epic Fusion GmbH
   description: >-
