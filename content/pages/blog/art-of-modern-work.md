@@ -4,8 +4,8 @@ thumb_image_alt: lorem-ipsum
 image_alt: lorem-ipsum
 excerpt: >-
   How can the capabilities of modern work be made manageable, secure, and
-  accessible - at the same time? Is it magic or simply the Art of Modern Work?
-  Let us look at it together.
+  accessible - all together at the same time? Is it magic or simply the Art of
+  Modern Work? Let us look at it together.
 seo:
   title: The Art of Modern Work - Epic Fusion GmbH
   description: >-
