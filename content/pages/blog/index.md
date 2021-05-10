@@ -11,7 +11,7 @@ seo:
       value: website
       keyName: property
     - name: 'og:title'
-      value: Blog
+      value: Blog - Epic Fusion GmbH
       keyName: property
     - name: 'og:description'
       value: 'News, tips and highlights at Epic Fusion.'
