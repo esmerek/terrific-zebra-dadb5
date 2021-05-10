@@ -11,23 +11,23 @@ seo:
       value: website
       keyName: property
     - name: 'og:title'
-      value: Blog
+      value: Blog - Epic Fusion GmbH
       keyName: property
     - name: 'og:description'
-      value: This is the blog page
+      value: 'News, tips and highlights at Epic Fusion.'
       keyName: property
     - name: 'og:image'
-      value: images/12.jpg
+      value: /images/iStock-1169417154-850px.jpg
       keyName: property
       relativeUrl: true
     - name: 'twitter:card'
       value: summary_large_image
     - name: 'twitter:title'
-      value: Blog
+      value: Blog - Epic Fusion GmbH
     - name: 'twitter:description'
-      value: This is the blog page
+      value: 'News, tips and highlights at Epic Fusion.'
     - name: 'twitter:image'
-      value: images/12.jpg
+      value: /images/iStock-1169417154-850px.jpg
       relativeUrl: true
 layout: blog
 ---
