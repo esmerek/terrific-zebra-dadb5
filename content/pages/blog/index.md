@@ -14,7 +14,7 @@ seo:
       value: Blog
       keyName: property
     - name: 'og:description'
-      value: This is the blog page
+      value: 'News, tips and highlights at Epic Fusion.'
       keyName: property
     - name: 'og:image'
       value: /images/iStock-1169417154-850px.jpg
