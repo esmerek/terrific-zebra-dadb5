@@ -27,14 +27,14 @@ sections:
       #### Handeslregistereintrag
 
 
-      Eingetragener Firmenname: Epic Fusion GmbH, Nr. bei Handelsregisteramt
-      Bern
+      Eingetragener Firmenname: Epic Fusion GmbH, UID CHE-246.411.751,
+      Handelsregisteramt Bern
 
 
       ##### Mehrwertsteuernummer
 
 
-      CHE- MWST
+      CHE-246.411.751 MWST
 
 
       #### Haftungsauschluss
@@ -135,7 +135,9 @@ sections:
     type: section_content
 seo:
   title: Impressum - Epic Fusion GmbH
-  description: 'Epic Fusion GmbH, Kranichweg 2, 3074 Muri bei Bern. MWST-Nr. CHE-XXXXX MWST.'
+  description: >-
+    Epic Fusion GmbH, Kranichweg 2, 3074 Muri bei Bern. UID CHE-246.411.751
+    MWST.
   robots: []
   extra: []
   type: stackbit_page_meta
