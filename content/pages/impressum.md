@@ -27,14 +27,14 @@ sections:
       #### Handeslregistereintrag
 
 
-      Eingetragener Firmenname: Epic Fusion GmbH, Nr. bei Handelsregisteramt
-      Bern
+      Eingetragener Firmenname: Epic Fusion GmbH, UID CHE-246.411.751,
+      Handelsregisteramt Bern
 
 
       ##### Mehrwertsteuernummer
 
 
-      CHE- MWST
+      CHE-246.411.751 MWST
 
 
       #### Haftungsauschluss
