@@ -16,7 +16,7 @@ seo:
       value: About Us
       keyName: property
     - name: 'og:description'
-      value: This is the about us page
+      value: We unleash people's talent to create collective impact.
       keyName: property
     - name: 'og:image'
       value: /images/epicfusion%20teams.jpg
