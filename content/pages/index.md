@@ -186,7 +186,10 @@ seo:
     - name: 'twitter:title'
       value: Stackbit Exto Theme
     - name: 'twitter:description'
-      value: The preview of the Exto theme
+      value: >-
+        Epic Fusion moves your digital initiatives into the new reality. Shape
+        your Digital Workplace towards the Employee Experience of the Digital
+        Tomorrow!
     - name: 'twitter:image'
       value: /images/site-preview.jpg
       relativeUrl: true
