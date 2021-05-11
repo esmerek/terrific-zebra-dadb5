@@ -25,7 +25,7 @@ seo:
     - name: 'twitter:card'
       value: summary_large_image
     - name: 'twitter:title'
-      value: About Us
+      value: About - Epic Fusion GmbH
     - name: 'twitter:description'
       value: We unleash people's talent to create collective impact.
     - name: 'twitter:image'
