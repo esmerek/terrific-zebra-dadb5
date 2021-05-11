@@ -18,6 +18,7 @@ excerpt: >-
   Technology, society and organizations have changed increasingly fast over the
   past few years - and so has the way we work. We need to respond to these
   changes in a future-proof way today.
+date: '2021-05-17'
 ---
 ### Why Modern Work
 
