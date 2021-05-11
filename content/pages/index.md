@@ -184,7 +184,7 @@ seo:
     - name: 'twitter:card'
       value: summary_large_image
     - name: 'twitter:title'
-      value: Stackbit Exto Theme
+      value: Epic Fusion - Mindset is everything.
     - name: 'twitter:description'
       value: >-
         Epic Fusion moves your digital initiatives into the new reality. Shape
