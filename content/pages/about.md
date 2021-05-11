@@ -27,7 +27,7 @@ seo:
     - name: 'twitter:title'
       value: About Us
     - name: 'twitter:description'
-      value: This is the about us page
+      value: We unleash people's talent to create collective impact.
     - name: 'twitter:image'
       value: /images/modern-yam.jpg
       relativeUrl: true
