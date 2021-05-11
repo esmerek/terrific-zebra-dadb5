@@ -13,23 +13,23 @@ seo:
       value: website
       keyName: property
     - name: 'og:title'
-      value: About Us
+      value: About - Epic Fusion GmbH
       keyName: property
     - name: 'og:description'
-      value: This is the about us page
+      value: We unleash people's talent to create collective impact.
       keyName: property
     - name: 'og:image'
-      value: images/about.jpg
+      value: /images/epicfusion%20teams.jpg
       keyName: property
       relativeUrl: true
     - name: 'twitter:card'
       value: summary_large_image
     - name: 'twitter:title'
-      value: About Us
+      value: About - Epic Fusion GmbH
     - name: 'twitter:description'
-      value: This is the about us page
+      value: We unleash people's talent to create collective impact.
     - name: 'twitter:image'
-      value: images/about.jpg
+      value: /images/modern-yam.jpg
       relativeUrl: true
 layout: page
 ---

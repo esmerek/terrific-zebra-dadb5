@@ -169,23 +169,29 @@ seo:
       value: website
       keyName: property
     - name: 'og:title'
-      value: Stackbit Exto Theme
+      value: Epic Fusion - Mindset is everything.
       keyName: property
     - name: 'og:description'
-      value: The preview of the Exto theme
+      value: >-
+        Epic Fusion moves your digital initiatives into the new reality. Shape
+        your Digital Workplace towards the Employee Experience of the Digital
+        Tomorrow!
       keyName: property
     - name: 'og:image'
-      value: images/exto_preview.png
+      value: /images/site-preview.jpg
       keyName: property
       relativeUrl: true
     - name: 'twitter:card'
       value: summary_large_image
     - name: 'twitter:title'
-      value: Stackbit Exto Theme
+      value: Epic Fusion - Mindset is everything.
     - name: 'twitter:description'
-      value: The preview of the Exto theme
+      value: >-
+        Epic Fusion moves your digital initiatives into the new reality. Shape
+        your Digital Workplace towards the Employee Experience of the Digital
+        Tomorrow!
     - name: 'twitter:image'
-      value: images/exto_preview.png
+      value: /images/site-preview.jpg
       relativeUrl: true
 layout: advanced
 ---
