@@ -1,5 +1,5 @@
 ---
-title: Services
+title: Portfolio
 subtitle: >-
   Our services are shaped to move your digital initiatives into the new reality.
   Learn more.
