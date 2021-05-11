@@ -17,7 +17,7 @@ image: images/maroon-cabbage.jpg
 excerpt: >-
   Technology, society and organizations have changed increasingly fast over the
   past few years - and so has the way we work. We need to respond to these
-  changes in a future-proof way today.
+  changes in a future-proof way. Starting today.
 date: '2021-05-17'
 ---
 ### Why Modern Work
