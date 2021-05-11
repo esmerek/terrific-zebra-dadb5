@@ -32,8 +32,7 @@ We live in a digital knowledge era with global markets. It is intended that task
 
 #### Infrastructure
 
-Reliable technics is a part of the foundation. It is essential to provide an accessible and secure infrastructure for employees. This also means designing operations to be best suited to the new services and operating models.
-
+Reliable infrastructure is a part of the foundation. It is essential to provide accessible and secure service solutions for employees. This also means designing operations to be best suited to new operating models and dependencies.
 
 #### Leadership
 
@@ -53,4 +52,4 @@ Regular retrospectives assist in reflecting on progress and learnings. Establish
 
 ### Workplace Wellbeeing
 
-The magic takes place when all elements interact ideally. Happy employees who can fully participate are the best lever to constantly grow a healthy organization culture. It is the art of modern work! 
+The magic takes place when all elements interact ideally. Happy employees who can fully participate are the best lever to constantly grow a healthy organization culture. It is the art of modern work!
