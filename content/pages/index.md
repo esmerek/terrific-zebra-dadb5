@@ -172,7 +172,10 @@ seo:
       value: Epic Fusion - Mindset is everything.
       keyName: property
     - name: 'og:description'
-      value: The preview of the Exto theme
+      value: >-
+        Epic Fusion moves your digital initiatives into the new reality. Shape
+        your Digital Workplace towards the Employee Experience of the Digital
+        Tomorrow!
       keyName: property
     - name: 'og:image'
       value: /images/site-preview.jpg
