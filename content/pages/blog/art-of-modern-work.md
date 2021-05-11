@@ -36,7 +36,7 @@ Reliable infrastructure is a part of the foundation. It is essential to provide 
 
 #### Leadership
 
-It is always founded on leadership. Create a forward focused, collective leadership culture. Shape roles that are exceptionally engaged in driving this culture into the organization.
+The management approaches that still remain prevalent today stem from a time when organizations were thought of as machines. It was all about optimizing all the cogs. Often with the picture that people have to be driven and motivated by incentives in order to perform. From a leadership perspective, shaping organizations of the future means intentionally challenging these assumptions. What energizes people? How does a foundation of trust become evident in our systems? What does it mean to understand organizations as living organisms that are both complex and non-linearly controllable?
 
 #### Communication
 
