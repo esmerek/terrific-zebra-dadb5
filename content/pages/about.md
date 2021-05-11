@@ -29,7 +29,7 @@ seo:
     - name: 'twitter:description'
       value: This is the about us page
     - name: 'twitter:image'
-      value: images/about.jpg
+      value: /images/modern-yam.jpg
       relativeUrl: true
 layout: page
 ---
