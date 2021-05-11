@@ -175,7 +175,7 @@ seo:
       value: The preview of the Exto theme
       keyName: property
     - name: 'og:image'
-      value: images/exto_preview.png
+      value: /images/klein.png
       keyName: property
       relativeUrl: true
     - name: 'twitter:card'
