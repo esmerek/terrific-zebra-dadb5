@@ -19,7 +19,7 @@ seo:
       value: This is the about us page
       keyName: property
     - name: 'og:image'
-      value: images/about.jpg
+      value: /images/epicfusion%20teams.jpg
       keyName: property
       relativeUrl: true
     - name: 'twitter:card'
