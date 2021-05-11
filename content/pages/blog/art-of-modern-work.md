@@ -14,7 +14,7 @@ seo:
 layout: post
 thumb_image: images/istockphoto-928048856-2048x2048.jpg
 image: images/maroon-cabbage.jpg
-date: '2020-02-06'
+date: '2020-03-06'
 excerpt: >-
   Technology, society and organizations have changed increasingly fast over the
   past few years - and so has the way we work. We need to respond to these
