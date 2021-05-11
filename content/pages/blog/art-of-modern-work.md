@@ -22,17 +22,18 @@ date: '2021-05-17'
 ---
 ### Why Modern Work
 
-Technology, society and organizations have changed increasingly fast over the past few years - and so has the way we work. We need to respond to these changes in a future-proof way today. To remain competitive, organizations must become even more agile and able to adapt to new constraints.
+Technology, society and organizations have changed increasingly fast over the past few years - and so has the way we work. We need to respond to these changes in a future-proof way. To remain competitive, organizations must become even more agile and able to adapt to new constraints.
 
-### Rapid Enablement
+### Radical Changes
 
-It doesn't matter whether it's new employees, business ideas or a market launch: no time can be wasted. Organizations must learn to rapidly integrate employees into their corporate culture in order to enable them to have a significant impact. This can be achieved with a strong learning mindset that allows and encourages experimentation and re-planning.
-
-Rapid enablement concepts can help to support strategies in all areas of the organization to become faster and to meet these challenges.
+We live in a digital knowledge era with global markets. It is intended that tasks will be replaced by robotics and artificial intelligence. Organizations must learn all the more to leverage human potential in its uniqueness: people's creativity, empathy and collaboration skills. They must become adaptive to remain capable in a permanent VUCA (volatile, uncertain, complex, ambiguous) context. All of this will impact the way we think about organizations, leadership, people and culture.
 
 ### Build the foundation
 
-In addition to a technical and secure infrastructure baseline, it is important to prepare your organization for change.
+#### Infrastructure
+
+Reliable technics is a part of the foundation. It is essential to provide an accessible and secure infrastructure for employees. This also means designing operations to be best suited to the new services and operating models.
+
 
 #### Leadership
 
@@ -52,4 +53,4 @@ Regular retrospectives assist in reflecting on progress and learnings. Establish
 
 ### Workplace Wellbeeing
 
-The magic takes place when all elements interact ideally. Happy employees who can fully participate are the best lever to constantly grow a healthy organization culture.
+The magic takes place when all elements interact ideally. Happy employees who can fully participate are the best lever to constantly grow a healthy organization culture. It is the art of modern work! 
