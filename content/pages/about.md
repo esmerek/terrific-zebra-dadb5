@@ -13,7 +13,7 @@ seo:
       value: website
       keyName: property
     - name: 'og:title'
-      value: About Us
+      value: About - Epic Fusion GmbH
       keyName: property
     - name: 'og:description'
       value: We unleash people's talent to create collective impact.
