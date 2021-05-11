@@ -20,7 +20,7 @@ sections:
   - title: Stories
     section_id: lorem-ipsum
     posts_number: 2
-    col_number: two
+    col_number: three
     actions: []
     type: section_posts
   - title: Competences
