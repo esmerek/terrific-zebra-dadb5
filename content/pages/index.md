@@ -169,7 +169,7 @@ seo:
       value: website
       keyName: property
     - name: 'og:title'
-      value: Stackbit Exto Theme
+      value: Epic Fusion - Mindset is everything.
       keyName: property
     - name: 'og:description'
       value: The preview of the Exto theme
