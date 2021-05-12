@@ -40,16 +40,13 @@ The management approaches that still remain prevalent today stem from a time whe
 
 #### Communication
 
-Modern work together requires an exceptional amount of communication. It is important to communicate a clear vision and key message. Regular updates and smart use of existing channels will promote awareness of modern work.
+Communication changes along with the way we work. We move towards the idea of networks and circles. To target our causes, as well as bring them together from employees, it will require the shaping of a clear vision that is shared and carried by the employees. As the paradigm shift is successfully established, the new ways of working will also shape the the future mode of communication.
 
-#### Engage
 
-Engage with your employees, with your leaders, and with cross-unit stakeholder groups. Make sure everyone is represented or can get involved.
+#### Learn
 
-#### Evaluate
+If we follow the assumption that organizations need to position themselves for a permanent VUCA environment, then the speed of learning in particular is the key factor to survive. This relates very specifically to the entire organization, and not just to individual employees. It is the interaction, of people who are eager to learn, but as well who are given a space to rethink structures and processes to the extent that they can push the organization into a new scale of a learning corporate.
 
-Regular retrospectives assist in reflecting on progress and learnings. Establish appropriate tools to ensure that findings are implemented long-term and that measures can be reassessed for their impact.
+### The Magic
 
-### Workplace Wellbeeing
-
-The magic takes place when all elements interact ideally. Happy employees who can fully participate are the best lever to constantly grow a healthy organization culture. It is the art of modern work!
+The magic takes place when all elements interact ideally. Fully committet employees who can participate entirely are the best lever to constantly grow a healthy organization culture. It is the art of modern work!
