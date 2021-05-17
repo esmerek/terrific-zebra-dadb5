@@ -6,14 +6,14 @@ seo:
   title: The Art of Modern Work - Epic Fusion GmbH
   description: >-
     How can the capabilities of modern work be made manageable, secure, and
-    accessible: Is it magic or simply the Art of Modern Work? Let us look at it
-    together.
+    accessible: Is it magic or simply the Art of Modern Work? Blog by Sanche
+    Baskaran.
   robots: []
   extra: []
   type: stackbit_page_meta
 layout: post
-thumb_image: images/istockphoto-928048856-2048x2048.jpg
-image: images/maroon-cabbage.jpg
+thumb_image: images/ArtofModernWorkIdea-850.jpg
+image: images/ArtofModernWorkIdea-1750.jpg
 excerpt: >-
   Technology, society and organizations have changed increasingly fast over the
   past few years - and so has the way we work. We need to respond to these
