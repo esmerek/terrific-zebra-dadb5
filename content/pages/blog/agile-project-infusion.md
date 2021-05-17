@@ -51,3 +51,5 @@ What if we fail? Congratulations! This is the first step towards learning.
 We cannot know everything. But we can learn every day. Agile methodologies can't see into the future any better than others. But we can respond, reflect and learn faster with the toolset of agile working methods. And we have the processes to implement improvements evolving from learnings - immediately.
 
 Epic Fusion is fully committed to agility. Our own values and principles which we have formed derive from it.
+
+![](/images/Andreas%203.png)
