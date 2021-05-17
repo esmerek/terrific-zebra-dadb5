@@ -12,7 +12,7 @@ seo:
   extra: []
   type: stackbit_page_meta
 layout: post
-thumb_image: images/istockphoto-928048856-2048x2048.jpg
+thumb_image: images/ArtofModernWorkIdea-850.jpg
 image: images/ArtofModernWorkIdea-1750.jpg
 excerpt: >-
   Technology, society and organizations have changed increasingly fast over the
