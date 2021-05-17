@@ -11,8 +11,7 @@ seo:
   title: Agile Project InFusion - Epic Fusion GmbH
   description: >-
     Agile methodologies are very various and yet they are all based on a common
-    foundation. With our Agile Project InFusion we build the baseline for agile
-    ways of working in your company.
+    foundation. Learn about our Agility InFusion. By Andreas Schmerek.
   robots: []
   extra: []
   type: stackbit_page_meta
