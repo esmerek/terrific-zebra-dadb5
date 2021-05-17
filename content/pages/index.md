@@ -178,7 +178,7 @@ seo:
         Tomorrow!
       keyName: property
     - name: 'og:image'
-      value: /images/site-preview.jpg
+      value: /images/epic-fusion-bg-800.jpg
       keyName: property
       relativeUrl: true
     - name: 'twitter:card'
@@ -191,7 +191,7 @@ seo:
         your Digital Workplace towards the Employee Experience of the Digital
         Tomorrow!
     - name: 'twitter:image'
-      value: /images/site-preview.jpg
+      value: /images/epic-fusion-bg-800.jpg
       relativeUrl: true
 layout: advanced
 ---
