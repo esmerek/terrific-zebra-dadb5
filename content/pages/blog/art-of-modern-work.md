@@ -50,6 +50,7 @@ If we follow the assumption that organizations need to position themselves for a
 
 The magic takes place when all elements interact ideally. Fully committet employees who can participate entirely are the best lever to constantly grow a healthy organization culture. It is the art of modern work!
 
+
+
 ![](/images/Sanche2.png)
 
-Author: Sanche Baskaran
