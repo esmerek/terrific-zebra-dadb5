@@ -9,7 +9,11 @@ seo:
     accessible: Is it magic or simply the Art of Modern Work? Blog by Sanche
     Baskaran.
   robots: []
-  extra: []
+  extra:
+    - name: 'og:image'
+      value: /images/ArtofModernWorkIdea-850.jpg
+      keyName: property
+      relativeUrl: true
   type: stackbit_page_meta
 layout: post
 thumb_image: images/ArtofModernWorkIdea-850.jpg
