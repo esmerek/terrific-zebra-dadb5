@@ -178,7 +178,7 @@ seo:
         Tomorrow!
       keyName: property
     - name: 'og:image'
-      value: /images/site-preview.jpg
+      value: /images/iStock-901621108-850px.jpg
       keyName: property
       relativeUrl: true
     - name: 'twitter:card'
