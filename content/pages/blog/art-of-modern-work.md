@@ -13,7 +13,7 @@ seo:
   type: stackbit_page_meta
 layout: post
 thumb_image: images/istockphoto-928048856-2048x2048.jpg
-image: images/maroon-cabbage.jpg
+image: images/ArtofModernWorkIdea-1750.jpg
 excerpt: >-
   Technology, society and organizations have changed increasingly fast over the
   past few years - and so has the way we work. We need to respond to these
