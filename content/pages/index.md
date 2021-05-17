@@ -191,7 +191,7 @@ seo:
         your Digital Workplace towards the Employee Experience of the Digital
         Tomorrow!
     - name: 'twitter:image'
-      value: /images/iStock-901621108-850px.jpg
+      value: /images/epic-fusion-bg-800.jpg
       relativeUrl: true
 layout: advanced
 ---
