@@ -48,6 +48,4 @@ Our principles:
 >
 > Transparency  over Obscurity
 
-Would you like to learn more about our values? Here. 
-
-Are you curious about how a working relationship with us could look like? [Don't hesitate: Contact here.](https://terrific-zebra-dadb5.netlify.app)
+Would you like to learn more about our values or are you curious about how a working relationship with us could look like? [Contact here.](https://terrific-zebra-dadb5.netlify.app)
