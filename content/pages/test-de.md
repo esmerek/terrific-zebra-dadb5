@@ -39,7 +39,7 @@ sections:
             no_follow: false
             type: action
         type: grid_item
-      - title: Change Culture
+      - title: Veränderung
         image_alt: lorem-ipsum
         content: >
           We shape a strategy of how we integrate people and culture into the
