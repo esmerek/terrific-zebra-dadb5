@@ -27,7 +27,7 @@ sections:
         image_alt: lorem-ipsum
         content: >
           Wir gestalten, planen und setzen den digitalen Arbeitsplatz für Ihre
-          Mitarbeitenden um. 
+          Mitarbeitenden um. Von überall, für alle.
         actions:
           - label: Aktivieren
             url: '#'
