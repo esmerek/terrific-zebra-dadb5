@@ -55,7 +55,7 @@ sections:
         image_alt: lorem-ipsum
         content: >
           Zusammenarbeit bedeutet Kommunikation, Austausch und Interaktion. Wir
-          machen Daten zugänglich.
+          bringen die Menschen im Team zusammen.
         actions:
           - label: Verbinden
             url: '#'
