@@ -68,8 +68,8 @@ sections:
       - title: Prozesse
         image_alt: lorem-ipsum
         content: >
-          Wir begleiten bei der Auslösung hinderlicher Prozesse, um Raum für
-          neue Ideen und echte Transformation zu ermöglichen.
+          Wir begleiten bei der Auflösung unnützer Prozesse, um Raum für neue
+          Ideen und echte Transformation zu ermöglichen.
         actions:
           - label: Verändern
             url: '#'
