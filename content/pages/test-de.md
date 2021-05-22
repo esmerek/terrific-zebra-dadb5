@@ -55,7 +55,7 @@ sections:
             no_follow: false
             type: action
         type: grid_item
-      - title: Teamwork
+      - title: Zusammenarbeit
         image_alt: lorem-ipsum
         content: >
           Collaboration means communication, sharing and interaction. We focus
