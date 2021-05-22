@@ -54,8 +54,8 @@ sections:
       - title: Zusammenarbeit
         image_alt: lorem-ipsum
         content: >
-          Wir bringen Menschen zusammen und schaffen Freude in der Interaktion
-          und einen Mehrwert für das Unternehmen.
+          Wir bringen Menschen zusammen und schaffen Freude im Austausch und
+          einen Wert für das Unternehmen.
         actions:
           - label: Verbinden
             url: '#'
