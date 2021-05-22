@@ -26,8 +26,8 @@ sections:
       - title: Digitaler Arbeitsplatz
         image_alt: lorem-ipsum
         content: >
-          Der moderne digitale Arbeitsplatz folgt den Mitarbeitenden. Auf jedem
-          Gerät, von jedem Standort und zu jedem Zeitpunkt.
+          Wir gestalten, planen und setzen den digitalen Arbeitsplatz für Ihre
+          Mitarbeitenden um. Zugängliche Informationen, jederzeit, von überall.
         actions:
           - label: Aktivieren
             url: '#'
