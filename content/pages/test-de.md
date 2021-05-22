@@ -84,7 +84,7 @@ sections:
             type: action
         type: grid_item
     type: section_grid
-    subtitle: Wie wir Herausforderungen lösen
+    subtitle: Wie wir arbeiten
   - section_id: start-Services
     type: section_grid
     title: Dienstleistungen
