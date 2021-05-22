@@ -68,7 +68,7 @@ sections:
       - title: Prozesse
         image_alt: lorem-ipsum
         content: >
-          Wir begleiten bei der Auflösung unnützer Prozesse, um Raum für neue
+          Wir begleiten bei der Auflösung veralteter Prozesse, um Raum für neue
           Ideen und echte Transformation zu ermöglichen.
         actions:
           - label: Verändern
