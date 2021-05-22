@@ -71,7 +71,7 @@ sections:
             no_follow: false
             type: action
         type: grid_item
-      - title: Reinventing Processes
+      - title: Prozesstransformation
         image_alt: lorem-ipsum
         content: >
           To enable true transformation, we need to rethink and reinvent
