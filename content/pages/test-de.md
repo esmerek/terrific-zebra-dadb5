@@ -87,7 +87,7 @@ sections:
     subtitle: Wie wir Herausforderungen lösen
   - section_id: start-Services
     type: section_grid
-    title: Services
+    title: Dienstleistungen
     col_number: two
     is_numbered: false
     grid_items:
