@@ -41,7 +41,7 @@ sections:
         image_alt: lorem-ipsum
         content: >
           Mit einer digitalen Strategie verbinden Mensch und Organisationskultur
-          hin zu einem Mindset der kontinuierlichen Veränderung.
+          hin zum Mindset der kontinuierlichen Veränderung.
         actions:
           - label: Etablieren
             url: '#'
