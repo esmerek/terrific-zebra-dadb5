@@ -40,10 +40,8 @@ sections:
       - title: Veränderung
         image_alt: lorem-ipsum
         content: >
-          We shape a strategy of how we integrate people and culture into the
-          foundation of a digital strategy. Change, paradigm shift and
-          leadership are the essential key subjects that we focus on throughout
-          a continous transformation process.
+          Wir verbinden Mensch und Organisationskultur in der digitalen
+          Strategie hin zur kontinuierlichen Veränderung.
         actions:
           - label: Etablieren
             url: '#'
