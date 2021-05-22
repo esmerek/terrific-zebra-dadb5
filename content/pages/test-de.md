@@ -68,8 +68,8 @@ sections:
       - title: Prozesse
         image_alt: lorem-ipsum
         content: >
-          Um Transformation zu ermöglichen, analysieren und lösen wir bestehende
-          Vorgänge in neue Pfade auf.
+          Um echte Transformation zu ermöglichen, analysieren und lösen wir
+          bestehende Prozesse in neue Pfade auf.
         actions:
           - label: Verändern
             url: '#'
