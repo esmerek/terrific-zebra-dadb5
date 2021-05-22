@@ -18,7 +18,7 @@ sections:
       - label: Jetzt mehr erfahren!
         url: '#start-Competences'
         style: button
-  - title: Competences
+  - title: Kompetenzen
     section_id: start-Competences
     col_number: two
     is_numbered: false
