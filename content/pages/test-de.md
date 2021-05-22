@@ -68,10 +68,8 @@ sections:
       - title: Prozesse
         image_alt: lorem-ipsum
         content: >
-          To enable true transformation, we need to rethink and reinvent
-          processes. We provide facilitation and toolsets to drive process
-          design and business operations into a new dimension. In doing so, we
-          push transformation initiatives towards the digital tomorrow.
+          Um Transformation zu ermöglichen, analysieren und lösen wir bestehende
+          Vorgänge in neue Pfade auf.
         actions:
           - label: Verändern
             url: '#'
