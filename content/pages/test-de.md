@@ -63,7 +63,7 @@ sections:
           formed and interact to bring data together. Accessible data and short
           digital paths lead to valuable results.
         actions:
-          - label: Connect it
+          - label: Verbinden
             url: '#'
             style: button
             icon: dribbble
