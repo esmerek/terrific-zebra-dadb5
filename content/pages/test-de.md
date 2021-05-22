@@ -9,11 +9,11 @@ sections:
       #### Warum?
 
 
-      Wir sind da, um Ihre digitalen Initiativen in die neue Realität zu
-      bringen. Mit unserem Team verschmelzen wir Ihre Anforderungen mit den
-      Herausforderungen der Veränderung in die digitale Zukunft. Wir
-      katalysieren die digitale Transformation mit Werten und Prinzipien, um
-      eine nachhaltige Wirkung auf Mensch und Gesellschaft zu schaffen.
+      Wir sind da, um Ihre Initiativen fit für die digitale Zukunft zu machen.
+      Wir unterstützen Ihr Unternehmen, der Veränderung mit modernen Lösungen zu
+      begegnen. Dabei katalysieren wir die digitale Transformation mit Werten
+      und Prinzipien, um eine nachhaltige Wirkung auf Mensch, Gesellschaft und
+      Organisationen zu schaffen.
     actions:
       - label: Jetzt mehr erfahren!
         url: '#start-Competences'
@@ -26,8 +26,8 @@ sections:
       - title: Digitaler Arbeitsplatz
         image_alt: lorem-ipsum
         content: >
-          Der moderne digitale Arbeitsplatz folgt den Mitarbeitenden. Auf jedem
-          Gerät, von jedem Standort und zu jedem Zeitpunkt.
+          Wir gestalten, planen und setzen den digitalen Arbeitsplatz für Ihre
+          Mitarbeitenden um. Für alle, von überall, jederzeit.
         actions:
           - label: Aktivieren
             url: '#'
@@ -40,8 +40,8 @@ sections:
       - title: Veränderung
         image_alt: lorem-ipsum
         content: >
-          Wir verbinden Mensch und Organisationskultur in der digitalen
-          Strategie hin zum Mindset der kontinuierlichen Veränderung.
+          Mit digitalen Strategien verbinden Mensch und Organisations-kultur zu
+          einem Mindset der kontinuierlichen Veränderung.
         actions:
           - label: Etablieren
             url: '#'
@@ -54,8 +54,8 @@ sections:
       - title: Zusammenarbeit
         image_alt: lorem-ipsum
         content: >
-          Zusammenarbeit bedeutet Kommunikation, Austausch und Interaktion. Wir
-          bringen die Menschen im Team zusammen.
+          Wir bringen Menschen zusammen, die mit Freude interagieren und ihr
+          volles Potenzial mit ihrem Team aktivieren können.
         actions:
           - label: Verbinden
             url: '#'
@@ -68,8 +68,8 @@ sections:
       - title: Prozesse
         image_alt: lorem-ipsum
         content: >
-          Um echte Transformation zu ermöglichen, analysieren und lösen wir
-          bestehende Prozesse in vollständig neue Ansätze auf.
+          Wir begleiten bei der Auflösung veralteter Prozesse, um Raum für neue
+          Ideen und echte Transformation zu ermöglichen.
         actions:
           - label: Verändern
             url: '#'
