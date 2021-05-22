@@ -23,7 +23,7 @@ sections:
     col_number: two
     is_numbered: false
     grid_items:
-      - title: Digitaler Arbeitsplatz
+      - title: Arbeitsplatz
         image_alt: lorem-ipsum
         content: >
           Work anywhere on any device. The modern workplace follows you and your
