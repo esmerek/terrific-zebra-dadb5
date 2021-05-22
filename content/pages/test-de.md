@@ -23,7 +23,7 @@ sections:
     col_number: two
     is_numbered: false
     grid_items:
-      - title: Moderner Arbeitsplatz
+      - title: Digitaler Arbeitsplatz
         image_alt: lorem-ipsum
         content: >
           Der moderne digitale Arbeitsplatz folgt dem Mitarbeiter. Auf jeden
