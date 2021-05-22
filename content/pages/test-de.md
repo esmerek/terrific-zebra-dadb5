@@ -55,7 +55,7 @@ sections:
         image_alt: lorem-ipsum
         content: >
           Wir bringen Menschen zusammen, die mit Freude interagieren und ihr
-          Potenzial mit ihrem Team aktivieren können.
+          volles Potenzial mit ihrem Team aktivieren können.
         actions:
           - label: Verbinden
             url: '#'
