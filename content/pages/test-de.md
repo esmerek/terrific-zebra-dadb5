@@ -69,7 +69,7 @@ sections:
         image_alt: lorem-ipsum
         content: >
           Um echte Transformation zu ermöglichen, analysieren und lösen wir
-          bestehende Prozesse in neue Pfade auf.
+          bestehende Prozesse in vollständig neue Ansätze auf.
         actions:
           - label: Verändern
             url: '#'
