@@ -54,8 +54,8 @@ sections:
       - title: Zusammenarbeit
         image_alt: lorem-ipsum
         content: >
-          Wir bringen Menschen zusammen, die mit Freude interagieren und mit
-          effektiven Lösungen zusammen arbeiten.
+          Wir bringen Menschen zusammen, die mit Freude interagieren und gerne
+          mit den Unternehmenslösungen arbeiten.
         actions:
           - label: Verbinden
             url: '#'
