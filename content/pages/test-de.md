@@ -54,10 +54,8 @@ sections:
       - title: Zusammenarbeit
         image_alt: lorem-ipsum
         content: >
-          Collaboration means communication, sharing and interaction. We focus
-          on how we can unite and integrate these aspects, how user groups are
-          formed and interact to bring data together. Accessible data and short
-          digital paths lead to valuable results.
+          Zusammenarbeit bedeutet Kommunikation, Austausch und Interaktion. Wir
+          machen Daten zugänglich.
         actions:
           - label: Verbinden
             url: '#'
