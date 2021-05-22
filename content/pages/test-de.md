@@ -6,13 +6,14 @@ sections:
     type: section_hero
     title: Mindset is everything.
     content: >
-      #### Why we exist
+      #### Warum?
 
 
-      Epic Fusion is here to move your digital initiatives into the new reality.
-      With our talents collective we fuse your demands horizon-focused towards
-      the digital tomorrow. We catalyze digital transformation with values and
-      purpose to create impact on people and society.
+      Wir sind da, um Ihre digitalen Initiativen in die neue Realität zu
+      bringen. Mit unserem Team verschmelzen wir Ihre Anforderungen mit den
+      Herausforderungen der Veränderung in die digitale Zukunft. Wir
+      katalysieren die digitale Transformation mit Werten und Prinzipien, um
+      eine nachhaltige Wirkung auf Mensch und Gesellschaft zu schaffen.
     actions:
       - label: Discover it
         url: '#start-Competences'
