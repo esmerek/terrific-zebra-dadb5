@@ -15,7 +15,7 @@ sections:
       katalysieren die digitale Transformation mit Werten und Prinzipien, um
       eine nachhaltige Wirkung auf Mensch und Gesellschaft zu schaffen.
     actions:
-      - label: Discover it
+      - label: Jetzt mehr erfahren!
         url: '#start-Competences'
         style: button
   - title: Stories
