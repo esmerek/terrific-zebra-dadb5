@@ -71,7 +71,7 @@ sections:
             no_follow: false
             type: action
         type: grid_item
-      - title: Prozesstransformation
+      - title: Prozesse
         image_alt: lorem-ipsum
         content: >
           To enable true transformation, we need to rethink and reinvent
