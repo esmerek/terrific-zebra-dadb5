@@ -54,8 +54,8 @@ sections:
       - title: Zusammenarbeit
         image_alt: lorem-ipsum
         content: >
-          Zusammenarbeit bedeutet Kommunikation, Austausch und Interaktion. Wir
-          bringen die Menschen im Team zusammen.
+          Wir bringen Menschen zusammen und schaffen Freude in der Interaktion
+          und einen Mehrwert für das Unternehmen.
         actions:
           - label: Verbinden
             url: '#'
