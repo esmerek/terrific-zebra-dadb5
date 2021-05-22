@@ -40,7 +40,7 @@ sections:
       - title: Veränderung
         image_alt: lorem-ipsum
         content: >
-          Mit einer digitalen Strategie verbinden Mensch und Orgnisationskultur
+          Mit einer digitalen Strategie verbinden Mensch und Organisationskultur
           zum Mindset der kontinuierlichen Veränderung.
         actions:
           - label: Etablieren
