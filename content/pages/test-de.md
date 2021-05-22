@@ -31,7 +31,7 @@ sections:
           solutions. We enable the infrastructure and security baselines to
           ensure that employees can focus on their work.
         actions:
-          - label: Enable it
+          - label: Aktivieren
             url: '#'
             style: button
             icon: dribbble
