@@ -26,8 +26,8 @@ sections:
       - title: Arbeitsplatz
         image_alt: lorem-ipsum
         content: >
-          Der moderne digitale Arbeitsplatz folgt dem Mitarbeiter. Gesichert.
-          Überall. Jederzeit.
+          Der moderne digitale Arbeitsplatz folgt dem Mitarbeiter. Auf jeden
+          Gerät, von jedem Standort und zu jedem Zeitpunkt. 
         actions:
           - label: Aktivieren
             url: '#'
