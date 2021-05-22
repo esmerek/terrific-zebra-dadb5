@@ -9,11 +9,11 @@ sections:
       #### Warum?
 
 
-      Wir sind da, um Ihre digitalen Initiativen in die neue Realität zu
-      bringen. Mit unserem Team verschmelzen wir Ihre Anforderungen mit den
-      Herausforderungen der Veränderung in die digitale Zukunft. Wir
-      katalysieren die digitale Transformation mit Werten und Prinzipien, um
-      eine nachhaltige Wirkung auf Mensch und Gesellschaft zu schaffen.
+      Wir sind da, um Ihre Initiativen fit für die digitale Zukunft zu machen.
+      Wir unterstützen Ihr Unternehmen, der Veränderung mit modernen Lösungen zu
+      begegnen. Dabei katalysieren wir die digitale Transformation mit Werten
+      und Prinzipien, um eine nachhaltige Wirkung auf Mensch, Gesellschaft und
+      Organisationen zu schaffen.
     actions:
       - label: Jetzt mehr erfahren!
         url: '#start-Competences'
