@@ -65,11 +65,11 @@ sections:
             no_follow: false
             type: action
         type: grid_item
-      - title: Prozesse
+      - title: Agilität
         image_alt: lorem-ipsum
         content: >
-          Wir begleiten bei der Auflösung veralteter Prozesse, um Raum für neue
-          Ideen und echte Transformation zu ermöglichen.
+          Wir leben proaktiv den Paradigmenwechsel zu agilen Arbeitsformen in
+          der Organisation, in Projekten, mit den Menschen.
         actions:
           - label: Verändern
             url: '#'
@@ -87,14 +87,14 @@ sections:
     col_number: two
     is_numbered: false
     grid_items:
-      - title: Cloud Enablement
+      - title: Cloud-Smart Strategie
         content: >
-          To meet highest security demands and governance procedures in a daily
-          changing world are among the most pressing challenges today. We build
-          lasting strategies and the foundation to ensure cloud service
-          enablement.
+          Wir verbinden Ihre Anforderungen und Rahmenbedingungen mit dem vollen
+          Cloud-Potenzial der Zukunft. Gemeinsam erarbeiten wir eine
+          intelligente  Cloud-Enablement Strategie und reduzieren damit
+          Komplexität.
         actions:
-          - label: Enable it
+          - label: Aktivieren
             url: >-
               https://terrific-zebra-dadb5.netlify.app/services#services-cloud-enablement
             style: button
@@ -109,7 +109,7 @@ sections:
           reinventing the wheel. But we unite to create holistic, simple and
           easy solutions that every employee loves.
         actions:
-          - label: Experience it
+          - label: Erfahren
             url: >-
               https://terrific-zebra-dadb5.netlify.app/services#services-employee-experience
             style: button
@@ -117,13 +117,12 @@ sections:
             new_window: false
             no_follow: false
             type: action
-      - title: Application Modernization
+      - title: App- und Prozessmodernisierung
         content: >
-          For modernization, we start with a process assessment. This is the
-          basis for refactoring, a new UI/UX design and a DevOps operating
-          model. We squeeze value of out the data given.
+          Wir begleiten bei der Auflösung veralteter Applikationen und Prozesse,
+          um Raum für neue Ideen und echte Transformation zu ermöglichen.
         actions:
-          - label: Modernizate it
+          - label: Modernisieren
             url: >-
               https://terrific-zebra-dadb5.netlify.app/services#services-application-modernization
             style: button
@@ -131,13 +130,13 @@ sections:
             new_window: false
             no_follow: false
             type: action
-      - title: Agile Project Guidance
+      - title: Agile Arbeitsformen
         content: >
-          Together we organize a powerful team. We establish guidance and the
-          ideal environment to serve your needs in an iterative, value-oriented
-          and continously improving way.
+          Wir schaffen die notwendigen Voraussetzungen, um agile Arbeitsformen
+          ganzheitlich in einem kontinuierlichen Lernprozess zu etablieren und
+          langfristig zu stärken.
         actions:
-          - label: Iterate it
+          - label: Iterieren
             url: >-
               https://terrific-zebra-dadb5.netlify.app/services#services-agile-project-guidance
             style: button
