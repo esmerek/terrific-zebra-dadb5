@@ -68,8 +68,8 @@ sections:
       - title: Agilität
         image_alt: lorem-ipsum
         content: >
-          Wir leben proaktiv den Paradigmenwechsel zu agilen Arbeitsweisen in
-          der Organisation, in Projekten, für die Menschen.
+          Wir leben proaktiv den Paradigmenwechsel zu agilen Arbeitsformen in
+          der Organisation, in Projekten und Aktivitäten, für die Menschen.
         actions:
           - label: Verändern
             url: '#'
