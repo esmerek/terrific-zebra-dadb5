@@ -119,8 +119,8 @@ sections:
             type: action
       - title: App- und Prozessmodernisierung
         content: >
-          Wir begleiten bei der Auflösung veralteter Prozesse, um Raum für neue
-          Ideen und echte Transformation zu ermöglichen.
+          Wir begleiten bei der Auflösung veralteter Applikationen und Prozesse,
+          um Raum für neue Ideen und echte Transformation zu ermöglichen.
         actions:
           - label: Modernizate it
             url: >-
