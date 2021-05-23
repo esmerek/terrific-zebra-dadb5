@@ -136,7 +136,7 @@ sections:
           ideal environment to serve your needs in an iterative, value-oriented
           and continously improving way.
         actions:
-          - label: Iterate it
+          - label: Iterieren
             url: >-
               https://terrific-zebra-dadb5.netlify.app/services#services-agile-project-guidance
             style: button
