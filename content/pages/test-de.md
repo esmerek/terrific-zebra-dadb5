@@ -69,7 +69,7 @@ sections:
         image_alt: lorem-ipsum
         content: >
           Wir begleiten proaktiv den Paradigmenwechsel zu agilen Arbeitsweisen
-          in der Organisation, in Aktivitäten, für die Menschen.
+          in der Organisation, in Projekten, für die Menschen.
         actions:
           - label: Verändern
             url: '#'
