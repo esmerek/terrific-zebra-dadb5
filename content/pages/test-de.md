@@ -109,7 +109,7 @@ sections:
           reinventing the wheel. But we unite to create holistic, simple and
           easy solutions that every employee loves.
         actions:
-          - label: Experience it
+          - label: Erfahren
             url: >-
               https://terrific-zebra-dadb5.netlify.app/services#services-employee-experience
             style: button
