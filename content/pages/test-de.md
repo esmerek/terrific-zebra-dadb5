@@ -132,8 +132,8 @@ sections:
             type: action
       - title: Agile Arbeitsformen
         content: >
-          Wir schaffen ideale Voraussetzungen, um agile Arbeitsformen
-          ganzheitlich, iterativ und kontinuierlich lernend zu etablieren.
+          Wir schaffen die notwendigen Voraussetzungen, um agile Arbeitsformen
+          ganzheitlich in einem kontinuierlichen Lernprozess zu etablieren.
         actions:
           - label: Iterieren
             url: >-
