@@ -65,7 +65,7 @@ sections:
             no_follow: false
             type: action
         type: grid_item
-      - title: Prozesse
+      - title: Agilität
         image_alt: lorem-ipsum
         content: >
           Wir begleiten bei der Auflösung veralteter Prozesse, um Raum für neue
