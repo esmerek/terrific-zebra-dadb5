@@ -122,7 +122,7 @@ sections:
           Wir begleiten bei der Auflösung veralteter Applikationen und Prozesse,
           um Raum für neue Ideen und echte Transformation zu ermöglichen.
         actions:
-          - label: Modernizate it
+          - label: Modernisieren
             url: >-
               https://terrific-zebra-dadb5.netlify.app/services#services-application-modernization
             style: button
