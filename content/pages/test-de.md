@@ -68,8 +68,8 @@ sections:
       - title: Agilität
         image_alt: lorem-ipsum
         content: >
-          Wir begleiten bei der Auflösung veralteter Prozesse, um Raum für neue
-          Ideen und echte Transformation zu ermöglichen.
+          Wir begleiten proaktiv den Paradigmenwechsel zu agilen Arbeitsweisen
+          in der Organisation, in Aktivitäten, für die Menschen.
         actions:
           - label: Verändern
             url: '#'
