@@ -69,7 +69,7 @@ sections:
         image_alt: lorem-ipsum
         content: >
           Wir leben proaktiv den Paradigmenwechsel zu agilen Arbeitsformen in
-          der Organisation, in Projekten und Aktivitäten, für die Menschen.
+          der Organisation, in Projekten, mit den Menschen.
         actions:
           - label: Verändern
             url: '#'
