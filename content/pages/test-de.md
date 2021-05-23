@@ -94,7 +94,7 @@ sections:
           intelligente  Cloud-Enablement Strategie und reduzieren damit
           Komplexität.
         actions:
-          - label: Enable it
+          - label: Aktivieren
             url: >-
               https://terrific-zebra-dadb5.netlify.app/services#services-cloud-enablement
             style: button
