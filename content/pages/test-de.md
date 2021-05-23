@@ -119,9 +119,8 @@ sections:
             type: action
       - title: App- und Prozessmodernisierung
         content: >
-          For modernization, we start with a process assessment. This is the
-          basis for refactoring, a new UI/UX design and a DevOps operating
-          model. We squeeze value of out the data given.
+          Wir begleiten bei der Auflösung veralteter Prozesse, um Raum für neue
+          Ideen und echte Transformation zu ermöglichen.
         actions:
           - label: Modernizate it
             url: >-
