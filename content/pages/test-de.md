@@ -90,7 +90,8 @@ sections:
       - title: Cloud-Smart Strategie
         content: >
           Wir verbinden Ihre Anforderungen und Rahmenbedingungen mit dem vollen
-          Cloud-Potenzial der Zukunft, schrittweise, sinnvoll, skalierbar.
+          Cloud-Potenzial der Zukunft. Gemeinsam erarbeiten wir eine
+          intelligente  Strategie um die Komplexität zu eliminieren.
         actions:
           - label: Enable it
             url: >-
