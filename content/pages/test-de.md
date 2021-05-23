@@ -132,9 +132,8 @@ sections:
             type: action
       - title: Agile Arbeitsformen
         content: >
-          Together we organize a powerful team. We establish guidance and the
-          ideal environment to serve your needs in an iterative, value-oriented
-          and continously improving way.
+          Wir schaffen ideale Voraussetzungen, um agile Arbeitsformen
+          ganzheitlich, iterativ und kontinuierlich lernend zu etablieren.
         actions:
           - label: Iterieren
             url: >-
