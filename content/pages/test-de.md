@@ -91,7 +91,8 @@ sections:
         content: >
           Wir verbinden Ihre Anforderungen und Rahmenbedingungen mit dem vollen
           Cloud-Potenzial der Zukunft. Gemeinsam erarbeiten wir eine
-          intelligente  Strategie um die Komplexität zu eliminieren.
+          intelligente  Cloud-Enablement Strategie und reduzieren damit
+          Komplexität.
         actions:
           - label: Enable it
             url: >-
