@@ -117,7 +117,7 @@ sections:
             new_window: false
             no_follow: false
             type: action
-      - title: Application Modernization
+      - title: App- und Prozessmodernisierung
         content: >
           For modernization, we start with a process assessment. This is the
           basis for refactoring, a new UI/UX design and a DevOps operating
