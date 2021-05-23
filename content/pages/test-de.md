@@ -89,10 +89,8 @@ sections:
     grid_items:
       - title: Cloud-Smart Strategie
         content: >
-          To meet highest security demands and governance procedures in a daily
-          changing world are among the most pressing challenges today. We build
-          lasting strategies and the foundation to ensure cloud service
-          enablement.
+          Wir verbinden Ihre Anforderungen und Rahmenbedingungen mit dem vollen
+          Cloud-Potenzial der Zukunft, schrittweise, sinnvoll, skalierbar.
         actions:
           - label: Enable it
             url: >-
