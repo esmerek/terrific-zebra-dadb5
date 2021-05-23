@@ -130,7 +130,7 @@ sections:
             new_window: false
             no_follow: false
             type: action
-      - title: Agile Project Guidance
+      - title: Agile Arbeitsformen
         content: >
           Together we organize a powerful team. We establish guidance and the
           ideal environment to serve your needs in an iterative, value-oriented
