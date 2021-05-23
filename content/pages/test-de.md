@@ -106,7 +106,8 @@ sections:
         content: >
           Die Grundlage für einen erfolgreichen Wechsel zur kontinuierlichen
           Veränderung ist die Integration von Mensch, Kultur und Technologie.
-          Wir vereinen ganzheitliche Lösungen, die Mitarbeitende lieben.
+          Wir bilden und vereinen ganzheitliche Lösungen, die Mitarbeitende
+          lieben.
         actions:
           - label: Erfahren
             url: >-
