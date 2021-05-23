@@ -133,7 +133,8 @@ sections:
       - title: Agile Arbeitsformen
         content: >
           Wir schaffen die notwendigen Voraussetzungen, um agile Arbeitsformen
-          ganzheitlich in einem kontinuierlichen Lernprozess zu etablieren.
+          ganzheitlich in einem kontinuierlichen Lernprozess zu etablieren und
+          langfristig zu stärken.
         actions:
           - label: Iterieren
             url: >-
