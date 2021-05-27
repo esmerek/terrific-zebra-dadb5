@@ -46,10 +46,8 @@ sections:
       - title: Create Collective Impact
         image_alt: lorem-ipsum
         content: >
-          To enable true transformation, we need to rethink and reinvent
-          processes. We provide facilitation and toolsets to drive process
-          design and business operations into a new dimension. In doing so, we
-          push transformation initiatives towards the digital tomorrow.
+          We bring people together who enjoy interacting and can unlock their
+          full potential with their team.
         actions: []
         type: grid_item
     type: section_grid
