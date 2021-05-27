@@ -63,14 +63,7 @@ sections:
           processes. We provide facilitation and toolsets to drive process
           design and business operations into a new dimension. In doing so, we
           push transformation initiatives towards the digital tomorrow.
-        actions:
-          - label: Disrupt it
-            url: '#'
-            style: button
-            icon: dribbble
-            new_window: false
-            no_follow: false
-            type: action
+        actions: []
         type: grid_item
     type: section_grid
     subtitle: How we solve your challenges
