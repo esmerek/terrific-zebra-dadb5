@@ -36,7 +36,7 @@ sections:
           the organization, in projects, with people.
         actions: []
         type: grid_item
-      - title: Teamwork
+      - title: Modernize the Workplace
         image_alt: lorem-ipsum
         content: >
           We design, plan and implement the digital workplace for your
