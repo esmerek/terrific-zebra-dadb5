@@ -73,7 +73,7 @@ sections:
             new_window: false
             no_follow: false
             type: action
-      - title: Employee Experience
+      - title: Agile project and work methods
         content: >
           The foundation for a successful shift to continuous transformation is
           the integration of people, culture and technology. We are not
