@@ -106,7 +106,7 @@ sections:
         content: >
           We guide the termination of outdated applications and processes to
           enable space for new ideas and true transformation. With holistic
-          approaches, we create modern, accessible and integral solutions.
+          approaches, we create modern and integral solutions.
         actions:
           - label: Initiate disprution
             url: >-
