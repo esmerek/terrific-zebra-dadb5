@@ -29,7 +29,7 @@ sections:
           culture into a mindset of continuous change.
         actions: []
         type: grid_item
-      - title: Change Culture
+      - title: Be agile
         image_alt: lorem-ipsum
         content: >
           We shape a strategy of how we integrate people and culture into the
