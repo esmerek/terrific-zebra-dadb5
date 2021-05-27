@@ -17,12 +17,6 @@ sections:
       - label: Discover it
         url: '#start-Competences'
         style: button
-  - title: Stories
-    section_id: lorem-ipsum
-    posts_number: 3
-    col_number: three
-    actions: []
-    type: section_posts
   - title: Competences
     section_id: start-Competences
     col_number: two
@@ -159,6 +153,12 @@ sections:
             no_follow: false
             type: action
     subtitle: What we offer to move towards your digital tomorrow
+  - title: Stories
+    section_id: lorem-ipsum
+    posts_number: 3
+    col_number: three
+    actions: []
+    type: section_posts
 seo:
   title: Epic Fusion - Mindset is everything.
   description: >-
