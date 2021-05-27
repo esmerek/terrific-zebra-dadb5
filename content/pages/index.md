@@ -90,9 +90,9 @@ sections:
             type: action
       - title: Employee Experience and Training
         content: >
-          For modernization, we start with a process assessment. This is the
-          basis for refactoring, a new UI/UX design and a DevOps operating
-          model. We squeeze value of out the data given.
+          The foundation for a successful shift to continuous change is the
+          integration of people, culture and technology. We build and unite
+          meaningful, real-world solutions that employees love.
         actions:
           - label: Connect people
             url: >-
