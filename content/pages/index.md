@@ -43,7 +43,7 @@ sections:
           employees. For everyone, from anywhere, at any time.
         actions: []
         type: grid_item
-      - title: Unlock Collective Impact
+      - title: Create Collective Impact
         image_alt: lorem-ipsum
         content: >
           We bring people together who enjoy interacting and can unlock their
