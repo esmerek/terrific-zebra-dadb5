@@ -47,14 +47,7 @@ sections:
           on how we can unite and integrate these aspects, how user groups are
           formed and interact to bring data together. Accessible data and short
           digital paths lead to valuable results.
-        actions:
-          - label: Connect it
-            url: '#'
-            style: button
-            icon: dribbble
-            new_window: false
-            no_follow: false
-            type: action
+        actions: []
         type: grid_item
       - title: Reinventing Processes
         image_alt: lorem-ipsum
