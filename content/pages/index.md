@@ -25,7 +25,7 @@ sections:
       - title: Challenge the Change
         image_alt: lorem-ipsum
         content: >
-          Using digital strategies to integrate people and organizational
+          With digital strategies, we integrate people and organizational
           culture into a mindset of continuous change.
         actions: []
         type: grid_item
