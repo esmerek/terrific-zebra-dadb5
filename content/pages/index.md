@@ -29,14 +29,7 @@ sections:
           demands while it combines today's needs with accessible and secure
           solutions. We enable the infrastructure and security baselines to
           ensure that employees can focus on their work.
-        actions:
-          - label: Enable it
-            url: '#'
-            style: button
-            icon: dribbble
-            new_window: false
-            no_follow: false
-            type: action
+        actions: []
         type: grid_item
       - title: Change Culture
         image_alt: lorem-ipsum
