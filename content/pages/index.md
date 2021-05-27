@@ -65,7 +65,7 @@ sections:
           cloud enablement strategy and so reduce complexity while maintaining
           the resources.
         actions:
-          - label: Enable it
+          - label: Start cycle
             url: >-
               https://terrific-zebra-dadb5.netlify.app/services#services-cloud-enablement
             style: button
