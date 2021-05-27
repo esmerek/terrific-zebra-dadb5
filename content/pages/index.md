@@ -22,7 +22,7 @@ sections:
     col_number: two
     is_numbered: false
     grid_items:
-      - title: Digital Workplace
+      - title: Challenge the Change
         image_alt: lorem-ipsum
         content: >
           Using digital strategies to integrate people and organizational
