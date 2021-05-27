@@ -60,10 +60,10 @@ sections:
     grid_items:
       - title: Cloud-Smart Strategy Enablement
         content: >
-          To meet highest security demands and governance procedures in a daily
-          changing world are among the most pressing challenges today. We build
-          lasting strategies and the foundation to ensure cloud service
-          enablement.
+          We combine your requirements and environment with the full cloud
+          potential of the future. Together we elaborate an intelligent, staged
+          cloud enablement strategy and so reduce complexity while maintaining
+          the resources.
         actions:
           - label: Enable it
             url: >-
