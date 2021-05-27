@@ -104,9 +104,9 @@ sections:
             type: action
       - title: App and process modernization
         content: >
-          Together we organize a powerful team. We establish guidance and the
-          ideal environment to serve your needs in an iterative, value-oriented
-          and continously improving way.
+          We guide the termination of outdated applications and processes to
+          enable space for new ideas and true transformation. With holistic
+          approaches, we create modern, accessible and integral solutions.
         actions:
           - label: Initiate disprution
             url: >-
