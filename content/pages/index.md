@@ -58,7 +58,7 @@ sections:
     col_number: two
     is_numbered: false
     grid_items:
-      - title: Cloud-Smart Strategy Enablement
+      - title: Cloud-Smart Strategy
         content: >
           We combine your requirements and environment with the full cloud
           potential of the future. Together we elaborate an intelligent, staged
