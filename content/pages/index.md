@@ -80,7 +80,7 @@ sections:
           in the long term. Whether project methodology according to Scrum or
           Kanban, or self-organized teams.
         actions:
-          - label: Experience it
+          - label: Establish vision
             url: >-
               https://terrific-zebra-dadb5.netlify.app/services#services-employee-experience
             style: button
