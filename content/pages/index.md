@@ -58,7 +58,7 @@ sections:
     col_number: two
     is_numbered: false
     grid_items:
-      - title: Cloud Enablement
+      - title: Cloud-Smart Strategy Enablement
         content: >
           To meet highest security demands and governance procedures in a daily
           changing world are among the most pressing challenges today. We build
