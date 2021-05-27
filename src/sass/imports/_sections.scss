@@ -24,7 +24,7 @@
 }
 
 .block-subtitle {
-  color: _palette(charcoal-light-40);
+  color: #a0204a;
   font-size: 0.88889em;
   line-height: 1.5;
   margin: 0.5em 0 0;
@@ -73,7 +73,7 @@
 
   &:before,
   &:after {
-    border: 2px solid _palette(charcoal-light-75);
+    border: 2px solid #a0204a;
     box-sizing: border-box;
     content: "";
     height: 35%;
