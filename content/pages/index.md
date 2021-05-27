@@ -116,7 +116,7 @@ sections:
             new_window: false
             no_follow: false
             type: action
-    subtitle: What we offer to move towards your digital tomorrow
+    subtitle: What we offer
   - title: Stories
     section_id: lorem-ipsum
     posts_number: 3
