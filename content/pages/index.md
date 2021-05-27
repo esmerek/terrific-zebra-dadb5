@@ -32,10 +32,8 @@ sections:
       - title: Be agile
         image_alt: lorem-ipsum
         content: >
-          We shape a strategy of how we integrate people and culture into the
-          foundation of a digital strategy. Change, paradigm shift and
-          leadership are the essential key subjects that we focus on throughout
-          a continous transformation process.
+          We proactively drive the paradigm shift to agile ways of working in
+          the organization, in projects, with people.
         actions: []
         type: grid_item
       - title: Teamwork
