@@ -43,7 +43,7 @@ sections:
           employees. For everyone, from anywhere, at any time.
         actions: []
         type: grid_item
-      - title: Reinventing Processes
+      - title: Create Collective Impact
         image_alt: lorem-ipsum
         content: >
           To enable true transformation, we need to rethink and reinvent
