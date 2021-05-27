@@ -94,7 +94,7 @@ sections:
           basis for refactoring, a new UI/UX design and a DevOps operating
           model. We squeeze value of out the data given.
         actions:
-          - label: Modernizate it
+          - label: Connect people
             url: >-
               https://terrific-zebra-dadb5.netlify.app/services#services-application-modernization
             style: button
