@@ -75,10 +75,10 @@ sections:
             type: action
       - title: Agile project and work methods
         content: >
-          The foundation for a successful shift to continuous transformation is
-          the integration of people, culture and technology. We are not
-          reinventing the wheel. But we unite to create holistic, simple and
-          easy solutions that every employee loves.
+          We establish the necessary prerequisites to holistically implement
+          agile work methods in a continuous learning process to strengthen them
+          in the long term. Whether project methodology according to Scrum or
+          Kanban, or self-organized teams.
         actions:
           - label: Experience it
             url: >-
