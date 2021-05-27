@@ -29,7 +29,7 @@ sections:
           culture into a mindset of continuous change.
         actions: []
         type: grid_item
-      - title: Become agile
+      - title: Becoming agile
         image_alt: lorem-ipsum
         content: >
           We proactively drive the paradigm shift to agile ways of working in
