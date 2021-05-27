@@ -20,7 +20,7 @@ sections:
   - title: Competences
     section_id: start-Competences
     col_number: two
-    is_numbered: false
+    is_numbered: true
     grid_items:
       - title: Challenge the Change
         image_alt: lorem-ipsum
