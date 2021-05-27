@@ -38,14 +38,7 @@ sections:
           foundation of a digital strategy. Change, paradigm shift and
           leadership are the essential key subjects that we focus on throughout
           a continous transformation process.
-        actions:
-          - label: Establish it
-            url: '#'
-            style: button
-            icon: dribbble
-            new_window: false
-            no_follow: false
-            type: action
+        actions: []
         type: grid_item
       - title: Teamwork
         image_alt: lorem-ipsum
