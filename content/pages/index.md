@@ -17,80 +17,38 @@ sections:
       - label: Discover it
         url: '#start-Competences'
         style: button
-  - title: Stories
-    section_id: lorem-ipsum
-    posts_number: 3
-    col_number: three
-    actions: []
-    type: section_posts
   - title: Competences
     section_id: start-Competences
     col_number: two
     is_numbered: false
     grid_items:
-      - title: Digital Workplace
+      - title: Challenge the Change
         image_alt: lorem-ipsum
         content: >
-          Work anywhere on any device. The modern workplace follows you and your
-          demands while it combines today's needs with accessible and secure
-          solutions. We enable the infrastructure and security baselines to
-          ensure that employees can focus on their work.
-        actions:
-          - label: Enable it
-            url: '#'
-            style: button
-            icon: dribbble
-            new_window: false
-            no_follow: false
-            type: action
+          With digital strategies, we integrate people and organizational
+          culture into a mindset of continuous change.
+        actions: []
         type: grid_item
-      - title: Change Culture
+      - title: Establish Agility
         image_alt: lorem-ipsum
         content: >
-          We shape a strategy of how we integrate people and culture into the
-          foundation of a digital strategy. Change, paradigm shift and
-          leadership are the essential key subjects that we focus on throughout
-          a continous transformation process.
-        actions:
-          - label: Establish it
-            url: '#'
-            style: button
-            icon: dribbble
-            new_window: false
-            no_follow: false
-            type: action
+          We proactively drive the paradigm shift to agile ways of working in
+          the organization, in projects, with people.
+        actions: []
         type: grid_item
-      - title: Teamwork
+      - title: Modernize the Workplace
         image_alt: lorem-ipsum
         content: >
-          Collaboration means communication, sharing and interaction. We focus
-          on how we can unite and integrate these aspects, how user groups are
-          formed and interact to bring data together. Accessible data and short
-          digital paths lead to valuable results.
-        actions:
-          - label: Connect it
-            url: '#'
-            style: button
-            icon: dribbble
-            new_window: false
-            no_follow: false
-            type: action
+          We design, plan and implement the digital workplace for your
+          employees. For everyone, from anywhere, at any time.
+        actions: []
         type: grid_item
-      - title: Reinventing Processes
+      - title: Create Collective Impact
         image_alt: lorem-ipsum
         content: >
-          To enable true transformation, we need to rethink and reinvent
-          processes. We provide facilitation and toolsets to drive process
-          design and business operations into a new dimension. In doing so, we
-          push transformation initiatives towards the digital tomorrow.
-        actions:
-          - label: Disrupt it
-            url: '#'
-            style: button
-            icon: dribbble
-            new_window: false
-            no_follow: false
-            type: action
+          We bring people together who enjoy interacting and can unlock their
+          full potential with their team.
+        actions: []
         type: grid_item
     type: section_grid
     subtitle: How we solve your challenges
@@ -100,14 +58,14 @@ sections:
     col_number: two
     is_numbered: false
     grid_items:
-      - title: Cloud Enablement
+      - title: Cloud-Smart Strategy
         content: >
-          To meet highest security demands and governance procedures in a daily
-          changing world are among the most pressing challenges today. We build
-          lasting strategies and the foundation to ensure cloud service
-          enablement.
+          We combine your requirements and environment with the full cloud
+          potential of the future. Together we elaborate an intelligent, staged
+          cloud enablement strategy and so reduce complexity while maintaining
+          the resources.
         actions:
-          - label: Enable it
+          - label: Start cycle
             url: >-
               https://terrific-zebra-dadb5.netlify.app/services#services-cloud-enablement
             style: button
@@ -115,14 +73,14 @@ sections:
             new_window: false
             no_follow: false
             type: action
-      - title: Employee Experience
+      - title: Agile project and work methods
         content: >
-          The foundation for a successful shift to continuous transformation is
-          the integration of people, culture and technology. We are not
-          reinventing the wheel. But we unite to create holistic, simple and
-          easy solutions that every employee loves.
+          We establish the necessary prerequisites to holistically implement
+          agile work methods in a continuous learning process to strengthen them
+          in the long term. Whether project methodology according to Scrum or
+          Kanban, or self-organized teams.
         actions:
-          - label: Experience it
+          - label: Establish vision
             url: >-
               https://terrific-zebra-dadb5.netlify.app/services#services-employee-experience
             style: button
@@ -130,13 +88,13 @@ sections:
             new_window: false
             no_follow: false
             type: action
-      - title: Application Modernization
+      - title: Employee Experience and Training
         content: >
-          For modernization, we start with a process assessment. This is the
-          basis for refactoring, a new UI/UX design and a DevOps operating
-          model. We squeeze value of out the data given.
+          The foundation for a successful shift to continuous change is the
+          integration of people, culture and technology. We build and unite
+          meaningful, real-world solutions that employees love.
         actions:
-          - label: Modernizate it
+          - label: Connect people
             url: >-
               https://terrific-zebra-dadb5.netlify.app/services#services-application-modernization
             style: button
@@ -144,13 +102,13 @@ sections:
             new_window: false
             no_follow: false
             type: action
-      - title: Agile Project Guidance
+      - title: App and process modernization
         content: >
-          Together we organize a powerful team. We establish guidance and the
-          ideal environment to serve your needs in an iterative, value-oriented
-          and continously improving way.
+          We guide the termination of outdated applications and processes to
+          enable space for new ideas and true transformation. With holistic
+          approaches, we create modern and integral solutions.
         actions:
-          - label: Iterate it
+          - label: Initiate disprution
             url: >-
               https://terrific-zebra-dadb5.netlify.app/services#services-agile-project-guidance
             style: button
@@ -158,7 +116,13 @@ sections:
             new_window: false
             no_follow: false
             type: action
-    subtitle: What we offer to move towards your digital tomorrow
+    subtitle: What we offer
+  - title: Stories
+    section_id: lorem-ipsum
+    posts_number: 3
+    col_number: three
+    actions: []
+    type: section_posts
 seo:
   title: Epic Fusion - Mindset is everything.
   description: >-
