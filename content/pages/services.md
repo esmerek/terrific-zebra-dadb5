@@ -1,6 +1,6 @@
 ---
 title: Services
-hide_title: true
+hide_title: false
 sections:
   - title: Services
     section_id: lorem-ipsum
