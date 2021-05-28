@@ -6,22 +6,22 @@ sections:
     actions: []
     type: section_hero
     content: >
-      #### What we offer to move towards your digital tomorrow.
+      ##### What we offer to move towards your digital tomorrow.
 
 
-      *   [Cloud
-      Enablement](https://terrific-zebra-dadb5.netlify.app/services#services-cloud-enablement)
+      *   [Cloud Smart
+      Strategy](https://terrific-zebra-dadb5.netlify.app/services#services-cloud-enablement)
 
 
-      *   [Employee
-      Experience](https://terrific-zebra-dadb5.netlify.app/services#services-employee-experience)
+      *   [Employee Experience and
+      Training](https://terrific-zebra-dadb5.netlify.app/services#services-employee-experience)
 
 
-      *   [Agile Project
-      Guidance](https://terrific-zebra-dadb5.netlify.app/services#services-agile-project-guidance)
+      *   [Agile Project and Work
+      Methods](https://terrific-zebra-dadb5.netlify.app/services#services-agile-project-guidance)
 
 
-      *   [Application
+      *   [App and Process
       Modernization](https://terrific-zebra-dadb5.netlify.app/services#services-application-modernization)
   - title: Cloud Enablement
     section_id: services-cloud-enablement
