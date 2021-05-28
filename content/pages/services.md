@@ -27,34 +27,49 @@ sections:
     section_id: services-cloud-enablement
     image_alt: lorem-ipsum
     content: >
-      To meet highest security demands and governance procedures in a daily
-      changing world are among the most pressing challenges today. We build
-      lasting strategies and the foundation to ensure cloud service enablement.
+      We combine your requirements and environment with the full Microsoft 365
+      cloud potential of the future. Together, we develop an smart, staged cloud
+      enablement strategy and thus reduce the complexity of your transformation
+      projects.
 
 
-      *   **Digital Strategy**
+      ##### Microsoft 365 und Azure Infrastructure
 
 
-      *   **Modern Workplace**
+      *   Strategy and Roadmap
 
 
-      *   **Cloud Transformation**
+      *   Modern Workplace
 
 
-      *   **Cloud Security**
+      *   Cloud Security
 
 
-      *   **Windows 10 & Mobile Devices**
+      *   Cloud Infrastructure Assessments
 
 
-      *   **Distributed Work Models**
+      ##### Microsoft 365 Trusted Advisor
+
+
+      *   Vision workshops, integral concepts and holistic advisory
+
+
+      *   Guidance in the transition to new types of operating models
+
+
+      *   Technical change advisory
+
+
+      ##### Work Journey and Teamwork
+
+
+      *   Communication and phone system with Microsoft Teams
+
+
+      *   Use the potential of collaboration effects with Microsoft 365
 
 
       #### Learn more: Free advisory session!
-
-
-      Curious? We offer free advisory sessions on Cloud Enablement and Modern
-      Workplace Strategy! Fancy that!
 
 
       [Request appointment
