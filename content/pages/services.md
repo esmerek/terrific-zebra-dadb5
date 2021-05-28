@@ -1,67 +1,78 @@
 ---
 title: Services
-hide_title: true
+hide_title: false
 sections:
-  - title: Services
-    section_id: lorem-ipsum
+  - section_id: lorem-ipsum
     actions: []
     type: section_hero
     content: >
-      #### What we offer to move towards your digital tomorrow.
+      ##### What we offer to move towards your digital tomorrow.
 
 
-      *   [Cloud
-      Enablement](https://terrific-zebra-dadb5.netlify.app/services#services-cloud-enablement)
+      *   [Cloud Smart
+      Strategy](https://terrific-zebra-dadb5.netlify.app/services#services-cloud-enablement)
 
 
-      *   [Employee
-      Experience](https://terrific-zebra-dadb5.netlify.app/services#services-employee-experience)
+      *   [Employee Experience and
+      Training](https://terrific-zebra-dadb5.netlify.app/services#services-employee-experience)
 
 
-      *   [Agile Project
-      Guidance](https://terrific-zebra-dadb5.netlify.app/services#services-agile-project-guidance)
+      *   [Agile Project and Work
+      Methods](https://terrific-zebra-dadb5.netlify.app/services#services-agile-project-guidance)
 
 
-      *   [Application
+      *   [App and Process
       Modernization](https://terrific-zebra-dadb5.netlify.app/services#services-application-modernization)
-  - title: Cloud Enablement
+  - title: Cloud-Smart Strategy
     section_id: services-cloud-enablement
     image_alt: lorem-ipsum
     content: >
-      To meet highest security demands and governance procedures in a daily
-      changing world are among the most pressing challenges today. We build
-      lasting strategies and the foundation to ensure cloud service enablement.
+      We combine your requirements and environment with the full Microsoft 365
+      cloud potential of the future. Together, we develop an smart, staged cloud
+      enablement strategy and thus reduce the complexity of your transformation
+      projects.
 
 
-      *   **Digital Strategy**
+      ##### Microsoft 365 und Azure Infrastructure
 
 
-      *   **Modern Workplace**
+      *   Strategy and Roadmap
 
 
-      *   **Cloud Transformation**
+      *   Modern Workplace
 
 
-      *   **Cloud Security**
+      *   Cloud Security
 
 
-      *   **Windows 10 & Mobile Devices**
+      *   Cloud Infrastructure Assessments
 
 
-      *   **Distributed Work Models**
+      ##### Microsoft 365 Trusted Advisor
 
 
-      #### Learn more: Free advisory session!
+      *   Vision workshops, integral concepts and holistic advisory
 
 
-      Curious? We offer free advisory sessions on Cloud Enablement and Modern
-      Workplace Strategy! Fancy that!
+      *   Guidance in the transition to new types of operating models
 
 
-      [Request appointment
+      *   Technical change advisory
+
+
+      ##### Work Journey and Teamwork
+
+
+      *   Communication and phone system with Microsoft Teams
+
+
+      *   Use the potential of collaboration effects with Microsoft 365
+
+
+      [Free advisory session on **Cloud-Smart Strategy**: Request appointment
       ](https://form.asana.com?k=AdlAWEDpqiAikr-o_rKkxA\&d=1200129872637977)
     type: section_content
-  - title: Employee Experience
+  - title: Employee Experience and Training
     section_id: services-employee-experience
     image_alt: lorem-ipsum
     content: >
@@ -90,17 +101,13 @@ sections:
       #### Learn more: Free advisory session!
 
 
-      Curious? We offer free advisory sessions on Employee Experience and
-      Culture Change! Fancy that!
-
-
       [Request appointment
       ](https://form.asana.com?k=AdlAWEDpqiAikr-o_rKkxA\&d=1200129872637977)
 
 
       [](https://terrific-zebra-dadb5.netlify.app/services/)
     type: section_content
-  - title: Agile Project Guidance
+  - title: Agile Project and Work Methods Guidance
     section_id: services-agile-project-guidance
     image_alt: lorem-ipsum
     content: >
@@ -120,14 +127,10 @@ sections:
       #### Learn more: Free advisory session!
 
 
-      Curious? We offer free advisory sessions on Agile Project Guidance! Fancy
-      that!
-
-
       [Request appointment
       ](https://form.asana.com?k=AdlAWEDpqiAikr-o_rKkxA\&d=1200129872637977)
     type: section_content
-  - title: Application Modernization
+  - title: App and Process Modernization
     section_id: services-application-modernization
     image_alt: lorem-ipsum
     content: >
@@ -145,10 +148,6 @@ sections:
 
 
       #### Learn more: Free advisory session!
-
-
-      Curious? We offer free advisory sessions on Application Modernization!
-      Fancy that!
 
 
       [Request appointment
