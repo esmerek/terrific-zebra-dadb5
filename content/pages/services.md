@@ -69,7 +69,8 @@ sections:
       *   Use the potential of collaboration effects with Microsoft 365
 
 
-      [Free advisory session: Request appointment
+      [Free advisory session on **Cloud-Smart Strategy** topics: Request
+      appointment
       ](https://form.asana.com?k=AdlAWEDpqiAikr-o_rKkxA\&d=1200129872637977)
     type: section_content
   - title: Employee Experience and Training
