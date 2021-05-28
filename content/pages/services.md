@@ -104,10 +104,6 @@ sections:
       #### Learn more: Free advisory session!
 
 
-      Curious? We offer free advisory sessions on Employee Experience and
-      Culture Change! Fancy that!
-
-
       [Request appointment
       ](https://form.asana.com?k=AdlAWEDpqiAikr-o_rKkxA\&d=1200129872637977)
 
