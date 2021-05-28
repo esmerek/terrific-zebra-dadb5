@@ -2,8 +2,7 @@
 title: Services
 hide_title: false
 sections:
-  - title: Services
-    section_id: lorem-ipsum
+  - section_id: lorem-ipsum
     actions: []
     type: section_hero
     content: >
