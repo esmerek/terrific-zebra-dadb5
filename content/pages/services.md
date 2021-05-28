@@ -23,7 +23,7 @@ sections:
 
       *   [App and Process
       Modernization](https://terrific-zebra-dadb5.netlify.app/services#services-application-modernization)
-  - title: Cloud Enablement
+  - title: Cloud-Smart Strategy
     section_id: services-cloud-enablement
     image_alt: lorem-ipsum
     content: >
