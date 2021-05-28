@@ -60,7 +60,7 @@ sections:
       [Request appointment
       ](https://form.asana.com?k=AdlAWEDpqiAikr-o_rKkxA\&d=1200129872637977)
     type: section_content
-  - title: Employee Experience
+  - title: Employee Experience and Training
     section_id: services-employee-experience
     image_alt: lorem-ipsum
     content: >
