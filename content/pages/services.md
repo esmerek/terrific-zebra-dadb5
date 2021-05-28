@@ -126,7 +126,7 @@ sections:
       [Request appointment
       ](https://form.asana.com?k=AdlAWEDpqiAikr-o_rKkxA\&d=1200129872637977)
     type: section_content
-  - title: Application Modernization
+  - title: App and Process Modernization
     section_id: services-application-modernization
     image_alt: lorem-ipsum
     content: >
