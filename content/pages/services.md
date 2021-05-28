@@ -99,7 +99,7 @@ sections:
 
       [](https://terrific-zebra-dadb5.netlify.app/services/)
     type: section_content
-  - title: Agile Project Guidance
+  - title: Agile Project and Work Methods Guidance
     section_id: services-agile-project-guidance
     image_alt: lorem-ipsum
     content: >
