@@ -15,7 +15,7 @@ sections:
       purpose to create impact on people and society.
     actions:
       - label: Discover it
-        url: '#start-Competences'
+        url: /services
         style: button
   - title: Competences
     section_id: start-Competences
