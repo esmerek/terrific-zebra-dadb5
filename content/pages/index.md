@@ -93,8 +93,7 @@ sections:
           meaningful, real-world solutions that employees love.
         actions:
           - label: Connect people
-            url: >-
-              https://terrific-zebra-dadb5.netlify.app/services#services-application-modernization
+            url: /services
             style: button
             icon: dribbble
             new_window: false
