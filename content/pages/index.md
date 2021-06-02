@@ -66,8 +66,7 @@ sections:
           the resources.
         actions:
           - label: Start cycle
-            url: >-
-              https://terrific-zebra-dadb5.netlify.app/services#services-cloud-enablement
+            url: /services
             style: button
             icon: dribbble
             new_window: false
