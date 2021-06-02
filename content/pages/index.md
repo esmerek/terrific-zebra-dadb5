@@ -80,8 +80,7 @@ sections:
           Kanban, or self-organized teams.
         actions:
           - label: Establish vision
-            url: >-
-              https://terrific-zebra-dadb5.netlify.app/services#services-employee-experience
+            url: /services
             style: button
             icon: dribbble
             new_window: false
