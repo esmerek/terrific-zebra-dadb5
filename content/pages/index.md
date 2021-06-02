@@ -106,8 +106,7 @@ sections:
           approaches, we create modern and integral solutions.
         actions:
           - label: Initiate disprution
-            url: >-
-              https://terrific-zebra-dadb5.netlify.app/services#services-agile-project-guidance
+            url: /services
             style: button
             icon: dribbble
             new_window: false
