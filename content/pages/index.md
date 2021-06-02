@@ -15,7 +15,7 @@ sections:
       purpose to create impact on people and society.
     actions:
       - label: Discover it
-        url: '#start-Competences'
+        url: /services
         style: button
   - title: Competences
     section_id: start-Competences
@@ -66,8 +66,7 @@ sections:
           the resources.
         actions:
           - label: Start cycle
-            url: >-
-              https://terrific-zebra-dadb5.netlify.app/services#services-cloud-enablement
+            url: /services
             style: button
             icon: dribbble
             new_window: false
@@ -81,8 +80,7 @@ sections:
           Kanban, or self-organized teams.
         actions:
           - label: Establish vision
-            url: >-
-              https://terrific-zebra-dadb5.netlify.app/services#services-employee-experience
+            url: /services
             style: button
             icon: dribbble
             new_window: false
@@ -95,8 +93,7 @@ sections:
           meaningful, real-world solutions that employees love.
         actions:
           - label: Connect people
-            url: >-
-              https://terrific-zebra-dadb5.netlify.app/services#services-application-modernization
+            url: /services
             style: button
             icon: dribbble
             new_window: false
@@ -109,8 +106,7 @@ sections:
           approaches, we create modern and integral solutions.
         actions:
           - label: Initiate disprution
-            url: >-
-              https://terrific-zebra-dadb5.netlify.app/services#services-agile-project-guidance
+            url: /services
             style: button
             icon: dribbble
             new_window: false
