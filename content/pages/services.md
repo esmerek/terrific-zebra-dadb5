@@ -13,10 +13,10 @@ sections:
       Strategy](#services-cloud-enablement)
 
       *   [Employee Experience and
-      Training](https://terrific-zebra-dadb5.netlify.app/services#services-employee-experience)
+      Training](#services-employee-experience)
 
       *   [Agile Project and Work
-      Methods](https://terrific-zebra-dadb5.netlify.app/services#services-agile-project-guidance)
+      Methods](#services-agile-project-guidance)
 
       *   [App and Process
       Modernization](https://terrific-zebra-dadb5.netlify.app/services#services-application-modernization)
