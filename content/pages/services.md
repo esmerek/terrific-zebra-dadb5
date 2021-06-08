@@ -35,12 +35,9 @@ sections:
 
       *   Strategy and Roadmap
 
-
       *   Modern Workplace
 
-
       *   Cloud Security
-
 
       *   Cloud Infrastructure Assessments
 
@@ -50,9 +47,7 @@ sections:
 
       *   Vision workshops, integral concepts and holistic advisory
 
-
       *   Guidance in the transition to new types of operating models
-
 
       *   Technical change advisory
 
@@ -61,7 +56,6 @@ sections:
 
 
       *   Communication and phone system with Microsoft Teams
-
 
       *   Use the potential of collaboration effects with Microsoft 365
 
