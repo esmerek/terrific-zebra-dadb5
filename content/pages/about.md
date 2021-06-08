@@ -53,24 +53,3 @@ We are not just another service provider for technical solutions. We are passion
 
 To make this truly possible, we have been intensely focused on values and principles that are important to us since the frist day of our Epic Fusion.
 
-#### Our principles
-
-> Purpose over Profits
->
-> We over Me
->
-> Trust over Control
->
-> Learn-It over Know-It
->
-> Experiment over Certainity
->
-> Evolutionary  over Strength
->
-> Transparency  over Obscurity
-
-Find out more about our values here.
-
-
-
-Curious about working with us? [Contact here.](https://terrific-zebra-dadb5.netlify.app)

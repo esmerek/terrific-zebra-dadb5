@@ -10,19 +10,16 @@ sections:
 
 
       *   [Cloud Smart
-      Strategy](https://terrific-zebra-dadb5.netlify.app/services#services-cloud-enablement)
-
+      Strategy](#services-cloud-enablement)
 
       *   [Employee Experience and
-      Training](https://terrific-zebra-dadb5.netlify.app/services#services-employee-experience)
-
+      Training](#services-employee-experience)
 
       *   [Agile Project and Work
-      Methods](https://terrific-zebra-dadb5.netlify.app/services#services-agile-project-guidance)
-
+      Methods](#services-agile-project-guidance)
 
       *   [App and Process
-      Modernization](https://terrific-zebra-dadb5.netlify.app/services#services-application-modernization)
+      Modernization](#services-application-modernization)
   - title: Cloud-Smart Strategy
     section_id: services-cloud-enablement
     image_alt: lorem-ipsum
@@ -38,12 +35,9 @@ sections:
 
       *   Strategy and Roadmap
 
-
       *   Modern Workplace
 
-
       *   Cloud Security
-
 
       *   Cloud Infrastructure Assessments
 
@@ -53,9 +47,7 @@ sections:
 
       *   Vision workshops, integral concepts and holistic advisory
 
-
       *   Guidance in the transition to new types of operating models
-
 
       *   Technical change advisory
 
@@ -64,7 +56,6 @@ sections:
 
 
       *   Communication and phone system with Microsoft Teams
-
 
       *   Use the potential of collaboration effects with Microsoft 365
 
