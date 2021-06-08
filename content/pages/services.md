@@ -10,7 +10,7 @@ sections:
 
 
       *   [Cloud Smart
-      Strategy](https://terrific-zebra-dadb5.netlify.app/services#services-cloud-enablement)
+      Strategy](#services-cloud-enablement)
 
       *   [Employee Experience and
       Training](https://terrific-zebra-dadb5.netlify.app/services#services-employee-experience)
