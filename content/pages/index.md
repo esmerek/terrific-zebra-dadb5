@@ -159,9 +159,9 @@ seo:
       keyName: property
     - name: 'og:description'
       value: >-
-        Epic Fusion moves your digital initiatives into the new reality. Shape
-        your Digital Workplace towards the Employee Experience of the Digital
-        Tomorrow!
+        Fit für die digitale Zukunft? Digital Workplace • Microsoft 365 • Agile
+        Coaching • Cloud-Strategie ✓ Epic Fusion führt Sie durch die digitale
+        Transformation.
       keyName: property
     - name: 'og:image'
       value: /images/epic-fusion-bg-800.jpg
