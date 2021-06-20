@@ -131,7 +131,7 @@ sections:
             new_window: false
             no_follow: false
             type: action
-    subtitle: What we offer
+    subtitle: 'With Epic Fusion, you''re ready for the digital future'
   - title: Stories
     section_id: lorem-ipsum
     posts_number: 3
