@@ -147,8 +147,8 @@ sections:
 seo:
   title: Mindset is everything | Epic Fusion
   description: >-
-    Ready for the digital future? Digital Workplace - Microsoft 365 - Agile
-    Coaching - Cloud Strategy ✓ Epic Fusion guides you through the digital
+    Ready for the digital future? Digital Workplace • Microsoft 365 • Agile
+    Coaching • Cloud Strategy ✓ Epic Fusion guides you through the digital
     transformation.
   extra:
     - name: 'og:type'
