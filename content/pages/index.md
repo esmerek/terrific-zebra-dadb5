@@ -29,7 +29,7 @@ sections:
       value for people, society and the environment with our work - the digital
       transformation of companies.
     actions:
-      - label: Discover it
+      - label: Start digital transformation now
         url: /services
         style: button
   - title: Competences
