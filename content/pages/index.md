@@ -145,7 +145,7 @@ sections:
       The Epic Fusion Blog: Stay up to date on the latest digital trends and
       tools.
 seo:
-  title: Epic Fusion - Mindset is everything.
+  title: Mindset is everything | Epic Fusion
   description: >-
     Epic Fusion moves your digital initiatives into the new reality. We shape
     your Digital Workplace towards the Employee Experience of the Digital
