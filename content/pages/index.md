@@ -37,7 +37,7 @@ sections:
     col_number: two
     is_numbered: true
     grid_items:
-      - title: Challenge the Change
+      - title: Leverage Change
         image_alt: lorem-ipsum
         content: >
           With digital strategies, we integrate people and organizational
