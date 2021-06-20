@@ -141,6 +141,9 @@ sections:
     col_number: three
     actions: []
     type: section_posts
+    subtitle: >-
+      The Epic Fusion Blog: Stay up to date on the latest digital trends and
+      tools.
 seo:
   title: Epic Fusion - Mindset is everything.
   description: >-
