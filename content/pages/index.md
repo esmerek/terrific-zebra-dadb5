@@ -40,8 +40,9 @@ sections:
       - title: Leverage Change
         image_alt: lorem-ipsum
         content: >
-          With digital strategies, we integrate people and organizational
-          culture into a mindset of continuous change.
+          Think in solutions: Enrich your organizational culture and digital
+          strategies with a positive mindset of continuous change and
+          improvement.
         actions: []
         type: grid_item
       - title: Establish Agility
