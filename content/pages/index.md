@@ -66,7 +66,7 @@ sections:
         actions: []
         type: grid_item
     type: section_grid
-    subtitle: How we solve your challenges
+    subtitle: Epic Fusion guides you purposefully through digital transformation
   - section_id: start-Services
     type: section_grid
     title: Services
