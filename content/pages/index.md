@@ -4,17 +4,32 @@ hide_title: true
 sections:
   - section_id: hero
     type: section_hero
-    title: Mindset is everything.
+    title: 'Epic Fusion: Mindset is everything.'
     content: >
-      #### Why we exist
+      ### Are you ready for the digital future?
 
 
-      Epic Fusion is here to move your digital initiatives into the new reality.
-      With our talents collective we fuse your demands horizon-focused towards
-      the digital tomorrow. We catalyze digital transformation with values and
-      purpose to create impact on people and society.
+
+      Epic Fusion guides you and your company through the digital transformation
+      in a focused and reliable way. Meet today's changes with modern solutions.
+      From creating a digital work environment to understandable Agile coaching
+      and a smart cloud strategy, together we turn digital technologies and
+      techniques into your competitive advantage. Achieve a lasting impact on
+      your employees, work environment, and business success with Epic Fusion on
+      digital transformation.
+
+
+      ### Trust Epic Fusion
+
+
+
+      We are convinced that "Mindset is everything". The collaboration with our
+      clients is based on firm principles such as "Purpose over Profits", "We
+      over Me" and "Learn-It over Know-It". This is how we create relevant added
+      value for people, society and the environment with our work - the digital
+      transformation of companies.
     actions:
-      - label: Discover it
+      - label: Start digital transformation now
         url: /services
         style: button
   - title: Competences
@@ -22,36 +37,40 @@ sections:
     col_number: two
     is_numbered: true
     grid_items:
-      - title: Challenge the Change
+      - title: Leverage Change
         image_alt: lorem-ipsum
         content: >
-          With digital strategies, we integrate people and organizational
-          culture into a mindset of continuous change.
+          Think in solutions: Enrich your organizational culture and digital
+          strategies with a positive mindset of continuous change and
+          improvement.
         actions: []
         type: grid_item
       - title: Establish Agility
         image_alt: lorem-ipsum
         content: >
-          We proactively drive the paradigm shift to agile ways of working in
-          the organization, in projects, with people.
+          Focus on flexibility and efficiency: proactively use agile ways of
+          working within your organization, in projects and in team
+          collaboration.
         actions: []
         type: grid_item
       - title: Modernize the Workplace
         image_alt: lorem-ipsum
         content: >
-          We design, plan and implement the digital workplace for your
-          employees. For everyone, from anywhere, at any time.
+          For everyone from anywhere, anytime: Create a digital workplace for
+          your employees - Epic Fusion guides you from planning to
+          implementation.
         actions: []
         type: grid_item
       - title: Create Collective Impact
         image_alt: lorem-ipsum
         content: >
-          We bring people together who enjoy interacting and can unlock their
-          full potential with their team.
+          Achieve more together: Bring people together who enjoy interacting. By
+          fostering individual talent, you improve the performance of entire
+          teams.
         actions: []
         type: grid_item
     type: section_grid
-    subtitle: How we solve your challenges
+    subtitle: Epic Fusion guides you purposefully through digital transformation
   - section_id: start-Services
     type: section_grid
     title: Services
@@ -60,10 +79,10 @@ sections:
     grid_items:
       - title: Cloud-Smart Strategy
         content: >
-          We combine your requirements and environment with the full cloud
-          potential of the future. Together we elaborate an intelligent, staged
-          cloud enablement strategy and so reduce complexity while maintaining
-          the resources.
+          Together, we work out an intelligent, phased cloud enablement
+          strategy. In this way, we reduce complexity while maintaining the same
+          resources. Epic Fusion connects your requirements and conditions with
+          the full cloud potential of the future.
         actions:
           - label: Start cycle
             url: /services
@@ -74,10 +93,11 @@ sections:
             type: action
       - title: Agile project and work methods
         content: >
-          We establish the necessary prerequisites to holistically implement
-          agile work methods in a continuous learning process to strengthen them
-          in the long term. Whether project methodology according to Scrum or
-          Kanban, or self-organized teams.
+          Agile ways of working mean a learning process. We establish agile
+          practices step by step. The goal: to strengthen your work culture and
+          project methodology in the long term. Whether Scrum, Kanban or
+          self-organized teams - Epic Fusion competently supports your
+          employees.
         actions:
           - label: Establish vision
             url: /services
@@ -88,9 +108,10 @@ sections:
             type: action
       - title: Employee Experience and Training
         content: >
-          The foundation for a successful shift to continuous change is the
-          integration of people, culture and technology. We build and unite
-          meaningful, real-world solutions that employees love.
+          For a successful shift to continuous change, the integration of
+          people, culture and technology is essential. Epic Fusion focuses on
+          practical solutions that improve the day-to-day work of your employees
+          and simplify the way they work.
         actions:
           - label: Connect people
             url: /services
@@ -101,9 +122,10 @@ sections:
             type: action
       - title: App and process modernization
         content: >
-          We guide the termination of outdated applications and processes to
-          enable space for new ideas and true transformation. With holistic
-          approaches, we create modern and integral solutions.
+          New ideas and effective change need space. Epic Fusion guides you in
+          breaking up legacy applications and processes. With integrated
+          approaches, we create a modern, accessible and integral solution for
+          your company.
         actions:
           - label: Initiate disprution
             url: /services
@@ -112,13 +134,16 @@ sections:
             new_window: false
             no_follow: false
             type: action
-    subtitle: What we offer
-  - title: Stories
+    subtitle: 'With Epic Fusion, you''re ready for the digital future'
+  - title: News from the digital world
     section_id: lorem-ipsum
     posts_number: 3
     col_number: three
     actions: []
     type: section_posts
+    subtitle: >-
+      The Epic Fusion Blog: Stay up to date on the latest digital trends and
+      tools.
 seo:
   title: Epic Fusion - Mindset is everything.
   description: >-
