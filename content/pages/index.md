@@ -173,9 +173,9 @@ seo:
       value: Epic Fusion - Mindset is everything.
     - name: 'twitter:description'
       value: >-
-        Epic Fusion moves your digital initiatives into the new reality. Shape
-        your Digital Workplace towards the Employee Experience of the Digital
-        Tomorrow!
+        Fit für die digitale Zukunft? Digital Workplace • Microsoft 365 • Agile
+        Coaching • Cloud-Strategie ✓ Epic Fusion führt Sie durch die digitale
+        Transformation.
     - name: 'twitter:image'
       value: /images/epic-fusion-bg-800.jpg
       relativeUrl: true
