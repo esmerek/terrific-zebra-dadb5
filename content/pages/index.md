@@ -122,9 +122,10 @@ sections:
             type: action
       - title: App and process modernization
         content: >
-          We guide the termination of outdated applications and processes to
-          enable space for new ideas and true transformation. With holistic
-          approaches, we create modern and integral solutions.
+          New ideas and effective change need space. Epic Fusion guides you in
+          breaking up legacy applications and processes. With integrated
+          approaches, we create a modern, accessible and integral solution for
+          your company.
         actions:
           - label: Initiate disprution
             url: /services
