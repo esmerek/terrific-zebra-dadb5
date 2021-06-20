@@ -79,10 +79,10 @@ sections:
     grid_items:
       - title: Cloud-Smart Strategy
         content: >
-          We combine your requirements and environment with the full cloud
-          potential of the future. Together we elaborate an intelligent, staged
-          cloud enablement strategy and so reduce complexity while maintaining
-          the resources.
+          Together, we work out an intelligent, phased cloud enablement
+          strategy. In this way, we reduce complexity while maintaining the same
+          resources. Epic Fusion connects your requirements and conditions with
+          the full cloud potential of the future.
         actions:
           - label: Start cycle
             url: /services
