@@ -147,9 +147,9 @@ sections:
 seo:
   title: Mindset is everything | Epic Fusion
   description: >-
-    Epic Fusion moves your digital initiatives into the new reality. We shape
-    your Digital Workplace towards the Employee Experience of the Digital
-    Tomorrow!
+    Ready for the digital future? Digital Workplace - Microsoft 365 - Agile
+    Coaching - Cloud Strategy ✓ Epic Fusion guides you through the digital
+    transformation.
   extra:
     - name: 'og:type'
       value: website
