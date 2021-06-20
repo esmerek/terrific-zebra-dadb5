@@ -6,13 +6,28 @@ sections:
     type: section_hero
     title: 'Epic Fusion: Mindset is everything.'
     content: >
-      #### Why we exist
+      ### Are you ready for the digital future?
 
 
-      Epic Fusion is here to move your digital initiatives into the new reality.
-      With our talents collective we fuse your demands horizon-focused towards
-      the digital tomorrow. We catalyze digital transformation with values and
-      purpose to create impact on people and society.
+
+      Epic Fusion guides you and your company through the digital transformation
+      in a focused and reliable way. Meet today's changes with modern solutions.
+      From creating a digital work environment to understandable Agile coaching
+      and a smart cloud strategy, together we turn digital technologies and
+      techniques into your competitive advantage. Achieve a lasting impact on
+      your employees, work environment, and business success with Epic Fusion on
+      digital transformation.
+
+
+      ### Trust Epic Fusion
+
+
+
+      We are convinced that "Mindset is everything". The collaboration with our
+      clients is based on firm principles such as "Purpose over Profits", "We
+      over Me" and "Learn-It over Know-It". This is how we create relevant added
+      value for people, society and the environment with our work - the digital
+      transformation of companies.
     actions:
       - label: Discover it
         url: /services
