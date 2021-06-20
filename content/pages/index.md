@@ -173,9 +173,9 @@ seo:
       value: Mindset is everything | Epic Fusion
     - name: 'twitter:description'
       value: >-
-        Fit für die digitale Zukunft? Digital Workplace • Microsoft 365 • Agile
-        Coaching • Cloud-Strategie ✓ Epic Fusion führt Sie durch die digitale
-        Transformation.
+        Ready for the digital future? Digital Workplace • Microsoft 365 • Agile
+        Coaching • Cloud Strategy ✓ Epic Fusion guides you through the digital
+        transformation.
     - name: 'twitter:image'
       value: /images/epic-fusion-bg-800.jpg
       relativeUrl: true
