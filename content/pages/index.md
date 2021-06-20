@@ -93,10 +93,11 @@ sections:
             type: action
       - title: Agile project and work methods
         content: >
-          We establish the necessary prerequisites to holistically implement
-          agile work methods in a continuous learning process to strengthen them
-          in the long term. Whether project methodology according to Scrum or
-          Kanban, or self-organized teams.
+          Agile ways of working mean a learning process. We establish agile
+          practices step by step. The goal: to strengthen your work culture and
+          project methodology in the long term. Whether Scrum, Kanban or
+          self-organized teams - Epic Fusion competently supports your
+          employees.
         actions:
           - label: Establish vision
             url: /services
