@@ -135,7 +135,7 @@ sections:
             no_follow: false
             type: action
     subtitle: 'With Epic Fusion, you''re ready for the digital future'
-  - title: Stories
+  - title: News from the digital world
     section_id: lorem-ipsum
     posts_number: 3
     col_number: three
