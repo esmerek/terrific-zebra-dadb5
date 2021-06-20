@@ -108,9 +108,10 @@ sections:
             type: action
       - title: Employee Experience and Training
         content: >
-          The foundation for a successful shift to continuous change is the
-          integration of people, culture and technology. We build and unite
-          meaningful, real-world solutions that employees love.
+          For a successful shift to continuous change, the integration of
+          people, culture and technology is essential. Epic Fusion focuses on
+          practical solutions that improve the day-to-day work of your employees
+          and simplify the way they work.
         actions:
           - label: Connect people
             url: /services
