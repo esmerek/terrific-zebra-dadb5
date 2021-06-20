@@ -64,8 +64,9 @@ sections:
       - title: Create Collective Impact
         image_alt: lorem-ipsum
         content: >
-          We bring people together who enjoy interacting and can unlock their
-          full potential with their team.
+          Achieve more together: Bring people together who enjoy interacting. By
+          fostering individual talent, you improve the performance of entire
+          teams.
         actions: []
         type: grid_item
     type: section_grid
