@@ -145,23 +145,23 @@ sections:
       The Epic Fusion Blog: Stay up to date on the latest digital trends and
       tools.
 seo:
-  title: Epic Fusion - Mindset is everything.
+  title: Mindset is everything | Epic Fusion
   description: >-
-    Epic Fusion moves your digital initiatives into the new reality. We shape
-    your Digital Workplace towards the Employee Experience of the Digital
-    Tomorrow!
+    Ready for the digital future? Digital Workplace • Microsoft 365 • Agile
+    Coaching • Cloud Strategy ✓ Epic Fusion guides you through the digital
+    transformation.
   extra:
     - name: 'og:type'
       value: website
       keyName: property
     - name: 'og:title'
-      value: Epic Fusion - Mindset is everything.
+      value: Mindset is everything | Epic Fusion
       keyName: property
     - name: 'og:description'
       value: >-
-        Epic Fusion moves your digital initiatives into the new reality. Shape
-        your Digital Workplace towards the Employee Experience of the Digital
-        Tomorrow!
+        Ready for the digital future? Digital Workplace • Microsoft 365 • Agile
+        Coaching • Cloud Strategy ✓ Epic Fusion guides you through the digital
+        transformation.
       keyName: property
     - name: 'og:image'
       value: /images/epic-fusion-bg-800.jpg
@@ -170,12 +170,12 @@ seo:
     - name: 'twitter:card'
       value: summary_large_image
     - name: 'twitter:title'
-      value: Epic Fusion - Mindset is everything.
+      value: Mindset is everything | Epic Fusion
     - name: 'twitter:description'
       value: >-
-        Epic Fusion moves your digital initiatives into the new reality. Shape
-        your Digital Workplace towards the Employee Experience of the Digital
-        Tomorrow!
+        Ready for the digital future? Digital Workplace • Microsoft 365 • Agile
+        Coaching • Cloud Strategy ✓ Epic Fusion guides you through the digital
+        transformation.
     - name: 'twitter:image'
       value: /images/epic-fusion-bg-800.jpg
       relativeUrl: true
