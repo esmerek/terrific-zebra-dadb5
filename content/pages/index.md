@@ -48,8 +48,9 @@ sections:
       - title: Establish Agility
         image_alt: lorem-ipsum
         content: >
-          We proactively drive the paradigm shift to agile ways of working in
-          the organization, in projects, with people.
+          Focus on flexibility and efficiency: proactively use agile ways of
+          working within your organization, in projects and in team
+          collaboration.
         actions: []
         type: grid_item
       - title: Modernize the Workplace
