@@ -56,8 +56,9 @@ sections:
       - title: Modernize the Workplace
         image_alt: lorem-ipsum
         content: >
-          We design, plan and implement the digital workplace for your
-          employees. For everyone, from anywhere, at any time.
+          For everyone from anywhere, anytime: Create a digital workplace for
+          your employees - Epic Fusion guides you from planning to
+          implementation.
         actions: []
         type: grid_item
       - title: Create Collective Impact
