@@ -86,7 +86,7 @@ sections:
     col_number: three
     is_numbered: false
     grid_items:
-      - title: lorem-ipsum
+      - title: Microsoft Modern Workplace
         image_alt: lorem-ipsum
         content: >-
           ## Lorem ipsum
