@@ -101,7 +101,7 @@ sections:
           - dolor sit amet
         actions: []
         type: grid_item
-      - title: Strategy and Consulting
+      - title: Strategy and Advisory
         image_alt: lorem-ipsum
         content: >-
           ## Lorem ipsum
