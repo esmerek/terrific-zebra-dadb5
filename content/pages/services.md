@@ -98,17 +98,7 @@ sections:
         type: grid_item
       - title: Teamwork and Communication
         image_alt: lorem-ipsum
-        content: >-
-          ## Lorem ipsum
-
-
-          Lorem ipsum dolor sit amet, **consectetur adipiscing elit**, sed do
-          eiusmod tempor incididunt ut labore et dolore magna aliqua.
-
-
-          - Lorem ipsum
-
-          - dolor sit amet
+        content: "*   Teamwork, communication and calling with Microsoft Teams\r\n*   Use of modern intranet hub solutions\r\n*   Knowledge and task management with Microsoft or Atlassian\r\n*   More effective meetings thanks to the Agenda App\r\n*   Professional IT training for your employees\n"
         actions: []
         type: grid_item
     type: section_grid
