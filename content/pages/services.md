@@ -93,17 +93,7 @@ sections:
         type: grid_item
       - title: Strategy and Advisory
         image_alt: lorem-ipsum
-        content: >-
-          ## Lorem ipsum
-
-
-          Lorem ipsum dolor sit amet, **consectetur adipiscing elit**, sed do
-          eiusmod tempor incididunt ut labore et dolore magna aliqua.
-
-
-          - Lorem ipsum
-
-          - dolor sit amet
+        content: "*   Design of your cloud strategy and service roadmap\n\n*   Vision workshops with integrated concepts and advise\n\n<!---->\n\n*   Support for change management and change processes\r\n\n*   Technical change advisory on the M365 platform\r\n\n*   Focused guidance through the digital transformation of your company\n"
         actions: []
         type: grid_item
       - title: Teamwork and Communication
