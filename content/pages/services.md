@@ -1,68 +1,64 @@
 ---
-title: Services
+title: Our Services
 hide_title: false
 sections:
   - section_id: lorem-ipsum
-    actions: []
+    actions:
+      - label: Digitize your business
+        url: '#'
+        style: button
+        icon: dribbble
+        new_window: false
+        no_follow: false
+        type: action
     type: section_hero
     content: >
-      ##### What we offer to move towards your digital tomorrow.
+      ## Is your company positioned well for the digital future?
 
 
-      *   [Cloud Smart
-      Strategy](#services-cloud-enablement)
-
-      *   [Employee Experience and
-      Training](#services-employee-experience)
-
-      *   [Agile Project and Work
-      Methods](#services-agile-project-guidance)
-
-      *   [App and Process
-      Modernization](#services-application-modernization)
-  - title: Cloud-Smart Strategy
-    section_id: services-cloud-enablement
-    image_alt: lorem-ipsum
-    content: >
-      We combine your requirements and environment with the full Microsoft 365
-      cloud potential of the future. Together, we develop an smart, staged cloud
-      enablement strategy and thus reduce the complexity of your transformation
-      projects.
+      Are you using the full potential of a cloud strategy in your company? Have
+      you increased efficiency in your teams with agile project and work models?
+      Do your employees master the capabilities of your IT programs? Unsure how
+      to answer these questions?
 
 
-      ##### Microsoft 365 und Azure Infrastructure
+      ## Epic Fusion Empowerment
 
 
-      *   Strategy and Roadmap
-
-      *   Modern Workplace
-
-      *   Cloud Security
-
-      *   Cloud Infrastructure Assessments
-
-
-      ##### Microsoft 365 Trusted Advisor
-
-
-      *   Vision workshops, integral concepts and holistic advisory
-
-      *   Guidance in the transition to new types of operating models
-
-      *   Technical change advisory
-
-
-      ##### Work Journey and Teamwork
-
-
-      *   Communication and phone system with Microsoft Teams
-
-      *   Use the potential of collaboration effects with Microsoft 365
-
-
-      [Free advisory session on **Cloud-Smart Strategy**: Request appointment
-      ](https://form.asana.com?k=AdlAWEDpqiAikr-o_rKkxA\&d=1200129872637977)
-    type: section_content
+      Epic Fusion creates certainty. And increases efficiency. With our integral
+      approach and customized offerings, we guide you through the digital
+      transformation in a targeted manner. Based on your starting position and
+      objectives, we develop a smart cloud strategy, establish agile project and
+      work methods, empower your employees and modernize your app and process
+      landscape. Let us prepare you for the digital future. Let's unleash the
+      full potential of your company with the right digital transformation
+      strategy.
+  - title: Smart Cloud Strategies
+    section_id: lorem-ipsum
+    subtitle: >-
+      Epic Fusion connects your requirements and constraints with the full
+      Microsoft 365 cloud potential of the future. Together, we develop an
+      intelligent, phase-by-phase cloud enablement strategy. In this way, we
+      reduce complexity while maintaining the same resources.
+    col_number: three
+    is_numbered: false
+    grid_items:
+      - title: Microsoft Modern Workplace
+        image_alt: lorem-ipsum
+        content: "*   Analysis of your initial infrastructure situation\n\n*   Evaluation and planning of the cloud identity\r\n\n*   Design and implementation of a Modern Workplace\r\n\n*   Optimized use of service potential\r\n\n*   Rollout and training for all employees\n"
+        actions: []
+        type: grid_item
+      - title: Strategy and Advisory
+        image_alt: lorem-ipsum
+        content: "*   Design of your cloud strategy and service roadmap\n\n*   Vision workshops with integrated concepts and advise\n\n<!---->\n\n*   Support for change management and change processes\r\n\n*   Technical change advisory on the M365 platform\r\n\n*   Focused guidance through the digital transformation of your company\n"
+        actions: []
+        type: grid_item
+      - title: Teamwork and Communication
+        image_alt: lorem-ipsum
+        content: "*   Teamwork, communication and calling with Microsoft Teams\r\n*   Use of modern intranet hub solutions\r\n*   Knowledge and task management with Microsoft or Atlassian\r\n*   More effective meetings thanks to the Agenda App\r\n*   Professional IT training for your employees\n"
+        actions: []
+        type: grid_item
+    type: section_grid
   - title: Employee Experience and Training
     section_id: services-employee-experience
     image_alt: lorem-ipsum
