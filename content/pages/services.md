@@ -1,25 +1,17 @@
 ---
-title: Services
+title: Our Services
 hide_title: false
 sections:
   - section_id: lorem-ipsum
     actions: []
     type: section_hero
-    content: >
+    content: |
       ##### What we offer to move towards your digital tomorrow.
 
-
-      *   [Cloud Smart
-      Strategy](#services-cloud-enablement)
-
-      *   [Employee Experience and
-      Training](#services-employee-experience)
-
-      *   [Agile Project and Work
-      Methods](#services-agile-project-guidance)
-
-      *   [App and Process
-      Modernization](#services-application-modernization)
+      *   [Cloud Smart Strategy](#services-cloud-enablement)
+      *   [Employee Experience and Training](#services-employee-experience)
+      *   [Agile Project and Work Methods](#services-agile-project-guidance)
+      *   [App and Process Modernization](#services-application-modernization)
   - title: Cloud-Smart Strategy
     section_id: services-cloud-enablement
     image_alt: lorem-ipsum
