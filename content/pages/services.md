@@ -33,49 +33,6 @@ sections:
       landscape. Let us prepare you for the digital future. Let's unleash the
       full potential of your company with the right digital transformation
       strategy.
-  - title: Cloud-Smart Strategy
-    section_id: services-cloud-enablement
-    image_alt: lorem-ipsum
-    content: >
-      We combine your requirements and environment with the full Microsoft 365
-      cloud potential of the future. Together, we develop an smart, staged cloud
-      enablement strategy and thus reduce the complexity of your transformation
-      projects.
-
-
-      ##### Microsoft 365 und Azure Infrastructure
-
-
-      *   Strategy and Roadmap
-
-      *   Modern Workplace
-
-      *   Cloud Security
-
-      *   Cloud Infrastructure Assessments
-
-
-      ##### Microsoft 365 Trusted Advisor
-
-
-      *   Vision workshops, integral concepts and holistic advisory
-
-      *   Guidance in the transition to new types of operating models
-
-      *   Technical change advisory
-
-
-      ##### Work Journey and Teamwork
-
-
-      *   Communication and phone system with Microsoft Teams
-
-      *   Use the potential of collaboration effects with Microsoft 365
-
-
-      [Free advisory session on **Cloud-Smart Strategy**: Request appointment
-      ](https://form.asana.com?k=AdlAWEDpqiAikr-o_rKkxA\&d=1200129872637977)
-    type: section_content
   - title: Smart Cloud Strategies
     section_id: lorem-ipsum
     subtitle: >-
