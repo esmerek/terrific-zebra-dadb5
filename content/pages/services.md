@@ -5,13 +5,27 @@ sections:
   - section_id: lorem-ipsum
     actions: []
     type: section_hero
-    content: |
-      ##### What we offer to move towards your digital tomorrow.
+    content: >
+      ## Is your company positioned well for the digital future?
 
-      *   [Cloud Smart Strategy](#services-cloud-enablement)
-      *   [Employee Experience and Training](#services-employee-experience)
-      *   [Agile Project and Work Methods](#services-agile-project-guidance)
-      *   [App and Process Modernization](#services-application-modernization)
+
+      Are you using the full potential of a cloud strategy in your company? Have
+      you increased efficiency in your teams with agile project and work models?
+      Do your employees master the capabilities of your IT programs? Unsure how
+      to answer these questions?
+
+
+      ## Epic Fusion Empowerment
+
+
+      Epic Fusion creates certainty. And increases efficiency. With our integral
+      approach and customized offerings, we guide you through the digital
+      transformation in a targeted manner. Based on your starting position and
+      objectives, we develop a smart cloud strategy, establish agile project and
+      work methods, empower your employees and modernize your app and process
+      landscape. Let us prepare you for the digital future. Let's unleash the
+      full potential of your company with the right digital transformation
+      strategy.
   - title: Cloud-Smart Strategy
     section_id: services-cloud-enablement
     image_alt: lorem-ipsum
