@@ -88,17 +88,7 @@ sections:
     grid_items:
       - title: Microsoft Modern Workplace
         image_alt: lorem-ipsum
-        content: >-
-          ## Lorem ipsum
-
-
-          Lorem ipsum dolor sit amet, **consectetur adipiscing elit**, sed do
-          eiusmod tempor incididunt ut labore et dolore magna aliqua.
-
-
-          - Lorem ipsum
-
-          - dolor sit amet
+        content: "*   Analysis of your initial infrastructure situation\n\n*   Evaluation and planning of the cloud identity\r\n\n*   Design and implementation of a Modern Workplace\r\n\n*   Optimized use of service potential\r\n\n*   Rollout and training for all employees\n"
         actions: []
         type: grid_item
       - title: Strategy and Advisory
