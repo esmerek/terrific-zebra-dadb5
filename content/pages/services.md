@@ -50,7 +50,7 @@ sections:
         type: grid_item
       - title: Strategy and Advisory
         image_alt: lorem-ipsum
-        content: "*   Design of your cloud strategy and service roadmap\r\n*   Vision workshops with integrated concepts and advise\r\n<!---->\n\n*   Support for change management and change processes\r\n\n*   Technical change advisory on the M365 platform\r\n\n*   Focused guidance through the digital transformation of your company\n"
+        content: "*   Design of your cloud strategy and service roadmap\r\n*   Vision workshops with integrated concepts and advise\r\n*   Support for change management and change processes\r\n\n*   Technical change advisory on the M365 platform\r\n\n*   Focused guidance through the digital transformation of your company\n"
         actions: []
         type: grid_item
       - title: Teamwork and Communication
