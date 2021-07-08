@@ -4,7 +4,7 @@ hide_title: false
 sections:
   - section_id: lorem-ipsum
     actions:
-      - label: Digitize they business
+      - label: Digitize your business
         url: '#'
         style: link
         icon: dribbble
