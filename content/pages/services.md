@@ -45,12 +45,12 @@ sections:
     grid_items:
       - title: Microsoft Modern Workplace
         image_alt: lorem-ipsum
-        content: "*   Analysis of your initial infrastructure situation\n\n*   Evaluation and planning of the cloud identity\r\n\n*   Design and implementation of a Modern Workplace\r\n\n*   Optimized use of service potential\r\n\n*   Rollout and training for all employees\n"
+        content: "*   Analysis of your initial infrastructure situation\r\n*   Evaluation and planning of the cloud identity\r\n*   Design and implementation of a Modern Workplace\r\n*   Optimized use of service potential\r\n*   Rollout and training for all employees\n"
         actions: []
         type: grid_item
       - title: Strategy and Advisory
         image_alt: lorem-ipsum
-        content: "*   Design of your cloud strategy and service roadmap\n\n*   Vision workshops with integrated concepts and advise\n\n<!---->\n\n*   Support for change management and change processes\r\n\n*   Technical change advisory on the M365 platform\r\n\n*   Focused guidance through the digital transformation of your company\n"
+        content: "*   Design of your cloud strategy and service roadmap\r\n*   Vision workshops with integrated concepts and advise\r\n*   Support for change management and change processes\r\n*   Technical change advisory on the M365 platform\r\n*   Focused guidance through the digital transformation of your company\n"
         actions: []
         type: grid_item
       - title: Teamwork and Communication
