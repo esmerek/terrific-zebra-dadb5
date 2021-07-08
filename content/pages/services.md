@@ -78,7 +78,11 @@ sections:
     type: section_content
   - title: Smart Cloud Strategies
     section_id: lorem-ipsum
-    subtitle: lorem-ipsum
+    subtitle: >-
+      Epic Fusion connects your requirements and constraints with the full
+      Microsoft 365 cloud potential of the future. Together, we develop an
+      intelligent, phase-by-phase cloud enablement strategy. In this way, we
+      reduce complexity while maintaining the same resources.
     col_number: three
     is_numbered: false
     grid_items: []
