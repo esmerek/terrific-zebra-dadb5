@@ -76,6 +76,13 @@ sections:
       [Free advisory session on **Cloud-Smart Strategy**: Request appointment
       ](https://form.asana.com?k=AdlAWEDpqiAikr-o_rKkxA\&d=1200129872637977)
     type: section_content
+  - title: lorem-ipsum
+    section_id: lorem-ipsum
+    subtitle: lorem-ipsum
+    col_number: three
+    is_numbered: false
+    grid_items: []
+    type: section_grid
   - title: Employee Experience and Training
     section_id: services-employee-experience
     image_alt: lorem-ipsum
