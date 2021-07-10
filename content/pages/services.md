@@ -113,17 +113,12 @@ sections:
     grid_items:
       - title: Employee Experience
         image_alt: lorem-ipsum
-        content: >-
-          ## Lorem ipsum
+        content: |
+          *   Empowering your employees in a focused way with the right strategy
 
+          *   Holistic concepts for an excellent work experience
 
-          Lorem ipsum dolor sit amet, **consectetur adipiscing elit**, sed do
-          eiusmod tempor incididunt ut labore et dolore magna aliqua.
-
-
-          - Lorem ipsum
-
-          - dolor sit amet
+          *   Implementation of supporting communication tools and solutions
         actions: []
         type: grid_item
       - title: User Adoption
