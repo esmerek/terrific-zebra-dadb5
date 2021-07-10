@@ -59,7 +59,7 @@ sections:
         actions: []
         type: grid_item
     type: section_grid
-  - title: lorem-ipsum
+  - title: Agile Projekt- und Arbeitsformen
     section_id: lorem-ipsum
     subtitle: lorem-ipsum
     col_number: three
