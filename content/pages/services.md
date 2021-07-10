@@ -125,11 +125,8 @@ sections:
         image_alt: lorem-ipsum
         content: |
           *   Advice on innovative user adoption approaches
-
           *   Establishment of fresh user adoption methods
-
           *   Guidance on interactive self-service learning portals
-
           *   Integrating solutions into existing communication processes
         actions: []
         type: grid_item
@@ -138,13 +135,10 @@ sections:
         content: >
           *   Educationally designed and individual IT training programs
 
-
           *   Trainings with experienced, certified training leaders
-
 
           *   Interactive approaches with the highest level of employee
           participation
-
 
           *   Individual and independent on any software products
         actions: []
