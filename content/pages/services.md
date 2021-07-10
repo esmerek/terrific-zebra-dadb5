@@ -102,7 +102,12 @@ sections:
     type: section_grid
   - title: Employee Experience and IT-Training
     section_id: lorem-ipsum
-    subtitle: lorem-ipsum
+    subtitle: >-
+      For a successful shift to continuous change, the integration of people,
+      culture and technology is essential. Epic Fusion focuses on hands-on
+      solutions that improve your employees' day-to-day work and simplify the
+      way they work. Let's create the foundation for a vibrant learning culture
+      in your organization together.
     col_number: three
     is_numbered: false
     grid_items: []
