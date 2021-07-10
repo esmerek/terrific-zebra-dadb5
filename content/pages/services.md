@@ -152,7 +152,11 @@ sections:
     type: section_grid
   - title: App and Process Modernization
     section_id: lorem-ipsum
-    subtitle: lorem-ipsum
+    subtitle: >-
+      New ideas and impactful change need space. Epic Fusion guides you in the
+      breakup of outdated legacy applications and processes. With holistic
+      approaches, we create a modern, accessible and integrated solution for
+      your company based on Microsoft Azure.
     col_number: three
     is_numbered: false
     grid_items: []
