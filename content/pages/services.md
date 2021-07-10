@@ -115,9 +115,7 @@ sections:
         image_alt: lorem-ipsum
         content: |
           *   Empowering your employees in a focused way with the right strategy
-
           *   Holistic concepts for an excellent work experience
-
           *   Implementation of supporting communication tools and solutions
         actions: []
         type: grid_item
