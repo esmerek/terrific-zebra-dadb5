@@ -126,7 +126,7 @@ sections:
           - dolor sit amet
         actions: []
         type: grid_item
-      - title: lorem-ipsum
+      - title: User Adoption
         image_alt: lorem-ipsum
         content: >-
           ## Lorem ipsum
