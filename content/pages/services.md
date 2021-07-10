@@ -123,17 +123,14 @@ sections:
         type: grid_item
       - title: User Adoption
         image_alt: lorem-ipsum
-        content: >-
-          ## Lorem ipsum
+        content: |
+          *   Advice on innovative user adoption approaches
 
+          *   Establishment of fresh user adoption methods
 
-          Lorem ipsum dolor sit amet, **consectetur adipiscing elit**, sed do
-          eiusmod tempor incididunt ut labore et dolore magna aliqua.
+          *   Guidance on interactive self-service learning portals
 
-
-          - Lorem ipsum
-
-          - dolor sit amet
+          *   Integrating solutions into existing communication processes
         actions: []
         type: grid_item
       - title: Education & Training
