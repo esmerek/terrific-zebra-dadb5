@@ -62,12 +62,11 @@ sections:
   - title: Agile Project and Work Methods
     section_id: lorem-ipsum
     subtitle: >-
-      Agile Arbeitsformen bedeuten einen Lernprozess. Epic Fusion schafft die
-      notwendigen Voraussetzungen, um die Agilität in Ihrem Unternehmen
-      schrittweise zu etablieren. Das Ziel: Ihre Arbeitskultur und
-      Projektmethodik langfristig stärken. Ob Scrum, Kanban oder
-      selbstorganisierte Teams – Epic Fusion steht Ihren Mitarbeitenden
-      kompetent zur Seite.
+      Agile work practices mean a learning process. Epic Fusion creates the
+      necessary environment to establish agility in your company step by step.
+      The goal: to empower your work culture and project methodology in the long
+      term. Whether Scrum, Kanban or self-organized teams - Epic Fusion provides
+      qualified support for your employees.
     col_number: three
     is_numbered: false
     grid_items:
