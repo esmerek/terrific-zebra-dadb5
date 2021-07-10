@@ -13,11 +13,6 @@
                 "style": "link"
             },
             {
-                "label": "Values",
-                "url": "/values/",
-                "style": "link"
-            },
-            {
                 "label": "About",
                 "url": "/about/",
                 "style": "link"
