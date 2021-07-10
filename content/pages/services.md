@@ -150,41 +150,6 @@ sections:
         actions: []
         type: grid_item
     type: section_grid
-  - title: Employee Experience and Training
-    section_id: services-employee-experience
-    image_alt: lorem-ipsum
-    content: >
-      The foundation for a successful shift to continuous transformation is the
-      integration of people, culture and technology. We are not reinventing the
-      wheel. But we unite to create holistic, simple and easy solutions that
-      every employee loves.
-
-
-      > Don't reduce your employees to "users"
-
-
-      Do not reduce your most valuable asset, your employees who work for your
-      organization every day, to "users". Rather, empower them to collaborate
-      and take initiative in a partnership approach.
-
-
-      With our concept of employee experience, we set the foundation for a
-      healthy cultural change for new ways of working and concepts to supplement
-      our transformation projects.
-
-
-      We care about real Workplace Wellbeeing. Would you like to learn more?
-
-
-      #### Learn more: Free advisory session!
-
-
-      [Request appointment
-      ](https://form.asana.com?k=AdlAWEDpqiAikr-o_rKkxA\&d=1200129872637977)
-
-
-      [](https://terrific-zebra-dadb5.netlify.app/services/)
-    type: section_content
   - title: App and Process Modernization
     section_id: services-application-modernization
     image_alt: lorem-ipsum
