@@ -59,7 +59,7 @@ sections:
         actions: []
         type: grid_item
     type: section_grid
-  - title: 'Agile project '
+  - title: Agile Project and Work Methods
     section_id: lorem-ipsum
     subtitle: >-
       Agile Arbeitsformen bedeuten einen Lernprozess. Epic Fusion schafft die
