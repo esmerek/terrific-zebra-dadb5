@@ -135,17 +135,18 @@ sections:
         type: grid_item
       - title: Education & Training
         image_alt: lorem-ipsum
-        content: >-
-          ## Lorem ipsum
+        content: >
+          *   Educationally designed and individual IT training programs
 
 
-          Lorem ipsum dolor sit amet, **consectetur adipiscing elit**, sed do
-          eiusmod tempor incididunt ut labore et dolore magna aliqua.
+          *   Trainings with experienced, certified training leaders
 
 
-          - Lorem ipsum
+          *   Interactive approaches with the highest level of employee
+          participation
 
-          - dolor sit amet
+
+          *   Individual and independent on any software products
         actions: []
         type: grid_item
     type: section_grid
