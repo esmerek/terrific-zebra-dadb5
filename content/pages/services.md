@@ -59,87 +59,120 @@ sections:
         actions: []
         type: grid_item
     type: section_grid
-  - title: Employee Experience and Training
-    section_id: services-employee-experience
-    image_alt: lorem-ipsum
-    content: >
-      The foundation for a successful shift to continuous transformation is the
-      integration of people, culture and technology. We are not reinventing the
-      wheel. But we unite to create holistic, simple and easy solutions that
-      every employee loves.
+  - title: Agile Project and Work Methods
+    section_id: lorem-ipsum
+    subtitle: >-
+      Agile work practices mean a learning process. Epic Fusion creates the
+      necessary environment to establish agility in your company step by step.
+      The goal: to empower your work culture and project methodology in the long
+      term. Whether Scrum, Kanban or self-organized teams - Epic Fusion provides
+      qualified support for your employees.
+    col_number: three
+    is_numbered: false
+    grid_items:
+      - title: Agile Projects
+        image_alt: lorem-ipsum
+        content: |
+          *   Project management and support
+          *   Assisting with Scrum or Kanban roles in the project
+          *   Transformation of legacy projects into agile mode
+          *   Establishment of hybrid project models
+        actions: []
+        type: grid_item
+      - title: Coaching
+        image_alt: lorem-ipsum
+        content: |
+          *   Agile kickstarter workshops
+          *   Coaching "Transition from manage to facilitate"
+          *   Review of existing methods and practices
+          *   Trainings on Scrum, Kanban and self-organized teams
+        actions: []
+        type: grid_item
+      - title: Hybrid Work
+        image_alt: lorem-ipsum
+        content: "*   Approaches and support for remote and hybrid work\r\n*   Making the needs of teams and people in the virtual world a reality\r\n*   Consulting on effective and meaningful meetings\r\n*   Workshops to reflect on existing work models\n"
+        actions: []
+        type: grid_item
+    type: section_grid
+  - title: Employee Experience and IT-Training
+    section_id: lorem-ipsum
+    subtitle: >-
+      For a successful shift to continuous change, the integration of people,
+      culture and technology is essential. Epic Fusion focuses on hands-on
+      solutions that improve your employees' day-to-day work and simplify the
+      way they work. Let's create the foundation for a vibrant learning culture
+      in your organization together.
+    col_number: three
+    is_numbered: false
+    grid_items:
+      - title: Employee Experience
+        image_alt: lorem-ipsum
+        content: |
+          *   Empowering your employees in a focused way with the right strategy
+          *   Holistic concepts for an excellent work experience
+          *   Implementation of supporting communication tools and solutions
+        actions: []
+        type: grid_item
+      - title: User Adoption
+        image_alt: lorem-ipsum
+        content: |
+          *   Advice on innovative user adoption approaches
+          *   Establishment of fresh user adoption methods
+          *   Guidance on interactive self-service learning portals
+          *   Integrating solutions into existing communication processes
+        actions: []
+        type: grid_item
+      - title: Education & Training
+        image_alt: lorem-ipsum
+        content: >
+          *   Educationally designed and individual IT training programs
 
+          *   Trainings with experienced, certified training leaders
 
-      > Don't reduce your employees to "users"
+          *   Interactive approaches with the highest level of employee
+          participation
 
-
-      Do not reduce your most valuable asset, your employees who work for your
-      organization every day, to "users". Rather, empower them to collaborate
-      and take initiative in a partnership approach.
-
-
-      With our concept of employee experience, we set the foundation for a
-      healthy cultural change for new ways of working and concepts to supplement
-      our transformation projects.
-
-
-      We care about real Workplace Wellbeeing. Would you like to learn more?
-
-
-      #### Learn more: Free advisory session!
-
-
-      [Request appointment
-      ](https://form.asana.com?k=AdlAWEDpqiAikr-o_rKkxA\&d=1200129872637977)
-
-
-      [](https://terrific-zebra-dadb5.netlify.app/services/)
-    type: section_content
-  - title: Agile Project and Work Methods Guidance
-    section_id: services-agile-project-guidance
-    image_alt: lorem-ipsum
-    content: >
-      Together we organize a powerful team. We establish guidance and the ideal
-      environment to serve your needs in an iterative, value-oriented and
-      continously improving way.
-
-
-      > If you adopt only one agile practice let it be retrospectives.
-      Everything else will follow.
-
-
-      In a VUCA world like we are experiencing these days, agile methodologies
-      are more important than ever.
-
-
-      #### Learn more: Free advisory session!
-
-
-      [Request appointment
-      ](https://form.asana.com?k=AdlAWEDpqiAikr-o_rKkxA\&d=1200129872637977)
-    type: section_content
+          *   Individual and independent on any software products
+        actions: []
+        type: grid_item
+    type: section_grid
   - title: App and Process Modernization
-    section_id: services-application-modernization
-    image_alt: lorem-ipsum
-    content: >
-      For modernization, we build the foundation with a process assessment. This
-      is the basis for refactoring, a new UI/UX design and a DevOps operating
-      model. We squeeze value of out the data given.
+    section_id: lorem-ipsum
+    subtitle: >-
+      New ideas and impactful change need space. Epic Fusion guides you in the
+      breakup of outdated legacy applications and processes. With holistic
+      approaches, we create a modern, accessible and integrated solution for
+      your company based on Microsoft Azure.
+    col_number: three
+    is_numbered: false
+    grid_items:
+      - title: Design Thinking
+        image_alt: lorem-ipsum
+        content: >
+          *   Solving problems and developing new ideas with design thinking
+          approach
 
+          *   Consultancy and support for digital solutions
 
-      > The goal is to turn data into information, and information into insight.
+          *   Concept and design thinking workshops
 
-
-      We assist in rethinking processes and creating a basis for application
-      modernization. By purposefully reflecting on existing processes and
-      information, we realign the insights into the existing business data.
-
-
-      #### Learn more: Free advisory session!
-
-
-      [Request appointment
-      ](https://form.asana.com?k=AdlAWEDpqiAikr-o_rKkxA\&d=1200129872637977)
-    type: section_content
+          *   Potential analysis and assessments
+        actions: []
+        type: grid_item
+      - title: Microsoft Azure
+        image_alt: lorem-ipsum
+        content: |
+          *   Fully integrated solutions with Microsoft Azure Web
+          *   Workflow integration of Azure Functions and Logic Apps
+          *   Connecting Line of Business applications
+        actions: []
+        type: grid_item
+      - title: Power Platform and Power BI
+        image_alt: lorem-ipsum
+        content: "*   Process automation with Microsoft Power Automate\r\n*   Easily scalable mini-apps for your employees\r\n*   Real-time data visualization with Microsoft Power BI\n"
+        actions: []
+        type: grid_item
+    type: section_grid
 seo:
   title: Services - Epic Fusion GmbH
   description: >-
