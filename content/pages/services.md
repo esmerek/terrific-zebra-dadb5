@@ -190,7 +190,7 @@ sections:
           - dolor sit amet
         actions: []
         type: grid_item
-      - title: Power Plattform and Power BI
+      - title: Power Platform and Power BI
         image_alt: lorem-ipsum
         content: >-
           ## Lorem ipsum
