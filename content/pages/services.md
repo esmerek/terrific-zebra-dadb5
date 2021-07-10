@@ -142,29 +142,6 @@ sections:
 
       [](https://terrific-zebra-dadb5.netlify.app/services/)
     type: section_content
-  - title: Agile Project and Work Methods Guidance
-    section_id: services-agile-project-guidance
-    image_alt: lorem-ipsum
-    content: >
-      Together we organize a powerful team. We establish guidance and the ideal
-      environment to serve your needs in an iterative, value-oriented and
-      continously improving way.
-
-
-      > If you adopt only one agile practice let it be retrospectives.
-      Everything else will follow.
-
-
-      In a VUCA world like we are experiencing these days, agile methodologies
-      are more important than ever.
-
-
-      #### Learn more: Free advisory session!
-
-
-      [Request appointment
-      ](https://form.asana.com?k=AdlAWEDpqiAikr-o_rKkxA\&d=1200129872637977)
-    type: section_content
   - title: App and Process Modernization
     section_id: services-application-modernization
     image_alt: lorem-ipsum
