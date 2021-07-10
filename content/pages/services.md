@@ -150,7 +150,7 @@ sections:
         actions: []
         type: grid_item
     type: section_grid
-  - title: lorem-ipsum
+  - title: App and Process Modernization
     section_id: lorem-ipsum
     subtitle: lorem-ipsum
     col_number: three
