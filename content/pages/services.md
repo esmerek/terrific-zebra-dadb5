@@ -141,7 +141,7 @@ sections:
           - dolor sit amet
         actions: []
         type: grid_item
-      - title: lorem-ipsum
+      - title: Education & Training
         image_alt: lorem-ipsum
         content: >-
           ## Lorem ipsum
