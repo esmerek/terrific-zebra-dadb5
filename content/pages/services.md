@@ -162,17 +162,18 @@ sections:
     grid_items:
       - title: Design Thinking
         image_alt: lorem-ipsum
-        content: >-
-          ## Lorem ipsum
+        content: >
+          *   Solving problems and developing new ideas with design thinking
+          approach
 
 
-          Lorem ipsum dolor sit amet, **consectetur adipiscing elit**, sed do
-          eiusmod tempor incididunt ut labore et dolore magna aliqua.
+          *   Consultancy and support for digital solutions
 
 
-          - Lorem ipsum
+          *   Concept and design thinking workshops
 
-          - dolor sit amet
+
+          *   Potential analysis and assessments
         actions: []
         type: grid_item
       - title: Microsoft Azure
