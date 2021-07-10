@@ -166,12 +166,9 @@ sections:
           *   Solving problems and developing new ideas with design thinking
           approach
 
-
           *   Consultancy and support for digital solutions
 
-
           *   Concept and design thinking workshops
-
 
           *   Potential analysis and assessments
         actions: []
@@ -180,9 +177,7 @@ sections:
         image_alt: lorem-ipsum
         content: |
           *   Fully integrated solutions with Microsoft Azure Web
-
           *   Workflow integration of Azure Functions and Logic Apps
-
           *   Connecting Line of Business applications
         actions: []
         type: grid_item
