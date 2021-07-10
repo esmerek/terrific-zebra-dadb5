@@ -192,29 +192,6 @@ sections:
         actions: []
         type: grid_item
     type: section_grid
-  - title: App and Process Modernization
-    section_id: services-application-modernization
-    image_alt: lorem-ipsum
-    content: >
-      For modernization, we build the foundation with a process assessment. This
-      is the basis for refactoring, a new UI/UX design and a DevOps operating
-      model. We squeeze value of out the data given.
-
-
-      > The goal is to turn data into information, and information into insight.
-
-
-      We assist in rethinking processes and creating a basis for application
-      modernization. By purposefully reflecting on existing processes and
-      information, we realign the insights into the existing business data.
-
-
-      #### Learn more: Free advisory session!
-
-
-      [Request appointment
-      ](https://form.asana.com?k=AdlAWEDpqiAikr-o_rKkxA\&d=1200129872637977)
-    type: section_content
 seo:
   title: Services - Epic Fusion GmbH
   description: >-
