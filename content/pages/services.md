@@ -72,17 +72,14 @@ sections:
     grid_items:
       - title: Agile Projects
         image_alt: lorem-ipsum
-        content: >-
-          ## Lorem ipsum
+        content: |
+          *   Project management and support
 
+          *   Assisting with Scrum or Kanban roles in the project
 
-          Lorem ipsum dolor sit amet, **consectetur adipiscing elit**, sed do
-          eiusmod tempor incididunt ut labore et dolore magna aliqua.
+          *   Transformation of legacy projects into agile mode
 
-
-          - Lorem ipsum
-
-          - dolor sit amet
+          *   Establishment of hybrid project models
         actions: []
         type: grid_item
       - title: Coaching
