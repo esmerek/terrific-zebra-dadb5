@@ -178,17 +178,12 @@ sections:
         type: grid_item
       - title: Microsoft Azure
         image_alt: lorem-ipsum
-        content: >-
-          ## Lorem ipsum
+        content: |
+          *   Fully integrated solutions with Microsoft Azure Web
 
+          *   Workflow integration of Azure Functions and Logic Apps
 
-          Lorem ipsum dolor sit amet, **consectetur adipiscing elit**, sed do
-          eiusmod tempor incididunt ut labore et dolore magna aliqua.
-
-
-          - Lorem ipsum
-
-          - dolor sit amet
+          *   Connecting Line of Business applications
         actions: []
         type: grid_item
       - title: Power Platform and Power BI
