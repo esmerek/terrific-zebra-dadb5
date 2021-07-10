@@ -188,7 +188,7 @@ sections:
         type: grid_item
       - title: Power Platform and Power BI
         image_alt: lorem-ipsum
-        content: "*   Process automation with Microsoft Power Automate\r\n\n*   Easily scalable mini-apps for your employees\r\n\n*   Real-time data visualization with Microsoft Power BI\n"
+        content: "*   Process automation with Microsoft Power Automate\r\n*   Easily scalable mini-apps for your employees\r\n*   Real-time data visualization with Microsoft Power BI\n"
         actions: []
         type: grid_item
     type: section_grid
