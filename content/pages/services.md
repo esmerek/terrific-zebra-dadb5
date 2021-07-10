@@ -96,17 +96,7 @@ sections:
         type: grid_item
       - title: Hybrid Work
         image_alt: lorem-ipsum
-        content: >-
-          ## Lorem ipsum
-
-
-          Lorem ipsum dolor sit amet, **consectetur adipiscing elit**, sed do
-          eiusmod tempor incididunt ut labore et dolore magna aliqua.
-
-
-          - Lorem ipsum
-
-          - dolor sit amet
+        content: "*   Approaches and support for remote and hybrid work\r\n\n*   Making the needs of teams and people in the virtual world a reality\r\n\n*   Consulting on effective and meaningful meetings\r\n\n*   Workshops to reflect on existing work models\n"
         actions: []
         type: grid_item
     type: section_grid
