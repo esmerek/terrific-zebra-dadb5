@@ -84,17 +84,14 @@ sections:
         type: grid_item
       - title: Coaching
         image_alt: lorem-ipsum
-        content: >-
-          ## Lorem ipsum
+        content: |
+          *   Agile kickstarter workshops
 
+          *   Coaching "Transition from manage to facilitate"
 
-          Lorem ipsum dolor sit amet, **consectetur adipiscing elit**, sed do
-          eiusmod tempor incididunt ut labore et dolore magna aliqua.
+          *   Review of existing methods and practices
 
-
-          - Lorem ipsum
-
-          - dolor sit amet
+          *   Trainings on Scrum, Kanban and self-organized teams
         actions: []
         type: grid_item
       - title: Hybrid Work
