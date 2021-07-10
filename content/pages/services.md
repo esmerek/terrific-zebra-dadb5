@@ -74,11 +74,8 @@ sections:
         image_alt: lorem-ipsum
         content: |
           *   Project management and support
-
           *   Assisting with Scrum or Kanban roles in the project
-
           *   Transformation of legacy projects into agile mode
-
           *   Establishment of hybrid project models
         actions: []
         type: grid_item
@@ -86,11 +83,8 @@ sections:
         image_alt: lorem-ipsum
         content: |
           *   Agile kickstarter workshops
-
           *   Coaching "Transition from manage to facilitate"
-
           *   Review of existing methods and practices
-
           *   Trainings on Scrum, Kanban and self-organized teams
         actions: []
         type: grid_item
