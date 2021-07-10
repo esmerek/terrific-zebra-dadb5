@@ -90,7 +90,7 @@ sections:
         type: grid_item
       - title: Hybrid Work
         image_alt: lorem-ipsum
-        content: "*   Approaches and support for remote and hybrid work\r\n\n*   Making the needs of teams and people in the virtual world a reality\r\n\n*   Consulting on effective and meaningful meetings\r\n\n*   Workshops to reflect on existing work models\n"
+        content: "*   Approaches and support for remote and hybrid work\r\n*   Making the needs of teams and people in the virtual world a reality\r\n*   Consulting on effective and meaningful meetings\r\n*   Workshops to reflect on existing work models\n"
         actions: []
         type: grid_item
     type: section_grid
