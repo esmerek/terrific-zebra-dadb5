@@ -147,7 +147,7 @@ sections:
       grow. We are a team committed to common goals and celebrating success
       together.
     type: section_content
-  - title: lorem-ipsum
+  - title: Become part of our team?
     section_id: lorem-ipsum
     content: >-
       ## Lorem ipsum
