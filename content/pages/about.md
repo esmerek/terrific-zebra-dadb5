@@ -1,5 +1,5 @@
 ---
-title: About
+title: About Epic Fusion
 subtitle: >-
   We catalyze digital transformation with values and purpose to create impact on
   people and society
