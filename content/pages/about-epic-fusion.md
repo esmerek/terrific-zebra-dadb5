@@ -153,7 +153,7 @@ sections:
       Do you share our values, principles and daily work? Would you like to be a
       part of Epic Fusion? Then let's get started.
     actions:
-      - label: lorem-ipsum
+      - label: Pack your suitcase.
         url: '#'
         style: link
         icon: dribbble
