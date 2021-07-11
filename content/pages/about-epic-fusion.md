@@ -127,15 +127,11 @@ sections:
 
       1.  "We over Me"
 
-
       2.  "Purpose over Profits"
-
 
       3.  "Progress over Perfection"
 
-
       4.  "Learn-It over Know-It"
-
 
       5.  "Experiment over Certainity"
 
