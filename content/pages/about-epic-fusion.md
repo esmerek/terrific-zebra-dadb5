@@ -81,17 +81,12 @@ sections:
         type: grid_item
       - title: lorem-ipsum
         image_alt: lorem-ipsum
-        content: >-
-          ## Lorem ipsum
-
-
-          Lorem ipsum dolor sit amet, **consectetur adipiscing elit**, sed do
-          eiusmod tempor incididunt ut labore et dolore magna aliqua.
-
-
-          - Lorem ipsum
-
-          - dolor sit amet
+        content: >
+          Epic Fusion creates space for a culture of learning. We are convinced:
+          With passion and perseverance, talents and skills can be strongly
+          developed. Sustainable growth can only be achieved if we continuously
+          improve. That is why we continuously question the status quo and stay
+          up to date.
         actions: []
         type: grid_item
       - title: lorem-ipsum
