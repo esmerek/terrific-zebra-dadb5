@@ -1,6 +1,5 @@
 ---
 title: About Epic Fusion
-image: images/epic-fusion-thin.png
 image_alt: A man taking a picture
 seo:
   title: About - Epic Fusion GmbH
