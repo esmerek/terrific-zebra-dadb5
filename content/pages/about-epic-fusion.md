@@ -72,17 +72,11 @@ sections:
         type: grid_item
       - title: Passion
         image_alt: lorem-ipsum
-        content: >-
-          ## Lorem ipsum
-
-
-          Lorem ipsum dolor sit amet, **consectetur adipiscing elit**, sed do
-          eiusmod tempor incididunt ut labore et dolore magna aliqua.
-
-
-          - Lorem ipsum
-
-          - dolor sit amet
+        content: >
+          Passion is our daily motivation. We focus on the work for which our
+          heart beats. Work that unleashes people's potential. This is how we
+          achieve a lasting impact for ourselves and our customers. We live the
+          principle "Do it with passion or not at all".
         actions: []
         type: grid_item
     type: section_grid
