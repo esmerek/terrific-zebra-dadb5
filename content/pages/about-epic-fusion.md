@@ -15,7 +15,7 @@ sections:
     type: section_hero
   - title: Our Story
     section_id: lorem-ipsum
-    subtitle: lorem-ipsum
+    subtitle: Epic Fusion is where digital first meets human.
     image_alt: lorem-ipsum
     content: >-
       ## Lorem ipsum
