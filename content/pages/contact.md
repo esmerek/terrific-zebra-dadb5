@@ -13,7 +13,7 @@ sections:
       Tel. +41 31 511 60 00 | hello@epicfusion.com
 
 
-      \*\*How can we serve?\*\*
+      **How can we serve**
 
 
       We are pleased to help. Please send us directly an email at
