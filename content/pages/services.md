@@ -176,9 +176,8 @@ sections:
 seo:
   title: Digital Transformation Offerings | Epic Fusion
   description: >-
-    What we offer to move towards your digital tomorrow. Learn more on Cloud
-    Enablement, Employee Experience, Agile Project Guidance and Application
-    Modernization.
+    Digital transformation planned? Cloud Strategy - Agile Processes - IT
+    Training - Microsoft 365 + Azure ✓ Schedule a free call with Epic Fusion.
   robots: []
   extra: []
   type: stackbit_page_meta
