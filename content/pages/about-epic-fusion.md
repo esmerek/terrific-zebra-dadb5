@@ -110,7 +110,7 @@ sections:
         actions: []
         type: grid_item
     type: section_grid
-  - title: lorem-ipsum
+  - title: Our Daily Work
     section_id: lorem-ipsum
     subtitle: lorem-ipsum
     image_alt: lorem-ipsum
