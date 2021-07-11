@@ -185,6 +185,13 @@ seo:
       value: Digital Transformation Offerings | Epic Fusion
       keyName: property
       relativeUrl: false
+    - name: 'twitter:description'
+      value: >-
+        Digital transformation planned? Cloud Strategy • Agile Practices • IT
+        Training • Microsoft 365 + Azure ✓ Schedule a free call with Epic Fusion
+        today.
+      keyName: name
+      relativeUrl: false
   type: stackbit_page_meta
 layout: advanced
 ---
