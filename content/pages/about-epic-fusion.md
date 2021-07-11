@@ -47,7 +47,10 @@ sections:
     type: section_content
   - title: Our values and principles
     section_id: lorem-ipsum
-    subtitle: lorem-ipsum
+    subtitle: >-
+      Behind Epic Fusion are passionate people. As a team, we are committed to
+      common values. This is how we achieve sustainable added value for our
+      customers, partners and society.
     col_number: three
     is_numbered: false
     grid_items: []
