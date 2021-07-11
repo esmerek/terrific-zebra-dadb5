@@ -152,7 +152,14 @@ sections:
     content: >
       Do you share our values, principles and daily work? Would you like to be a
       part of Epic Fusion? Then let's get started.
-    actions: []
+    actions:
+      - label: lorem-ipsum
+        url: '#'
+        style: link
+        icon: dribbble
+        new_window: false
+        no_follow: false
+        type: action
     type: section_hero
 seo:
   title: ''
