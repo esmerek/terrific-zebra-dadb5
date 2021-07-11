@@ -69,7 +69,7 @@ sections:
           - dolor sit amet
         actions: []
         type: grid_item
-      - title: Collective
+      - title: Community
         image_alt: lorem-ipsum
         content: >-
           ## Lorem ipsum
