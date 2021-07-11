@@ -56,17 +56,10 @@ sections:
     grid_items:
       - title: Equality
         image_alt: lorem-ipsum
-        content: >-
-          ## Lorem ipsum
-
-
-          Lorem ipsum dolor sit amet, **consectetur adipiscing elit**, sed do
-          eiusmod tempor incididunt ut labore et dolore magna aliqua.
-
-
-          - Lorem ipsum
-
-          - dolor sit amet
+        content: >
+          Equality and diversity are Epic Fusion's solid core values. We build
+          and foster a diverse team of people in all walks of life. Our
+          interactions are founded on compassion and respect for one another.
         actions: []
         type: grid_item
       - title: Community
