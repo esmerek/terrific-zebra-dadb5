@@ -174,7 +174,7 @@ sections:
         type: grid_item
     type: section_grid
 seo:
-  title: Services - Epic Fusion GmbH
+  title: Digital Transformation Offerings | Epic Fusion
   description: >-
     What we offer to move towards your digital tomorrow. Learn more on Cloud
     Enablement, Employee Experience, Agile Project Guidance and Application
