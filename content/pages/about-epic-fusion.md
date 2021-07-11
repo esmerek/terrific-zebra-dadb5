@@ -45,7 +45,7 @@ sections:
       team structuring. We share our experience and expertise with you, guiding
       you safely and purposefully through the digital transformation.
     type: section_content
-  - title: lorem-ipsum
+  - title: Our values and principles
     section_id: lorem-ipsum
     subtitle: lorem-ipsum
     col_number: three
