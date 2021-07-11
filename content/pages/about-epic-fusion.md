@@ -112,7 +112,7 @@ sections:
     type: section_grid
   - title: Our Daily Work
     section_id: lorem-ipsum
-    subtitle: lorem-ipsum
+    subtitle: Collective Digital First at Epic Fusion
     image_alt: lorem-ipsum
     content: >-
       ## Lorem ipsum
