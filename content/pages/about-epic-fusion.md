@@ -114,17 +114,38 @@ sections:
     section_id: lorem-ipsum
     subtitle: Collective Digital First at Epic Fusion
     image_alt: lorem-ipsum
-    content: >-
-      ## Lorem ipsum
+    content: >
+      In line with the Digital First devise, we organize ourselves according to
+      innovative ideas and structures. Epic Fusion knows no hierarchy, no bosses
+      and no fixed office workplaces. And no fixed vacations - our employees
+      organize their working and vacation time themselves.
 
 
-      Lorem ipsum dolor sit amet, **consectetur adipiscing elit**, sed do
-      eiusmod tempor incididunt ut labore et dolore magna aliqua.
+      The following five principles guide us to sustainable success in our
+      day-to-day work:
 
 
-      - Lorem ipsum
+      1.  "We over Me"
 
-      - dolor sit amet
+
+      2.  "Purpose over Profits"
+
+
+      3.  "Progress over Perfection"
+
+
+      4.  "Learn-It over Know-It"
+
+
+      5.  "Experiment over Certainity"
+
+
+
+      We are committed to an evolutionary organization of shared authority and
+      collective intelligence. We believe in the power of experimentation and
+      see obstacles as opportunities. This is how we continuously evolve and
+      grow. We are a team committed to common goals and celebrating success
+      together.
     type: section_content
 seo:
   title: ''
