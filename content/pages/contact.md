@@ -4,8 +4,8 @@ hide_title: false
 sections:
   - section_id: lorem-ipsum
     content: >
-      How can we serve? We are pleased to help. Please fill the contact form
-      below or send us directly an email at hello@epicfusion.com.
+      How can we serve? We are pleased to help. Please send us directly an email
+      at hello@epicfusion.com.
     actions:
       - label: Leave a message here
         url: 'https://form.asana.com?k=AdlAWEDpqiAikr-o_rKkxA&d=1200129872637977'
