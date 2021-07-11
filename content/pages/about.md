@@ -1,8 +1,5 @@
 ---
 title: About Epic Fusion
-subtitle: >-
-  We catalyze digital transformation with values and purpose to create impact on
-  people and society
 image: images/epic-fusion-thin.png
 image_alt: A man taking a picture
 seo:
