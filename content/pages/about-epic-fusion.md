@@ -149,17 +149,9 @@ sections:
     type: section_content
   - title: Become part of our team?
     section_id: lorem-ipsum
-    content: >-
-      ## Lorem ipsum
-
-
-      Lorem ipsum dolor sit amet, **consectetur adipiscing elit**, sed do
-      eiusmod tempor incididunt ut labore et dolore magna aliqua.
-
-
-      - Lorem ipsum
-
-      - dolor sit amet
+    content: >
+      Do you share our values, principles and daily work? Would you like to be a
+      part of Epic Fusion? Then let's get started.
     actions: []
     type: section_hero
 seo:
