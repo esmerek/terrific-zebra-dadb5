@@ -79,7 +79,7 @@ sections:
           principle "Do it with passion or not at all".
         actions: []
         type: grid_item
-      - title: lorem-ipsum
+      - title: Learning
         image_alt: lorem-ipsum
         content: >
           Epic Fusion creates space for a culture of learning. We are convinced:
