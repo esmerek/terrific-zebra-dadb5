@@ -64,17 +64,10 @@ sections:
         type: grid_item
       - title: Community
         image_alt: lorem-ipsum
-        content: >-
-          ## Lorem ipsum
-
-
-          Lorem ipsum dolor sit amet, **consectetur adipiscing elit**, sed do
-          eiusmod tempor incididunt ut labore et dolore magna aliqua.
-
-
-          - Lorem ipsum
-
-          - dolor sit amet
+        content: >
+          As a collective of dedicated, holistic thinkers with a customer- and
+          solution-oriented focus, there are no limits to what we can achieve.
+          We don't let ego get in the way of meaningful growth.
         actions: []
         type: grid_item
       - title: Passion
