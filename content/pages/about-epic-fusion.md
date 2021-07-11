@@ -99,7 +99,7 @@ sections:
           take responsibility.
         actions: []
         type: grid_item
-      - title: lorem-ipsum
+      - title: Gratitude
         image_alt: lorem-ipsum
         content: >-
           ## Lorem ipsum
