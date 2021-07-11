@@ -6,14 +6,7 @@ sections:
     content: >
       How can we serve? We are pleased to help. Please send us directly an email
       at hello@epicfusion.com.
-    actions:
-      - label: Leave a message here
-        url: 'https://form.asana.com?k=AdlAWEDpqiAikr-o_rKkxA&d=1200129872637977'
-        style: button
-        icon: dribbble
-        new_window: true
-        no_follow: false
-        type: action
+    actions: []
     type: section_hero
 seo:
   title: Contact - Epic Fusion GmbH
