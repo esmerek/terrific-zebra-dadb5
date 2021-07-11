@@ -17,17 +17,33 @@ sections:
     section_id: lorem-ipsum
     subtitle: Epic Fusion is where digital first meets human.
     image_alt: lorem-ipsum
-    content: >-
-      ## Lorem ipsum
+    content: >
+      Epic Fusion is a digital-first team. We connect New Work ideas with
+      high-value solutions. That's how we enable true, digital transformation.
+      Our credo: No Excuses. We live the digital future ourselves, creating more
+      space for us as people.
 
 
-      Lorem ipsum dolor sit amet, **consectetur adipiscing elit**, sed do
-      eiusmod tempor incididunt ut labore et dolore magna aliqua.
+      In today's globally networked markets, digitalization is increasingly
+      entering all areas of our lives. Tasks are increasingly being replaced by
+      automation and artificial intelligence. This results not only in
+      simplifications and improvements, but also in increasing complexity and a
+      lack of orientation.
 
 
-      - Lorem ipsum
+      For Epic Fusion, it is therefore essential to leverage human potential in
+      its uniqueness. Social skills such as empathy, creativity and innovation
+      cannot be replaced with artificial intelligence. However, we should
+      question the organization of teams and ways of working. What motivates
+      employees? How do we strengthen trust? What happens when teams regulate
+      themselves instead of being controlled by others? With the right answers,
+      unimagined potential can be activated.
 
-      - dolor sit amet
+
+      To unleash such potential, Epic Fusion creates solutions around the
+      digital workplace of the future. From technology to ways of working to
+      team structuring. We share our experience and expertise with you, guiding
+      you safely and purposefully through the digital transformation.
     type: section_content
 seo:
   title: ''
