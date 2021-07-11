@@ -176,7 +176,7 @@ sections:
 seo:
   title: Digital Transformation Offerings | Epic Fusion
   description: >-
-    Digital transformation planned? Cloud Strategy - Agile Processes - IT
+    Digital transformation planned? Cloud Strategy • Agile Practise • IT
     Training - Microsoft 365 + Azure ✓ Schedule a free call with Epic Fusion.
   robots: []
   extra: []
