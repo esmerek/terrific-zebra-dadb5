@@ -4,8 +4,20 @@ hide_title: false
 sections:
   - section_id: lorem-ipsum
     content: >
-      How can we serve? We are pleased to help. Please send us directly an email
-      at hello@epicfusion.com.
+      **Adress**
+
+
+      Epic Fusion GmbH, Kranichweg 2, CH-3074 Muri b. Bern
+
+
+      Tel. +41 31 511 60 00 | hello@epicfusion.com
+
+
+      **How can we serve? **
+
+
+      We are pleased to help. Please send us directly an email at
+      hello@epicfusion.com.
     actions: []
     type: section_hero
 seo:
