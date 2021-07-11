@@ -91,17 +91,12 @@ sections:
         type: grid_item
       - title: Empathy
         image_alt: lorem-ipsum
-        content: >-
-          ## Lorem ipsum
-
-
-          Lorem ipsum dolor sit amet, **consectetur adipiscing elit**, sed do
-          eiusmod tempor incididunt ut labore et dolore magna aliqua.
-
-
-          - Lorem ipsum
-
-          - dolor sit amet
+        content: >
+          We gain experience and insight from disagreements and the exchange of
+          new, even controversial ideas. Epic Fusion lives the philosophy
+          "Strong opinions, weakly held". With empathetic feedback, we learn,
+          grow and strengthen our characters. We stand up for our actions and
+          take responsibility.
         actions: []
         type: grid_item
       - title: lorem-ipsum
