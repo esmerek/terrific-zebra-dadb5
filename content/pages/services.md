@@ -180,7 +180,11 @@ seo:
     Training • Microsoft 365 + Azure ✓ Schedule a free call with Epic Fusion
     today.
   robots: []
-  extra: []
+  extra:
+    - name: 'og:title'
+      value: Digital Transformation Offerings | Epic Fusion
+      keyName: property
+      relativeUrl: false
   type: stackbit_page_meta
 layout: advanced
 ---
