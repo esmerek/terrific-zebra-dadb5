@@ -154,8 +154,8 @@ sections:
       part of Epic Fusion? Then let's get started.
     actions:
       - label: Pack your suitcase.
-        url: '#'
-        style: link
+        url: /contact
+        style: button
         icon: dribbble
         new_window: false
         no_follow: false
