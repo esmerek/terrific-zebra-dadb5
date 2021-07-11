@@ -101,17 +101,12 @@ sections:
         type: grid_item
       - title: Gratitude
         image_alt: lorem-ipsum
-        content: >-
-          ## Lorem ipsum
-
-
-          Lorem ipsum dolor sit amet, **consectetur adipiscing elit**, sed do
-          eiusmod tempor incididunt ut labore et dolore magna aliqua.
-
-
-          - Lorem ipsum
-
-          - dolor sit amet
+        content: >
+          What an epic privilege! We are grateful for the luck and freedom to
+          actively practice our values and principles. Our employees fulfill
+          meaningful work. We carry the Epic Fusion mindset beyond projects to
+          our clients and friends. And in doing so, give back a sense of
+          positivity to everyone.
         actions: []
         type: grid_item
     type: section_grid
